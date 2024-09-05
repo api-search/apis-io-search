@@ -1,5 +1,5 @@
 # APIs.io Search API (apis-io)
-The API contract for the APIs.io API search API, providing all of the details used to manage the API, providing the manifest for everything that has happened throughout the lifecycle of this API over time.
+This is the API contract for the APIs.io API search API, providing all of the details used to manage the API, providing the manifest for everything that has happened throughout the lifecycle of this API over time.
 
 The [APIs.json](https://github.com/api-search/search-api/blob/main/apis.yml) for APIs.io Search API is using version 0.18 of the [specification](https://apisjson.org), which is used to auto generate this README, and automate other parts of automation for the API.
 
@@ -140,29 +140,61 @@ APIs, Search Engine, Directory
     </tr>     
 </table>
 
-Contact APIs.io at info@apis.io 
-
 ### Common Properties
-
-  # Workspaces
-  - type: GitHubOrganization
-    url: https://github.com/api-search/ 
-
-  - type: PostmanWorkspace
-    url: https://www.postman.com/api-evangelist/apis-io/overview
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>GitHub Organization</td>
+        <td>The overall organization that an API is part of for the domain.</td>
+        <td align="center"><a href="https://github.com/api-search/ " align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Postman Workspace</td>
+        <td>The dedicated Postman workspace for working with the API.</td>
+        <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>     
+</table>
 
   # Onboarding
-  - type: Portal
-    url: https://developer.apis.io
-
-  - type: GettingStarted
-    url: 'https://developer.apis.io/getting-started/'  
-
-  - type: Plans
-    url: 'https://developer.apis.io/plans/'         
-
-  - type: Authentication
-    url: 'https://developer.apis.io/authentication/'            
+  <table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Portal</td>
+        <td>The dedicated portal where you will find and common supporting resources.</td>
+        <td align="center"><a href="https://developer.apis.io" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Getting Started</td>
+        <td>Information regarding each step required in getting started with API.</td>
+        <td align="center"><a href="https://developer.apis.io/getting-started/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Plans</td>
+        <td>The plans, resources, features, and rate limits for consuming the API.</td>
+        <td align="center"><a href="https://developer.apis.io/plans/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Authentication</td>
+        <td>How consumers will be authenticating with an API when using in application.</td>
+        <td align="center"><a href="https://developer.apis.io/authentication/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>            
+</table>
 
   # Change
   - type: RoadMap
