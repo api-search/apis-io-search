@@ -91,7 +91,7 @@ APIs, Search Engine, Directory
 #### Managing Change
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/change-log.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/change-logs.png" width="40"></td>
         <td>ChangeLog</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td align="center"><a href="hhttps://github.com/api-search/search-api/labels/change-log" align="center">URL</a></td>
@@ -99,7 +99,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/road-map.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
         <td>RoadMap</td>
          <td>A list of the planned changes to an API that will be coming in the future.</td>
         <td align="center"><a href="https://github.com/api-search/search-api/labels/road-map" align="center">URL</a></td>
@@ -151,7 +151,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/postman-workspaces.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/postman-workspace.png" width="40"></td>
         <td>Postman Workspace</td>
         <td>The dedicated Postman workspace for working with the API.</td>
         <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
@@ -160,10 +160,10 @@ APIs, Search Engine, Directory
     </tr>     
 </table>
 
-  # Onboarding
-  <table style="width: 100%">
+### Onboarding
+<table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/portal.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/portals.png" width="40"></td>
         <td>Portal</td>
         <td>The dedicated portal where you will find and common supporting resources.</td>
         <td align="center"><a href="https://developer.apis.io" align="center">URL</a></td>
@@ -196,65 +196,158 @@ APIs, Search Engine, Directory
     </tr>            
 </table>
 
-  # Change
-  - type: RoadMap
-    url: https://developer.apis.io/road-map/
+### Managing Overall Change
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/change-logs.png" width="40"></td>
+        <td>ChangeLog</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/road-map/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>
+    <tr>
+        <td><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
+        <td>RoadMap</td>
+         <td>A list of the planned changes to an API that will be coming in the future.</td>
+        <td align="center"><a href="https://developer.apis.io/change-log/  " align="center">URL</a></td>
+        <td align="center"><a href="https://search-api.apis.io">Policy</a></td>
+        <td align="center"><a href="https://search-api.apis.io">Guidance</a></td>
+    </tr>    
+</table>
 
-  - type: ChangeLog
-    url: https://developer.apis.io/change-log/                             
+### Code
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/sdks.png" width="40"></td>
+        <td>SDKs</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/sdks/   " align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+</table>
 
-  # Code
-  - type: SDKs
-    url: https://developer.apis.io/sdks/                                          
+### Communication
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/blogs.png" width="40"></td>
+        <td>Blog</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/blog/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/feeds.png" width="40"></td>
+        <td>BlogFeed</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/atom.xml" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/videos.png" width="40"></td>
+        <td>Videos</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/videos/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>          
+</table>
 
-  # Monitors
-  - type: Monitor
-    url: 'https://api-evangelist.postman.co/workspace/APIs.io-Private~a91b6fa0-9b59-4330-bec4-bf87c30b853a/monitor/Testing-Uptime---APIs-io-Search~1ee42164-0de2-4c80-b9a6-257e30c42c9e'
+### Support / Feedback Loop
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/forums.png" width="40"></td>
+        <td>Forums</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://github.com/orgs/api-search/discussions" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/support.png" width="40"></td>
+        <td>Support</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/support/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/issues.png" width="40"></td>
+        <td>Issues</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://github.com/api-search/developer-portal/issues" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr> 
+    <tr>
+        <td><img src="https://apievangelist.com/images/email.png" width="40"></td>
+        <td>Email</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="info@apievangelist.com" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>              
+</table>
 
-  # Communication
-  - type: Blog
-    url: 'https://developer.apis.io/blog/' 
+### Governance
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/policies.png" width="40"></td>
+        <td>Policies</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/policies.yml" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/rules.png" width="40"></td>
+        <td>ApisJsonRules</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/apis-json-rules.yml" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/rules.png" width="40"></td>
+        <td>OpenApiRules</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/openapi-rules.yml" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr> 
+    <tr>
+        <td><img src="https://apievangelist.com/images/lifecycle.png" width="40"></td>
+        <td>Lifecycle</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/api-lifecycle.yml" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>              
+</table>
 
-  - type: BlogFeed
-    url: 'https://developer.apis.io/atom.xml'
+### Legal
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/terms-of-service.png" width="40"></td>
+        <td>Terms Of Service</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/terms-of-service/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>   
+    <tr>
+        <td><img src="https://apievangelist.com/images/privacy-policy.png" width="40"></td>
+        <td>Privacy Policy</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="https://developer.apis.io/privacy-policy/" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>                
+</table>
 
-  - type: Videos
-    url: 'https://developer.apis.io/videos/'   
-
-  # Support / Feedback Loop
-  - type: Forums
-    url: 'https://github.com/orgs/api-search/discussions'
-
-  - type: Support
-    url: 'https://developer.apis.io/support/''
-
-  - type: Issues
-    url: 'https://github.com/api-search/developer-portal/issues' 
-
-  - type: Email
-    url: 'info@apievangelist.com'
-
-  # Governance
-  - type: Policies
-    url: https://developer.apis.io/policies.yml
-
-  - type: ApisJsonRules
-    url:  https://developer.apis.io/apis-json-rules.yml
-
-  - type: OpenApiRules
-    url: https://developer.apis.io/openapi-rules.yml  
-
-  - type: Lifecycle
-    url: https://developer.apis.io/api-lifecycle.yml
-
-  # Legal
-  - type: TermsOfService
-    url: 'https://developer.apis.io/terms-of-service/'  
-    
-  - type: PrivacyPolicy
-    url: 'https://developer.apis.io/privacy-policy/' 
-                       
-    
 maintainers:
 
   - FN: Kin Lane
