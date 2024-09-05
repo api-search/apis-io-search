@@ -19,15 +19,15 @@ APIs, Search Engine, Directory
 #### Default URLs
 <table style="width: 100%">
     <tr>
-        <td width="15%">Human URL</td>
-        <td width="40%">The default landing page for human visitors of an API.</td>
+        <td width="20%">Human URL</td>
+        <td width="35%">The default landing page for human visitors of an API.</td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td width="15%">Base URL</td>
-        <td width="40%">The base url for applications make calls to an API.</td>
+        <td width="20%">Base URL</td>
+        <td width="35%">The base url for applications make calls to an API.</td>
         <td width="15%" align="center"><a href="https://search-api.apis.io" align="center">URL</a></td>
         <td width="15%" align="center"><a href="https://search-api.apis.io">Policy</a></td>
         <td width="15%" align="center"><a href="https://search-api.apis.io">Guidance</a></td>
@@ -37,15 +37,15 @@ APIs, Search Engine, Directory
 #### Source of Truth
 <table style="width: 100%">
     <tr>
-        <td width="15%">GitHub Repository</td>
-        <td width="40%">The repository for managing everything about the API.</td>
+        <td width="20%">GitHub Repository</td>
+        <td width="35%">The repository for managing everything about the API.</td>
         <td width="15%" align="center"><a href="https://github.com/api-search/search-api    " align="center">URL</a></td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td width="15%">GitHub Action</td>
-         <td width="40%">The pipeline used to automate the deploying of the API.</td>
+        <td width="20%">GitHub Action</td>
+         <td width="35%">The pipeline used to automate the deploying of the API.</td>
         <td width="15%" align="center"><a href="https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml " align="center">URL</a></td>
         <td width="15%" align="center"><a href="https://search-api.apis.io">Policy</a></td>
         <td width="15%" align="center"><a href="https://search-api.apis.io">Guidance</a></td>
