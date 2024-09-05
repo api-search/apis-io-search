@@ -52,10 +52,16 @@ APIs, Search Engine, Directory
     </tr>    
 </table>
 
-
 #### Documentation for API
-
-- Documentation: https://developer.apis.io/documentation/
+<table style="width: 100%">
+    <tr>
+        <td width="20%">Documentation</td>
+        <td width="35%">The repository for managing everything about the API.</td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/documentation/" align="center">URL</a></td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+</table>
 
 #### Technical Contract
 
