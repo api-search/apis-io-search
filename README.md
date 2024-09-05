@@ -19,7 +19,7 @@ APIs, Search Engine, Directory
 #### Default URLs
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/human-url.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/human-url.png" width="40"></td>
         <td>Human URL</td>
         <td>The default landing page for human visitors of an API.</td>
         <td align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
@@ -27,7 +27,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/base-url.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/base-url.png" width="40"></td>
         <td>Base URL</td>
         <td>The base url for applications make calls to an API.</td>
         <td align="center"><a href="https://search-api.apis.io" align="center">URL</a></td>
@@ -39,7 +39,7 @@ APIs, Search Engine, Directory
 #### Source of Truth
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/repositories.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/repositories.png" width="40"></td>
         <td>GitHub Repository</td>
         <td>The repository for managing everything about the API.</td>
         <td align="center"><a href="https://github.com/api-search/search-api    " align="center">URL</a></td>
@@ -47,7 +47,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/actions.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/actions.png" width="40"></td>
         <td>GitHub Action</td>
          <td>The pipeline used to automate the deploying of the API.</td>
         <td align="center"><a href="https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml " align="center">URL</a></td>
@@ -59,7 +59,7 @@ APIs, Search Engine, Directory
 #### Documentation for API
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/documentation.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/documentation.png" width="40"></td>
         <td>Documentation</td>
         <td>The documentation for understand how to use the API.</td>
         <td align="center"><a href="https://developer.apis.io/documentation/" align="center">URL</a></td>
@@ -71,7 +71,7 @@ APIs, Search Engine, Directory
 #### Technical Contract
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
         <td>OpenAPI</td>
         <td>The machine-readable OpenAPI contract for the API.</td>
         <td align="center"><a href="https://developer.apis.io/openapi" align="center">URL</a></td>
@@ -79,7 +79,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/collection.png" width="50"></td>
+        <td><img src="https://apievangelist.com/images/collection.png" width="40"></td>
         <td>Postman Collection</td>
          <td>An executable Postman Collection for working with the API.</td>
         <td align="center"><a href="https://developer.apis.io/postman-collection/" align="center">URL</a></td>
@@ -89,18 +89,56 @@ APIs, Search Engine, Directory
 </table>
 
 #### Managing Change
-
-- ChangeLog: https://github.com/api-search/search-api/labels/change-log
-- RoadMap: https://github.com/api-search/search-api/labels/road-map
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>ChangeLog</td>
+        <td>A list of the changes that have occurred to each version of an API.</td>
+        <td align="center"><a href="hhttps://github.com/api-search/search-api/labels/change-log" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>
+    <tr>
+        <td><img src="https://apievangelist.com/images/collection.png" width="40"></td>
+        <td>RoadMap</td>
+         <td>A list of the planned changes to an API that will be coming in the future.</td>
+        <td align="center"><a href="https://github.com/api-search/search-api/labels/road-map" align="center">URL</a></td>
+        <td align="center"><a href="https://search-api.apis.io">Policy</a></td>
+        <td align="center"><a href="https://search-api.apis.io">Guidance</a></td>
+    </tr>    
+</table>
 
 #### Business Alignment
-
-- UseCases: https://github.com/api-search/search-api/blob/main/use-cases.yml
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Use Cases</td>
+        <td>The who, what, how, why, and where of consumers using the API.</td>
+        <td align="center"><a href="https://github.com/api-search/search-api/blob/main/use-cases.yml" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+</table>
 
 #### Reliability
-
-- StatusPage: https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Status~1ef6bc29-9da9-4040-b98b-cef03be1155e              
-- Performance: https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503
+<table style="width: 100%">
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Status Page</td>
+        <td>The dedicated page that monitors the status of the API availability.</td>
+        <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Status~1ef6bc29-9da9-4040-b98b-cef03be1155e" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>  
+    <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td>Performance</td>
+        <td>The dedicated page that monitors the performance of each API.</td>
+        <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>     
+</table>
 
 Contact APIs.io at info@apis.io 
 
