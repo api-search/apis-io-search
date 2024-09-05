@@ -56,7 +56,7 @@ APIs, Search Engine, Directory
 <table style="width: 100%">
     <tr>
         <td width="20%">Documentation</td>
-        <td width="35%">The repository for managing everything about the API.</td>
+        <td width="35%">The documentation for understand how to use the API.</td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation/" align="center">URL</a></td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
@@ -64,9 +64,22 @@ APIs, Search Engine, Directory
 </table>
 
 #### Technical Contract
-
-- OpenAPI: https://developer.apis.io/openapi
-- PostmanCollection: https://developer.apis.io/postman-collection/   
+<table style="width: 100%">
+    <tr>
+        <td width="20%">OpenAPI</td>
+        <td width="35%">The machine-readable OpenAPI contract for the API.</td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/openapi" align="center">URL</a></td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>
+    <tr>
+        <td width="20%">Postman Collection</td>
+         <td width="35%">An executable Postman Collection for working with the API.</td>
+        <td width="15%" align="center"><a href="https://developer.apis.io/postman-collection/" align="center">URL</a></td>
+        <td width="15%" align="center"><a href="https://search-api.apis.io">Policy</a></td>
+        <td width="15%" align="center"><a href="https://search-api.apis.io">Guidance</a></td>
+    </tr>    
+</table>
 
 #### Managing Change
 
