@@ -49,6 +49,9 @@ apis:
       - type: PostmanCollection
         url: https://developer.apis.io/postman-collection/   
 
+      - type: GitHubAction
+        url: https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml
+
       - type: ChangeLog
         url: https://github.com/api-search/search-api/labels/change-log
 
