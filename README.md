@@ -19,12 +19,12 @@ APIs, Search Engine, Directory
 #### Default URLs
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/human-url.png" width="40"></td>
-        <td>Human URL</td>
-        <td>The default landing page for human visitors of an API.</td>
-        <td align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
-        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+        <td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="40"></td>
+        <td width="20%">Human URL</td>
+        <td width="40%">The default landing page for human visitors of an API.</td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
         <td><img src="https://apievangelist.com/images/base-url.png" width="40"></td>
@@ -39,12 +39,12 @@ APIs, Search Engine, Directory
 #### Source of Truth
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/repositories.png" width="40"></td>
-        <td>GitHub Repository</td>
-        <td>The repository for managing everything about the API.</td>
-        <td align="center"><a href="https://github.com/api-search/search-api    " align="center">URL</a></td>
-        <td align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-        <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+        <td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="40"></td>
+        <td width="20%">GitHub Repository</td>
+        <td width="40%">The repository for managing everything about the API.</td>
+        <td width="10%" align="center"><a href="https://github.com/api-search/search-api    " align="center">URL</a></td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
         <td><img src="https://apievangelist.com/images/actions.png" width="40"></td>
