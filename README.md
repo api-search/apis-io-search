@@ -13,26 +13,41 @@ These are the APIs that are contained within this Contract APIs.json.
 ### APIs.io Search API (apis-io:search-api)
 This is the API to access APIs.io API search engine, from the product management perspective.
 
+#### Default URLs
 <table style="width: 100%">
     <tr>
-        <td width="50%">Human URL</td>
-        <td width="25%" align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
-        <td width="25%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+        <td width="40%">Human URL</td>
+        <td width="20%" align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
+        <td width="20%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="20%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td width="50%">Base URL</td>
-        <td width="25%" align="center"><a href="https://search-api.apis.io">URL</a></td>
-        <td width="25%" align="center"><a href="https://search-api.apis.io">Guidance</a></td>
-    </tr>
+        <td width="40%">Base URL</td>
+        <td width="20%" align="center"><a href="https://search-api.apis.io" align="center">URL</a></td>
+        <td width="20%" align="center"><a href="https://search-api.apis.io">Policy</a></td>
+        <td width="20%" align="center"><a href="https://search-api.apis.io">Guidance</a></td>
+    </tr>    
 </table>
     
 > [!Tags]
 > APIs, Search Engine, Directory
     
 #### Source of Truth
+<table style="width: 100%">
+    <tr>
+        <td width="40%">GitHub Repository</td>
+        <td width="20%" align="center"><a href="https://github.com/api-search/search-api    " align="center">URL</a></td>
+        <td width="20%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="20%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>
+    <tr>
+        <td width="40%">GitHub Action</td>
+        <td width="20%" align="center"><a href="https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml " align="center">URL</a></td>
+        <td width="20%" align="center"><a href="https://search-api.apis.io">Policy</a></td>
+        <td width="20%" align="center"><a href="https://search-api.apis.io">Guidance</a></td>
+    </tr>    
+</table>
 
-- GitHubRepository: https://github.com/api-search/search-api    
-- GitHubAction: https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml        
 
 #### Documentation for API
 
