@@ -91,7 +91,7 @@ APIs, Search Engine, Directory
 #### Managing Change
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/change-log.png" width="40"></td>
         <td>ChangeLog</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td align="center"><a href="hhttps://github.com/api-search/search-api/labels/change-log" align="center">URL</a></td>
@@ -99,7 +99,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/collection.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/road-map.png" width="40"></td>
         <td>RoadMap</td>
          <td>A list of the planned changes to an API that will be coming in the future.</td>
         <td align="center"><a href="https://github.com/api-search/search-api/labels/road-map" align="center">URL</a></td>
@@ -111,7 +111,7 @@ APIs, Search Engine, Directory
 #### Business Alignment
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/use-cases.png" width="40"></td>
         <td>Use Cases</td>
         <td>The who, what, how, why, and where of consumers using the API.</td>
         <td align="center"><a href="https://github.com/api-search/search-api/blob/main/use-cases.yml" align="center">URL</a></td>
@@ -123,7 +123,7 @@ APIs, Search Engine, Directory
 #### Reliability
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/status.png" width="40"></td>
         <td>Status Page</td>
         <td>The dedicated page that monitors the status of the API availability.</td>
         <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Status~1ef6bc29-9da9-4040-b98b-cef03be1155e" align="center">URL</a></td>
@@ -131,7 +131,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/performance.png" width="40"></td>
         <td>Performance</td>
         <td>The dedicated page that monitors the performance of each API.</td>
         <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
@@ -143,7 +143,7 @@ APIs, Search Engine, Directory
 ### Common Properties
 <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/github-organization.png" width="40"></td>
         <td>GitHub Organization</td>
         <td>The overall organization that an API is part of for the domain.</td>
         <td align="center"><a href="https://github.com/api-search/ " align="center">URL</a></td>
@@ -151,7 +151,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/postman-workspaces.png" width="40"></td>
         <td>Postman Workspace</td>
         <td>The dedicated Postman workspace for working with the API.</td>
         <td align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
@@ -163,7 +163,7 @@ APIs, Search Engine, Directory
   # Onboarding
   <table style="width: 100%">
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/portal.png" width="40"></td>
         <td>Portal</td>
         <td>The dedicated portal where you will find and common supporting resources.</td>
         <td align="center"><a href="https://developer.apis.io" align="center">URL</a></td>
@@ -171,7 +171,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/getting-started.png" width="40"></td>
         <td>Getting Started</td>
         <td>Information regarding each step required in getting started with API.</td>
         <td align="center"><a href="https://developer.apis.io/getting-started/" align="center">URL</a></td>
@@ -179,7 +179,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/plans.png" width="40"></td>
         <td>Plans</td>
         <td>The plans, resources, features, and rate limits for consuming the API.</td>
         <td align="center"><a href="https://developer.apis.io/plans/" align="center">URL</a></td>
@@ -187,7 +187,7 @@ APIs, Search Engine, Directory
         <td align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/authentication.png" width="40"></td>
         <td>Authentication</td>
         <td>How consumers will be authenticating with an API when using in application.</td>
         <td align="center"><a href="https://developer.apis.io/authentication/" align="center">URL</a></td>
