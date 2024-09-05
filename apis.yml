@@ -1,0 +1,157 @@
+---
+aid: apis-io
+specificationVersion: '0.18'
+
+type: Contract
+
+name: APIs.io
+description: This is the platform API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API.
+
+image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
+
+tags:
+
+  - APIs
+  - Search Engine
+  - Directory
+
+created: '2024-08-20'
+modified: '2024-09-05'  
+
+url: hhttps://github.com/api-search/search-api/blob/main/apis.yml
+
+apis:
+
+  - aid: apis-io:search-api
+    name: APIs.io Search API
+    description: This is the API to access APIs.io API search engine, from the product management perspective.
+    image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
+    humanURL: https://developer.apis.io/documentation
+    baseURL: https://search-api.apis.io    
+    
+    tags:
+    
+      - APIs
+      - Search Engine
+      - Directory
+    
+    properties:
+
+      - type: GitHubRepository
+        url: https://github.com/api-search/search-api    
+
+      - type: Documentation
+        url: https://developer.apis.io/documentation/
+
+      - type: OpenAPI
+        url: https://developer.apis.io/openapi
+
+      - type: PostmanCollection
+        url: https://developer.apis.io/postman-collection/   
+
+      - type: ChangeLog
+        url: https://github.com/api-search/search-api/labels/change-log
+
+      - type: RoadMap
+        url: https://github.com/api-search/search-api/labels/road-map
+
+      - type: UseCases
+        url: https://github.com/api-search/search-api/blob/main/use-cases.yml
+
+      - type: StatusPage
+        url: http://example.com/status-page                
+
+      - type: Performance
+        url: http://example.com/performance  
+
+    contact:
+
+      - FN: APIs.io
+        email: info@apis.io 
+
+common:
+
+  # Workspaces
+  - type: GitHubOrganization
+    url: https://github.com/api-search/ 
+
+  - type: PostmanWorkspace
+    url: https://www.postman.com/api-evangelist/apis-io/overview
+
+  # Onboarding
+  - type: Portal
+    url: https://developer.apis.io
+
+  - type: GettingStarted
+    url: 'https://developer.apis.io/getting-started/'  
+
+  - type: Plans
+    url: 'https://developer.apis.io/plans/'         
+
+  - type: Authentication
+    url: 'https://developer.apis.io/authentication/'            
+
+  # Change
+  - type: RoadMap
+    url: https://developer.apis.io/road-map/
+
+  - type: ChangeLog
+    url: https://developer.apis.io/change-log/                             
+
+  # Code
+  - type: SDKs
+    url: https://developer.apis.io/sdks/                                          
+
+  # Monitors
+  - type: Monitor
+    url: 'https://api-evangelist.postman.co/workspace/APIs.io-Private~a91b6fa0-9b59-4330-bec4-bf87c30b853a/monitor/Testing-Uptime---APIs-io-Search~1ee42164-0de2-4c80-b9a6-257e30c42c9e'
+
+  # Communication
+  - type: Blog
+    url: 'https://developer.apis.io/blog/' 
+
+  - type: BlogFeed
+    url: https://developer.apis.io/atom.xml  
+
+  - type: Videos
+    url: 'https://developer.apis.io/videos/'   
+
+  # Support / Feedback Loop
+  - type: Forums
+    url: https://github.com/orgs/api-search/discussions
+
+  - type: Support
+    url: https://developer.apis.io/support/    
+
+  - type: Issues
+    url: 'https://github.com/api-search/developer-portal/issues' 
+
+  - type: Email
+    url: 'info@apievangelist.com'
+
+  # Governance
+  - type: Policies
+    url: https://developer.apis.io/policies.yml
+
+  - type: ApisJsonRules
+    url:  https://developer.apis.io/apis-json-rules.yml
+
+  - type: OpenApiRules
+    url: https://developer.apis.io/openapi-rules.yml  
+
+  - type: Lifecycle
+    url: https://developer.apis.io/api-lifecycle.yml
+
+  # Legal
+  - type: TermsOfService
+    url: 'https://developer.apis.io/terms-of-service/'  
+    
+  - type: PrivacyPolicy
+    url: 'https://developer.apis.io/privacy-policy/' 
+                       
+    
+maintainers:
+
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    X-github: kinlane

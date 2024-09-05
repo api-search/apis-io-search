@@ -1,0 +1,8 @@
+- who: APIs.io Website Developer
+  what: Open-Source API Search Engine
+  how: Client-Side Javascript Calls
+  why: Power the Network Websites
+  where: Static GitHub Pages Websites
+  description: This is the initial and primary use case for APIs.io website. We are basically creating this API to power the website, but acknowledge there will be other use cases that emerge down the road.
+  operations:
+    - operationId
