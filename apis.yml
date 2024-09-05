@@ -37,33 +37,43 @@ apis:
     
     properties:
 
+      # Source of Truth
       - type: GitHubRepository
         url: https://github.com/api-search/search-api    
+      
+      # Pipeline
+      - type: GitHubAction
+        url: https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml        
 
+      # Human Readable Documentation
       - type: Documentation
         url: https://developer.apis.io/documentation/
 
+      # Technical Contract
       - type: OpenAPI
         url: https://developer.apis.io/openapi
 
+      # Executable Contract
       - type: PostmanCollection
         url: https://developer.apis.io/postman-collection/   
 
-      - type: GitHubAction
-        url: https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml
-
+      # Change Log
       - type: ChangeLog
         url: https://github.com/api-search/search-api/labels/change-log
 
+      # Road Map
       - type: RoadMap
         url: https://github.com/api-search/search-api/labels/road-map
 
+      # Business Use Cases
       - type: UseCases
         url: https://github.com/api-search/search-api/blob/main/use-cases.yml
 
+      # Status Page
       - type: StatusPage
         url: http://example.com/status-page                
 
+      # Performance
       - type: Performance
         url: http://example.com/performance  
 

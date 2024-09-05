@@ -60,7 +60,7 @@ jobs:
       - name: /search/api get lambda deploy zip
         uses: api-search/search-api@main
         with:
-         args: zip -qq -r m-s-apis-io-searchapis-g.zip paths/search/get/index.js node_modules
+         args: zip -qq -r m-s-apis-io-searchapis-g.zip paths/search/apis/get/index.js node_modules
       - name: search-api get lambda deploy
         uses: appleboy/lambda-action@master
         with:
@@ -72,7 +72,7 @@ jobs:
       - name: /search/api post lambda deploy zip
         uses: api-search/search-api@main
         with:
-           args: zip -qq -r m-s-apis-io-searchapis-po.zip paths/search/post/index.js node_modules
+           args: zip -qq -r m-s-apis-io-searchapis-po.zip paths/search/apis/post/index.js node_modules
       - name: search-api get lambda deploy
         uses: appleboy/lambda-action@master
         with:
