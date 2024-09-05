@@ -19,6 +19,7 @@ APIs, Search Engine, Directory
 #### Default URLs
 <table style="width: 100%">
     <tr>
+        <td><img src="https://apievangelist.com/images/human-url.png" width="50"></td>
         <td width="20%">Human URL</td>
         <td width="35%">The default landing page for human visitors of an API.</td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation" align="center">URL</a></td>
@@ -26,6 +27,7 @@ APIs, Search Engine, Directory
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
+        <td><img src="https://apievangelist.com/images/base-url.png" width="50"></td>
         <td width="20%">Base URL</td>
         <td width="35%">The base url for applications make calls to an API.</td>
         <td width="15%" align="center"><a href="https://search-api.apis.io" align="center">URL</a></td>
@@ -37,6 +39,7 @@ APIs, Search Engine, Directory
 #### Source of Truth
 <table style="width: 100%">
     <tr>
+        <td><img src="https://apievangelist.com/images/repositories.png" width="50"></td>
         <td width="20%">GitHub Repository</td>
         <td width="35%">The repository for managing everything about the API.</td>
         <td width="15%" align="center"><a href="https://github.com/api-search/search-api    " align="center">URL</a></td>
@@ -44,6 +47,7 @@ APIs, Search Engine, Directory
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
+        <td><img src="https://apievangelist.com/images/actions.png" width="50"></td>
         <td width="20%">GitHub Action</td>
          <td width="35%">The pipeline used to automate the deploying of the API.</td>
         <td width="15%" align="center"><a href="https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml " align="center">URL</a></td>
@@ -55,6 +59,7 @@ APIs, Search Engine, Directory
 #### Documentation for API
 <table style="width: 100%">
     <tr>
+        <td><img src="https://apievangelist.com/images/documentation.png" width="50"></td>
         <td width="20%">Documentation</td>
         <td width="35%">The documentation for understand how to use the API.</td>
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation/" align="center">URL</a></td>
@@ -66,6 +71,7 @@ APIs, Search Engine, Directory
 #### Technical Contract
 <table style="width: 100%">
     <tr>
+        <td><img src="https://apievangelist.com/images/openapi.png" width="50"></td>
         <td width="20%">OpenAPI</td>
         <td width="35%">The machine-readable OpenAPI contract for the API.</td>
         <td width="15%" align="center"><a href="https://developer.apis.io/openapi" align="center">URL</a></td>
@@ -73,6 +79,7 @@ APIs, Search Engine, Directory
         <td width="15%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
+        <td><img src="https://apievangelist.com/images/collection.png" width="50"></td>
         <td width="20%">Postman Collection</td>
          <td width="35%">An executable Postman Collection for working with the API.</td>
         <td width="15%" align="center"><a href="https://developer.apis.io/postman-collection/" align="center">URL</a></td>
