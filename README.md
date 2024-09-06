@@ -91,14 +91,14 @@ APIs, Search Engine, Directory
 #### Operations
 <table style="width: 100%">
     <tr>
-        <td width="20%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="60"></td>
-        <td width="20%">/search/apis</td>
-        <td width="60%">Search APIs - Searching across all APIs by keyword or phrase.</td>
+        <td width="20%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td>
+        <td width="30%">/search/apis</td>
+        <td width="50%">Search APIs - Searching across all APIs by keyword or phrase.</td>
     </tr>
     <tr>
-        <td width="20%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="60"></td>
-        <td width="20%">/search/apis</td>
-        <td width="60%">Submit API - Submit a valid APIs.json to be included in APIs.io.</td>
+        <td align="center"><img src="https://apievangelist.com/images/method-post.png" width="60"></td>
+        <td>/search/apis</td>
+        <td>Submit API - Submit a valid APIs.json to be included in APIs.io.</td>
     </tr>   
 </table>
 
