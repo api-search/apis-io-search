@@ -88,6 +88,26 @@ APIs, Search Engine, Directory
     </tr>    
 </table>
 
+#### Operations
+<table style="width: 100%">
+    <tr>
+        <td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="40"></td>
+        <td width="20%">/search/apis</td>
+        <td width="40%">Search APIs - Searching across all APIs by keyword or phrase.</td>
+        <td width="10%" align="center"></td>
+        <td width="10%" align="center"></td>
+        <td width="10%" align="center"></td>
+    </tr>
+    <tr>
+        <td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="40"></td>
+        <td width="20%">/search/apis</td>
+        <td width="40%">Submit API - Submit a valid APIs.json to be included in APIs.io.</td>
+        <td width="10%" align="center"></td>
+        <td width="10%" align="center"></td>
+        <td width="10%" align="center"></td>
+    </tr>   
+</table>
+
 #### Managing Change
 <table style="width: 100%">
     <tr>
