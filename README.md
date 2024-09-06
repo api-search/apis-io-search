@@ -27,7 +27,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/base-url.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/base-url.png" width="40"></td>
         <td>Base URL</td>
         <td>The base url for applications make calls to an API.</td>
         <td width="10%" align="center"><a href="https://search-api.apis.io" align="center">URL</a></td>
@@ -47,7 +47,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/actions.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/actions.png" width="40"></td>
         <td>GitHub Action</td>
          <td>The pipeline used to automate the deploying of the API.</td>
         <td width="10%" align="center"><a href="https://github.com/api-search/search-api/blob/main/.github/workflows/pipeline.yml " align="center">URL</a></td>
@@ -79,7 +79,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/collection.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/collection.png" width="40"></td>
         <td>Postman Collection</td>
          <td>An executable Postman Collection for working with the API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/postman-collection/" align="center">URL</a></td>
@@ -99,7 +99,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
         <td>RoadMap</td>
          <td>A list of the planned changes to an API that will be coming in the future.</td>
         <td width="10%" align="center"><a href="https://github.com/api-search/search-api/labels/road-map" align="center">URL</a></td>
@@ -131,7 +131,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/performance.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/performance.png" width="40"></td>
         <td>Performance</td>
         <td>The dedicated page that monitors the performance of each API.</td>
         <td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
@@ -151,7 +151,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/postman-workspace.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="40"></td>
         <td>Postman Workspace</td>
         <td>The dedicated Postman workspace for working with the API.</td>
         <td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">URL</a></td>
@@ -171,7 +171,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/getting-started.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/getting-started.png" width="40"></td>
         <td>Getting Started</td>
         <td>Information regarding each step required in getting started with API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/getting-started/" align="center">URL</a></td>
@@ -179,7 +179,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/plans.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/plans.png" width="40"></td>
         <td>Plans</td>
         <td>The plans, resources, features, and rate limits for consuming the API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/plans/" align="center">URL</a></td>
@@ -187,7 +187,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>  
     <tr>
-        <td><img src="https://apievangelist.com/images/authentication.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/authentication.png" width="40"></td>
         <td>Authentication</td>
         <td>How consumers will be authenticating with an API when using in application.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/authentication/" align="center">URL</a></td>
@@ -207,7 +207,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
     <tr>
-        <td><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
         <td>RoadMap</td>
          <td>A list of the planned changes to an API that will be coming in the future.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/change-log/  " align="center">URL</a></td>
@@ -239,7 +239,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/blog-feeds.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/blog-feeds.png" width="40"></td>
         <td>BlogFeed</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/atom.xml" align="center">URL</a></td>
@@ -247,7 +247,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/videos.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/videos.png" width="40"></td>
         <td>Videos</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/videos/" align="center">URL</a></td>
@@ -267,7 +267,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/support.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/support.png" width="40"></td>
         <td>Support</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/support/" align="center">URL</a></td>
@@ -275,7 +275,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/issues.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/issues.png" width="40"></td>
         <td>Issues</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://github.com/api-search/developer-portal/issues" align="center">URL</a></td>
@@ -283,7 +283,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr> 
     <tr>
-        <td><img src="https://apievangelist.com/images/email.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/email.png" width="40"></td>
         <td>Email</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="info@apievangelist.com" align="center">URL</a></td>
@@ -303,7 +303,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/rules.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/rules.png" width="40"></td>
         <td>ApisJsonRules</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/apis-json-rules.yml" align="center">URL</a></td>
@@ -311,7 +311,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/rules.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/rules.png" width="40"></td>
         <td>OpenApiRules</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/openapi-rules.yml" align="center">URL</a></td>
@@ -319,7 +319,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr> 
     <tr>
-        <td><img src="https://apievangelist.com/images/lifecycle.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/lifecycle.png" width="40"></td>
         <td>Lifecycle</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/api-lifecycle.yml" align="center">URL</a></td>
@@ -339,7 +339,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/privacy-policy.png" width="40"></td>
+        <td align="center"><img src="https://apievangelist.com/images/privacy-policy.png" width="40"></td>
         <td>Privacy Policy</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/privacy-policy/" align="center">URL</a></td>
