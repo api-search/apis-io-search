@@ -239,7 +239,7 @@ APIs, Search Engine, Directory
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>   
     <tr>
-        <td><img src="https://apievangelist.com/images/feeds.png" width="40"></td>
+        <td><img src="https://apievangelist.com/images/blog-feeds.png" width="40"></td>
         <td>BlogFeed</td>
         <td>A list of the changes that have occurred to each version of an API.</td>
         <td width="10%" align="center"><a href="https://developer.apis.io/atom.xml" align="center">URL</a></td>
