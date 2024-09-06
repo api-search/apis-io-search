@@ -97,7 +97,7 @@ APIs, Search Engine, Directory
         <td width="50%">Searching across all APIs by keyword or phrase.</td>
     </tr>
     <tr>
-        <td align="center"><img src="https://apievangelist.com/images/method-post.png" width="60"></td>
+        <td align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td>
         <td>/search/apis</td>
         <td>Submit API</td>
         <td>Submit a valid APIs.json to be included in APIs.io.</td>
