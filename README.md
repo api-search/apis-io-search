@@ -17,6 +17,7 @@ This is the API to access APIs.io API search engine, from the product management
 APIs, Search Engine, Directory
 
 #### Default URLs
+These are the default URLs for humans to follow, and for using when making API calls.
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="40"></td>
@@ -37,6 +38,7 @@ APIs, Search Engine, Directory
 </table>
     
 #### Source of Truth
+The source of truth for the API contract, conversation, and action around the API.
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="40"></td>
@@ -57,6 +59,7 @@ APIs, Search Engine, Directory
 </table>
 
 #### Documentation for API
+The HTML documentation for viewing all of the resources and capabilities for an API.
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="40"></td>
@@ -69,6 +72,7 @@ APIs, Search Engine, Directory
 </table>
 
 #### Technical Contract
+The machine-readable contracts providing the technical details for the API.
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="40"></td>
@@ -89,6 +93,7 @@ APIs, Search Engine, Directory
 </table>
 
 #### Operations
+All of the individual operations that area available for use with this API.
 <table style="width: 100%">
     <tr>
         <td width="20%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td>
@@ -105,6 +110,7 @@ APIs, Search Engine, Directory
 </table>
 
 #### Managing Change
+The road map and change log for the individual API, managing the change for the API.
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="40"></td>
@@ -125,6 +131,7 @@ APIs, Search Engine, Directory
 </table>
 
 #### Business Alignment
+The use case for aligning the operations with the business uses cases for the API.
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/use-cases.png" width="40"></td>
@@ -156,7 +163,9 @@ APIs, Search Engine, Directory
     </tr>     
 </table>
 
-### Common Properties
+## Common Properties
+
+### Workspaces
 <table style="width: 100%">
     <tr>
         <td width="10%" align="center"><img src="https://apievangelist.com/images/github-organization.png" width="40"></td>
