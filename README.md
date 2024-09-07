@@ -7,9 +7,6 @@ This API contract has APIs, Search Engine, Directory applied as tags to help org
 
 This API contract was originally created on 2024-08-20, and was last modified on 2024-09-05, with 0 days since the last update or modification to API or any issues.
 
-## APIs
-These are the APIs that are contained within this Contract APIs.json.
-
 ### APIs.io Search API (apis-io:search-api)
 This is the API to access APIs.io API search engine, from the product management perspective.
 
@@ -120,6 +117,14 @@ The road map and change log for the individual API, managing the change for the 
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
         <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
     </tr>
+    <tr>
+        <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="40"></td>
+        <td width="20%">Versioning</td>
+        <td width="40%">A list of the changes that have occurred to each version of an API.</td>
+        <td width="10%" align="center"><a href="hhttps://github.com/api-search/search-api/labels/change-log" align="center">URL</a></td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+        <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Guidance</a></td>
+    </tr>    
     <tr>
         <td align="center"><img src="https://apievangelist.com/images/road-maps.png" width="40"></td>
         <td>RoadMap</td>
