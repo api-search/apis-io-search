@@ -244,14 +244,6 @@
 
 <table width="100%">
 <tr>
-<th><img width="441" height="1"></th>
-<th><img width="441" height="1"></th>
-<th><img width="441" height="1"></th>
-<th><img width="441" height="1"></th>
-<th><img width="441" height="1"></th>
-<th><img width="441" height="1"></th>
-</tr>
-<tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="25"></td>
 <td width="30%"><strong>GitHub Repository</strong></td>
 <td width="30%" style="color: #228B22;"></td>
@@ -307,6 +299,14 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/repositories/readme.html">Guidance</a></td>
 </tr>
+<tr>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+</tr>
 </table>
 <h2>APIs Are Always Aligned with Business</h2>
 
@@ -361,6 +361,14 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/why.html">Guidance</a></td>
 </tr>
+<tr>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+</tr>
 </table>
 <h2>APIs Are Always Documented</h2>
 
@@ -414,6 +422,14 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/documentation/schema.html">Guidance</a></td>
+</tr>
+<tr>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
+<th><img width="441" height="1"></th>
 </tr>
 </table>
 <h2>Operations</h2>
