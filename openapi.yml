@@ -2,8 +2,8 @@ openapi: '3.1.0'
  
 info:
 
-  title: APIs.io Search API
-  description: 'This is the search API for the APIs.io search engine.'
+  title: Technical Contract for the APIs.io Search API
+  description: 'This is the technical API contract for the search API for the APIs.io search engine.' 
   version: 0.1.0
 
   contact:

@@ -4,8 +4,8 @@ specificationVersion: '0.18'
 
 type: Contract
 
-name: APIs.io Search API
-description: This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API.
+name: API Contract for the APIs.io Search API
+description: This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API. 
 
 image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
 
@@ -134,7 +134,7 @@ common:
     url: 'https://github.com/orgs/api-search/discussions'
 
   - type: Support
-    url: 'https://developer.apis.io/support/''
+    url: 'https://developer.apis.io/support/'
 
   - type: Issues
     url: 'https://github.com/api-search/developer-portal/issues' 
