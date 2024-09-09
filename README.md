@@ -1,6 +1,6 @@
 <h2>API Contract for the APIs.io Search API</h2>
 <p>All APIs are defined as API contracts, aligning the business and technology of delivering consistent high quality APIs.</p>
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="25"></td>
 <td width="30%"><strong>Contract Metadata</strong></td>
@@ -102,7 +102,7 @@
 
 <p>All APIs possess metadata that is relevant to what APIs do, but also how they can be used in business by API consumers.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="25"></td>
 <td width="30%"><strong>API Metadata</strong></td>
@@ -204,7 +204,7 @@
 
 <p>All APIs possess a URL for humans to follow to engage, and the base path URL for machines to use when calling API.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="25"></td>
 <td width="30%"><strong>Human URL</strong></td>
@@ -242,7 +242,7 @@
 
 <p>All APIs must have a single source of truth for all artifacts and conversations and able to be delivered using a repeatable process.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="25"></td>
 <td width="30%"><strong>GitHub Repository</strong></td>
@@ -304,7 +304,7 @@
 
 <p>All API contracts must have use cases that align the business reasons why an API is being delivered to consumers with the actual technical details of each API contract, ensuring that operations all have a valid business use case.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/use-cases.png" width="25"></td>
 <td width="30%"><strong>Use Cases</strong></td>
@@ -358,7 +358,7 @@
 
 <p>All APIs must have human-readable documentation that defines the technical surface area of each API being made available to API consumers.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="25"></td>
 <td width="30%"><strong>Documentation</strong></td>
@@ -412,11 +412,11 @@
 
 <p>All of the individual operations that area available for use with this API.</p>
 
-<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr></table><table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr></table><h2>APIs are Defined by Technical Contracts</h2>
+<table width="100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr></table><table width="100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr></table><h2>APIs are Defined by Technical Contracts</h2>
 
 <p>All APIs must have machine-readable artifacts that defines the technical surface area of each API being made available to API consumers.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="25"></td>
 <td width="30%"><strong>OpenAPI</strong></td>
@@ -1230,7 +1230,7 @@
 
 <p>All APIs must have change management baked into the definition, delivery, and iteration, ensuring that producers and consumers are in alignment regarding the communication, quality, and velocity of change.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="25"></td>
 <td width="30%"><strong>Road Map</strong></td>
@@ -1332,7 +1332,7 @@
 
 <p>All API should be high quality and reliable, providing adequate levels of monitoring of its availability and performance, with the proper provenance and communication with producer and consumers regarding quality.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/status.png" width="25"></td>
 <td width="30%"><strong>Status</strong></td>
@@ -1402,7 +1402,7 @@
 
 <p>API operations should provide dedicated workspace to domains, lines of business, and teams who are producing APIs, providing locations where work, collaboration, and automation can occur around APis.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/github-organization.png" width="25"></td>
 <td width="30%"><strong>GitHub Organization</strong></td>
@@ -1456,7 +1456,7 @@
 
 <p>API operations is made easier by prioritizing and making common elements like documentation, authentication, SDKs easy to find and available as just a couple of simple steps that API consumers can follow when it comes to onboarding with an API.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/portals.png" width="25"></td>
 <td width="30%"><strong>Portals</strong></td>
@@ -1614,7 +1614,7 @@
 
 <p>Individual APIs should be associated with overall operational change, providing a common operational change log and road-map that is higher level than change for each individual API, but provides a common context across all APis.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="25"></td>
 <td width="30%"><strong>Road Map</strong></td>
@@ -1716,7 +1716,7 @@
 
 <p>All APIs should have SDK and client code available in multiple programming languages used by targeted API consumers for known business use cases, making it as simple as possible for consumers to put an API to use in their own language and frameworks.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/sdks.png" width="25"></td>
 <td width="30%"><strong>SDKs</strong></td>
@@ -1778,7 +1778,7 @@
 
 <p>All APIs are considered and included when relevant as part of regular internal and external communication channels, sharing road maps, change logs, blog posts, videos, and other relevant information that producers and consumers will find useful.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blogs.png" width="25"></td>
 <td width="30%"><strong>Blogs</strong></td>
@@ -1824,7 +1824,7 @@
 
 <p>All APIs must have support mechanisms to ensure API consumers have self-service or direct support channels, as well as regular feedback loops for soliciting feedback from consumers beyond the problems they have encountered.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/support.png" width="25"></td>
 <td width="30%"><strong>Support</strong></td>
@@ -1910,7 +1910,7 @@
 
 <p>All APIs being produced must be governed as part of the overall strategy, using the platform, as well as a common lifecycle, applying policies and rules, and keeping teams moving in the same direction using guidance.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/governance.png" width="25"></td>
 <td width="30%"><strong>Governance</strong></td>
@@ -1964,7 +1964,7 @@
 
 <p>All APIs must be reviewed by legal council and posses terms of service,  privacy policy, licensing, and other regulatory and compliance requirements, making sure all the legal bases are covered before any API is made available to consumers.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/terms-of-service.png" width="25"></td>
 <td width="30%"><strong>Terms of Service</strong></td>
@@ -2010,7 +2010,7 @@
 
 <p>All APIs must be using relevant Internet, industry, and government standards available, ensuring to properly research areas of operations to see what existing standards may exist before the creation of any new schema, process, or other element exists.</p>
 
-<table style="width: 100%">
+<table width="100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/standards.png" width="25"></td>
 <td width="30%"><strong>Standards</strong></td>
