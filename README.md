@@ -1,7 +1,5 @@
-<h2>APIs are Defined as API Contracts</h2>
-
-<p>All APIs are defined as API contracts, aligning the business and technology of delivering consistent high quality APIs.</p>
-
+<h2>API Contract for the APIs.io Search API</h2>
+<p>This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API.</p>
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="25"></td>
@@ -421,14 +419,6 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Email</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Object</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
@@ -438,6 +428,14 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Name</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Email</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
