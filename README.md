@@ -1,5 +1,7 @@
-<h2>API Contract for the APIs.io Search API</h2>
+<h2>APIs are Defined as API Contracts</h2>
+
 <p>All APIs are defined as API contracts, aligning the business and technology of delivering consistent high quality APIs.</p>
+
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="25"></td>
@@ -340,7 +342,7 @@
 
 <p>All of the individual operations that area available for use with this API.</p>
 
-<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>APIs are Defined by Technical Contracts</h2>
+<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>APIs are Defined by Technical Contracts</h2>
 
 <p>All APIs must have machine-readable artifacts that defines the technical surface area of each API being made available to API consumers.</p>
 
@@ -1397,7 +1399,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Offering a blog feed that is dedicated to your API helps increase engagement with consumers and help ensure they are more aware of what is happening.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties Blog Feed</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
