@@ -77,8 +77,9 @@ paths:
           application/json:
             schema:
               $ref: '#/components/schemas/APIsJSON'
-            example:
-              $ref: '#/components/examples/SearchResponse'
+            examples:
+              AddAPIRequest:
+                $ref: '#/components/examples/AddAPIRequest'
 
       responses:
         '201':
@@ -207,23 +208,7 @@ components:
       in: query
       required: false
       schema:
-        type: string  
-
-  requestBodies:
-
-    AddAPIsJSON:
-      content:
-        application/json:
-          schema:
-            $ref: "#/components/schemas/AddAPIsJSON"
-      required: true
-
-    API:
-      content:
-        application/json:
-          schema:
-            $ref: "#/components/schemas/API"
-      required: true     
+        type: string      
 
   responses:
   
@@ -231,14 +216,6 @@ components:
       description: Bad Request
       content:
         application/problem+json:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/bad-request
-            title: Bad Request
-            status: 400
-            detail: The request is invalid or missing required parameters.
-        application/problem+xml:
           schema:
             $ref: '#/components/schemas/Problem'
           example:
@@ -258,27 +235,11 @@ components:
             title: Conflict
             status: 409
             detail: There is a conflict with an existing resource.
-        application/problem+xml:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/conflict
-            title: Conflict
-            status: 409
-            detail: There is a conflict with an existing resource.
 
     Forbidden:
       description: Forbidden
       content:
         application/problem+json:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/forbidden
-            title: Forbidden
-            status: 403
-            detail: Access is forbidden with the provided credentials.
-        application/problem+xml:
           schema:
             $ref: '#/components/schemas/Problem'
           example:
@@ -298,27 +259,11 @@ components:
             title: Internal Server Error
             status: 500
             detail: An unexpected error occurred.
-        application/problem+xml:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/internal-server-error
-            title: Internal Server Error
-            status: 500
-            detail: An unexpected error occurred.
 
     NotFound:
       description: Not Found
       content:
         application/problem+json:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/not-found
-            title: Not Found
-            status: 404
-            detail: The requested resource was not found.
-        application/problem+xml:
           schema:
             $ref: '#/components/schemas/Problem'
           example:
@@ -338,27 +283,11 @@ components:
             title: Too Many Requests
             status: 429
             detail: You have exceeded the rate limit.
-        application/problem+xml:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/too-many-requests
-            title: Too Many Requests
-            status: 429
-            detail: You have exceeded the rate limit.
 
     Unauthorized:
       description: Unauthorized
       content:
         application/problem+json:
-          schema:
-            $ref: '#/components/schemas/Problem'
-          example:
-            type: https://example.com/errors/unauthorized
-            title: Unauthorized
-            status: 401
-            detail: You do not have the necessary permissions.
-        application/problem+xml:
           schema:
             $ref: '#/components/schemas/Problem'
           example:
@@ -373,62 +302,62 @@ components:
       name: x-api-key
       in: header
   
-  schemas:
+  schemas:       
 
     Search:
       type: object
       description: 'An JSON API object with metadata, data, and links.'
       properties:
         meta:
-          type: object
-          properties:
-            search:
-              type: string
-            type:
-              type: string    
-            limit:
-              type: integer 
-            page:
-              type: integer    
-            totalPages:
-              type: integer                                                 
-          required:
-           - totalPages
-           - page
-           - limit
+          $ref: '#/components/schemas/Meta'
         data:
-          type: array
-          items:
-              anyOf:
-                - $ref: '#/components/schemas/API'
-          description: 'Listing of APIs in the JSON API format.'
+          $ref: '#/components/schemas/APIs'     
         links:
-          type: object
-          properties:
-            self:
-              type: string
-            first:
-              type: string
-            prev:
-              type: string
-            next:
-              type: string
-            last:
-              type: string
-          required:
-          - self
+          $ref: '#/components/schemas/Link'
       required:
       - meta
       - data
       - links
 
+    Meta:
+      type: object
+      properties:
+        search:
+          type: string
+        type:
+          type: string    
+        limit:
+          type: integer 
+        page:
+          type: integer    
+        totalPages:
+          type: integer                                                 
+      required:
+        - totalPages
+        - page
+        - limit 
+
+    Link:
+      type: object
+      properties:
+        self:
+          type: string
+        first:
+          type: string
+        prev:
+          type: string
+        next:
+          type: string
+        last:
+          type: string
+      required:
+      - self      
+
     AddAPIsJSON:
       type: object
       required:
-      - url
-      
-      properties:
-      
+        - url      
+      properties:      
         url:
           type: string
           description: URL where the apis.json file will live
@@ -499,6 +428,12 @@ components:
           items:
             "$ref": "#/components/schemas/Include"
           description: Links to other apis.json definitions included in this service.
+
+    APIs: 
+      type: array
+      description: 'Listing of APIs in the APIs.json format.'
+      items:
+        $ref: '#/components/schemas/API'       
 
     API:
       description: The description of the API

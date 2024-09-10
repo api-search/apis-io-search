@@ -88,7 +88,7 @@ common:
   - type: GitHubOrganization
     url: https://github.com/api-search/ 
 
-  - type: PostmanWorkspace
+  - type: PostmanPublicWorkspace
     url: https://www.postman.com/api-evangelist/apis-io/overview
 
   # Onboarding
@@ -114,11 +114,7 @@ common:
   # Code
   - type: SDKs
     url: https://developer.apis.io/sdks/                                          
-
-  # Monitors
-  - type: Monitor
-    url: 'https://api-evangelist.postman.co/workspace/APIs.io-Private~a91b6fa0-9b59-4330-bec4-bf87c30b853a/monitor/Testing-Uptime---APIs-io-Search~1ee42164-0de2-4c80-b9a6-257e30c42c9e'
-
+    
   # Communication
   - type: Blog
     url: 'https://developer.apis.io/blog/' 

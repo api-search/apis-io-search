@@ -83,7 +83,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a tags object.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a tags object - 1.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -379,7 +379,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Title</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Has Title</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -387,7 +387,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Title Upper Case</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Title MUST Have First Characters Capitalized</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -403,7 +403,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Description</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Has Description</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -419,7 +419,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Object</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Has Contact Object</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -427,7 +427,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Name</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Has Contact Name</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -435,7 +435,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Contact Email</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Has Contact Email</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -443,7 +443,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Contact URL</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Info MUST Have Contact URL</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -459,7 +459,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; License Object</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Info MUST Have License</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -475,7 +475,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Terms of Service</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Info MUST Have Terms of Service</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -491,7 +491,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Version</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Info Has Version</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -507,7 +507,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Summary</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has a Summary</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -515,7 +515,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Summary Period</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has a Period.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -531,7 +531,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Description</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has Description</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -547,7 +547,15 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Tags</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operations Has Tags</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Tag Names Have First Letter in Each Word Capitalized</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -563,7 +571,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Operation Security Definition</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Operations MUST Have a Security Definition</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -595,22 +603,6 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body Content</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body POST</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Request Bodies Schema</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -627,7 +619,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body Schema Required</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Bodies Use Schema Reference</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -635,7 +627,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body Schema Required</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Requests Has a Body</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -651,27 +643,11 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters In</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter Required</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Parameters MUST have a required property.</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -683,51 +659,11 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Name</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Query Name Camel Case</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Query Name Flat Case</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Query Name Snake Case</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter Descriptions</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Description</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -739,22 +675,6 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Schema Type</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameter Schema Type</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 2xx</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -763,7 +683,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Response Has 200 Status Code</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses Has 200 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -771,7 +691,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Content</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response has description.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -779,7 +699,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Content</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Content.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -787,7 +707,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Status Code</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 201 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -795,7 +715,15 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Content</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Description</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Content</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -811,7 +739,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; GET Response 201 Schema Ref</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Schema</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -819,7 +747,23 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Response 201 Schema Ref</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema Reference</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -835,6 +779,38 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 ResponseHas Examples</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Examples Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Examples</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Examples Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 4xx</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -843,7 +819,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 400 Status Code for GET Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses Has 400 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -851,7 +827,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 401 Status Code for GET Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses MUST Have 401 Status Code</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -859,7 +835,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 403 Status Code for GET Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses MUST Have 403 Status Code</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -867,7 +843,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 429 Status Code for GET Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses MUST Have 429 Status Code</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -875,7 +851,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 400 Status Code for POST Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 400 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -883,7 +859,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 401 Status Code for POST Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 401 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -891,7 +867,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 404 Status Code for POST Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 403 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -899,7 +875,15 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 429 Status Code for POST Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 404 Status Codes</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 429 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -915,11 +899,83 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; Response 4xx Examples</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 400 Responses Uses Schema Reference</td>
+<td width="1%"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 401 Responses Has Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 403 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 404 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 429 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 400 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 401 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 403 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 404 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 429 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -931,7 +987,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 500 Status Code for POST Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses Has 500 Status Code</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -939,7 +995,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; 500 Status Code for GET Responses</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 500 Status Codes</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -952,6 +1008,22 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 500 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 500 Responses Uses Schema Reference</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -971,7 +1043,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Type</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST Have Type Property</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -979,7 +1051,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Type</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Has Type Property</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -995,7 +1067,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Description</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST have a description.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1003,7 +1075,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Description</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schemas has a description.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1019,43 +1091,27 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Property Names Camel Case</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Property Names Pascal Case</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema properties names MUST be snake case.</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema property name is snake case.</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Descriptions</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties MUST Have Description</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Properties Have Description</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1075,6 +1131,14 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Has Required Property</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Shapes</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -1083,7 +1147,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Require schema property string maxlength.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties String Max Length</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1091,7 +1155,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Require schema property string minlength.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties String Min Length</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1099,7 +1163,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has schema property string minlength.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Properties String Min Length</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1107,7 +1171,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Property Array Items</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1115,7 +1179,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Property Array MaxItems</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Max Items</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1123,7 +1187,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Property Array MaxItems</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Have Max Items</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1131,7 +1195,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Property Array MinItems</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Min Items</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1258,6 +1322,14 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/workspaces/postman-workspace.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Providing a public Postman workspace</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Onboarding is Made is Easy for API Operations</h2>
