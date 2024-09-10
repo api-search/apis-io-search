@@ -1,5 +1,10 @@
 <h2>API Contract for the APIs.io Search API</h2>
 <p>This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API.</p>
+
+<h2>APIs are Defined as API Contracts</h2>
+
+<p>All APIs are defined as API contracts, aligning the business and technology of delivering consistent high quality APIs.</p>
+
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="25"></td>
@@ -114,7 +119,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Unique Identifiers</strong></td>
-<td width="30%" style="color: #228B22;">apis-io:search-api</td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/unique-identifiers.html">Guidance</a></td>
@@ -130,7 +135,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Name</strong></td>
-<td width="30%" style="color: #228B22;">APIs.io Search API</td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/names.html">Guidance</a></td>
@@ -146,7 +151,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Descriptions</strong></td>
-<td width="30%" style="color: #228B22;">This is the API to access APIs.io API search engine, from the product management perspective.</td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/descriptions.html">Guidance</a></td>
@@ -162,7 +167,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Images</strong></td>
-<td width="30%" style="color: #228B22;">https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg</td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/images.html">Guidance</a></td>
@@ -178,7 +183,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Tags</strong></td>
-<td width="30%" style="color: #228B22;">APIs,Search Engine,Directory</td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/tags.html">Guidance</a></td>
@@ -284,7 +289,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Who</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/who.html">Guidance</a></td>
@@ -292,7 +297,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; What</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/what.html">Guidance</a></td>
@@ -300,7 +305,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; How</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/how.html">Guidance</a></td>
@@ -308,7 +313,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Why</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/why.html">Guidance</a></td>
@@ -364,7 +369,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; OpenAPI Version</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -372,7 +377,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Title</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -396,7 +401,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Description</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -412,7 +417,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Contact</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -452,7 +457,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; License</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -468,7 +473,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Terms of Service</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -484,7 +489,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Version</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -500,7 +505,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operation Summary</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -524,7 +529,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operation Description</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -540,7 +545,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operation Tags</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -564,7 +569,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operation Security</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -580,7 +585,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Request Bodies</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -604,7 +609,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Request Bodies Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -636,7 +641,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter In</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -644,7 +649,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter Required</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -652,7 +657,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter Names</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -660,7 +665,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -668,7 +673,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Parameter Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -676,7 +681,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 2xx</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -732,7 +737,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 2xx Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -772,7 +777,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 2xx Examples</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -812,7 +817,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 4xx</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -892,7 +897,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 4xx Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -980,7 +985,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 5xx</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1004,7 +1009,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 5xx Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1028,7 +1033,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Response 5xx Examples</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1036,7 +1041,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Type</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1060,7 +1065,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1084,7 +1089,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Names</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1092,7 +1097,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1116,7 +1121,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Enums</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1124,7 +1129,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Required</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1140,7 +1145,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Property Shapes</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
