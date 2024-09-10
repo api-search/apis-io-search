@@ -1,5 +1,5 @@
-<h2>API Contract for the APIs.io Search API</h2>
-<p>This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API.</p>
+<h2>APIs are Defined as API Contracts</h2>
+<p>All APIs are defined as API contracts, aligning the business and technology of delivering consistent high quality APIs.</p>
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="25"></td>
@@ -875,12 +875,6 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Has Type Property</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Schema Descriptions</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -888,12 +882,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST have a description.</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schemas has a description.</td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
@@ -912,12 +900,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties MUST Have Description</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Properties Have Description</td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
@@ -959,12 +941,6 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Properties String Min Length</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
@@ -972,12 +948,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Max Items</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Have Max Items</td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
