@@ -245,7 +245,7 @@
 <p>All API paths must conform to the overall organization and domain standards, utilizing plain language and a resource approach to delivering digital resources and capabilities via HTTP APIs, providing a common set of paths for all types of consumers.</p>
 
 <table style="width: 100%">
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Operations Must Be Useful and Consistent</h2>
 
 <p>All API operations must be useful and follow consistent Internet, industry, and enterprise standards, providing a simple and relevant HTTP API operation that does one thing and does it well, making the value intuitive to API consumers who are using.</p>
@@ -254,7 +254,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/unique-identifiers.png" width="25"></td>
 <td width="30%"><strong>Operation Ids</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -278,7 +277,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/summaries.png" width="25"></td>
 <td width="30%"><strong>Operation Summary</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -302,7 +300,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="25"></td>
 <td width="30%"><strong>Operation Description</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -318,7 +315,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/request-bodies.png" width="25"></td>
 <td width="30%"><strong>Request Bodies</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -342,7 +338,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/schema.png" width="25"></td>
 <td width="30%"><strong>Request Bodies Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -374,7 +369,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/parameters.png" width="25"></td>
 <td width="30%"><strong>Parameters</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -390,7 +384,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/parameters.png" width="25"></td>
 <td width="30%"><strong>Parameter In</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -406,7 +399,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/parameter-names.png" width="25"></td>
 <td width="30%"><strong>Parameter Names</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -430,7 +422,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/parameter-descriptions.png" width="25"></td>
 <td width="30%"><strong>Parameter Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -446,7 +437,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/types.png" width="25"></td>
 <td width="30%"><strong>Parameter Type</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -494,7 +484,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/schema.png" width="25"></td>
 <td width="30%"><strong>Parameter Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -518,7 +507,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/enumerators.png" width="25"></td>
 <td width="30%"><strong>Parameter Enumerators</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -526,7 +514,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/tags.png" width="25"></td>
 <td width="30%"><strong>Operation Tags</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -550,7 +537,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/security.png" width="25"></td>
 <td width="30%"><strong>Operation Security</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -563,7 +549,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Responses Must Be Meaningful and Consistent</h2>
 
 <p>All API responses should follow Internet, industry, and enterprise standards, providing meaningful and consistent communication and structure, always providing what was intended for API consumers, while ensuring things are as simple as possible.</p>
@@ -572,7 +558,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -628,7 +613,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx Media Type</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -652,7 +636,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -692,7 +675,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx Examples</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -732,7 +714,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="25"></td>
 <td width="30%"><strong>Response 4xx</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -812,7 +793,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="25"></td>
 <td width="30%"><strong>Response 4xx Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -900,7 +880,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="25"></td>
 <td width="30%"><strong>Response 5xx</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -924,7 +903,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="25"></td>
 <td width="30%"><strong>Response 5xx Media Type</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -932,7 +910,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="25"></td>
 <td width="30%"><strong>Response 5xx Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -956,12 +933,11 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/500.png" width="25"></td>
 <td width="30%"><strong>Response 5xx Examples</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Data Should Be Well-Defined and Validated</h2>
 
 <p>The schema for data that is sent and received via API should always be well-defined, possess a well-known shape, and always be validated, ensuring that digital resources and capabilities are what they should be, and only accessible to those who should have access.</p>
@@ -970,7 +946,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/types.png" width="25"></td>
 <td width="30%"><strong>Schema Type</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -986,7 +961,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="25"></td>
 <td width="30%"><strong>Schema Names</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1002,7 +976,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="25"></td>
 <td width="30%"><strong>Schema Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1018,7 +991,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="25"></td>
 <td width="30%"><strong>Schema Property Names</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1026,7 +998,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="25"></td>
 <td width="30%"><strong>Schema Property Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1042,7 +1013,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/types.png" width="25"></td>
 <td width="30%"><strong>Schema Property Type</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1058,31 +1028,13 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/enums.png" width="25"></td>
 <td width="30%"><strong>Schema Property Enums</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/required.png" width="25"></td>
-<td width="30%"><strong>Schema Property Required</strong></td>
-<td width="30%" style="color: #228B22;"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Has Required Property</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/shapes.png" width="25"></td>
 <td width="30%"><strong>Schema Property Shapes</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1127,7 +1079,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Always Be Secure</h2>
 
 <p>All APIs should be properly secured during design, develop, and run-time, making sure data, credentials, logs, and all other related resources are properly secured and operating as expected by both the API producer and the consumer.</p>
@@ -1136,7 +1088,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/security.png" width="25"></td>
 <td width="30%"><strong>OpenAPI Security</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1149,7 +1100,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Reusable Whenever Possible</h2>
 
 <p>The components of any API should be made modular and reusable whenever it makes sense to the business use case, keeping schema, parameters, examples, error responses, and other common parts of an API as reusable and interchangeable as possible.</p>
@@ -1158,7 +1109,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/components.png" width="25"></td>
 <td width="30%"><strong>OpenAPI Components</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1195,7 +1145,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Producing APIs MUST Be Repeatable</h2>
 
 <p>All APIs must have a single source of truth for all artifacts and conversations and able to be delivered using a repeatable process.</p>
@@ -1204,7 +1154,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="25"></td>
 <td width="30%"><strong>GitHub Repository</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/repositories/github.html">Guidance</a></td>
@@ -1217,7 +1166,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Always Aligned with Business</h2>
 
 <p>All API contracts must have use cases that align the business reasons why an API is being delivered to consumers with the actual technical details of each API contract, ensuring that operations all have a valid business use case.</p>
@@ -1226,7 +1175,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/use-cases.png" width="25"></td>
 <td width="30%"><strong>Use Cases</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/overview.html">Guidance</a></td>
@@ -1242,7 +1190,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Who</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/who.html">Guidance</a></td>
@@ -1250,7 +1197,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; What</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/what.html">Guidance</a></td>
@@ -1258,7 +1204,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; How</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/how.html">Guidance</a></td>
@@ -1266,12 +1211,11 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Why</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/why.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Always Documented</h2>
 
 <p>All APIs must have human-readable documentation that defines the technical surface area of each API being made available to API consumers.</p>
@@ -1280,7 +1224,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="25"></td>
 <td width="30%"><strong>Documentation</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/documentation/overview.html">Guidance</a></td>
@@ -1293,7 +1236,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Operations</h2>
 
 <p>All of the individual operations that area available for use with this API.</p>
@@ -1306,6 +1249,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="25"></td>
 <td width="30%"><strong>OpenAPI</strong></td>
+<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/openapi.html">Guidance</a></td>
 </tr>
@@ -1318,6 +1262,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/collections.png" width="25"></td>
 <td width="30%"><strong>Postman Collection</strong></td>
+<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/collection.html">Guidance</a></td>
 </tr>
@@ -1327,7 +1272,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Change is Managed for APIs</h2>
 
 <p>All APIs must have change management baked into the definition, delivery, and iteration, ensuring that producers and consumers are in alignment regarding the communication, quality, and velocity of change.</p>
@@ -1336,7 +1281,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="25"></td>
 <td width="30%"><strong>Road Map</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/change/road-map.html">Guidance</a></td>
@@ -1352,7 +1296,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="25"></td>
 <td width="30%"><strong>Change Log</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/change/change-log.html">Guidance</a></td>
@@ -1365,7 +1308,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are High Quality and Reliable</h2>
 
 <p>All API should be high quality and reliable, providing adequate levels of monitoring of its availability and performance, with the proper provenance and communication with producer and consumers regarding quality.</p>
@@ -1374,7 +1317,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/status.png" width="25"></td>
 <td width="30%"><strong>Status</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/monitoring/uptime.html">Guidance</a></td>
@@ -1390,7 +1332,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/performance.png" width="25"></td>
 <td width="30%"><strong>Performance</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/monitoring/performance.html">Guidance</a></td>
@@ -1403,7 +1344,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Operations Have Dedicated Workspaces</h2>
 
 <p>API operations should provide dedicated workspace to domains, lines of business, and teams who are producing APIs, providing locations where work, collaboration, and automation can occur around APis.</p>
@@ -1412,7 +1353,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/github-organization.png" width="25"></td>
 <td width="30%"><strong>GitHub Organization</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/workspaces/github-organization.html">Guidance</a></td>
@@ -1428,7 +1368,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="25"></td>
 <td width="30%"><strong>Postman Workspace</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/workspaces/postman-workspace.html">Guidance</a></td>
@@ -1441,7 +1380,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Onboarding is Made is Easy for API Operations</h2>
 
 <p>API operations is made easier by prioritizing and making common elements like documentation, authentication, SDKs easy to find and available as just a couple of simple steps that API consumers can follow when it comes to onboarding with an API.</p>
@@ -1450,7 +1389,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/portals.png" width="25"></td>
 <td width="30%"><strong>Portals</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/portals/overview.html">Guidance</a></td>
@@ -1458,7 +1396,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/getting-started.png" width="25"></td>
 <td width="30%"><strong>Getting Started</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/onboarding/getting-started.html">Guidance</a></td>
@@ -1474,7 +1411,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/plans.png" width="25"></td>
 <td width="30%"><strong>Plans</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/onboarding/plans.html">Guidance</a></td>
@@ -1490,7 +1426,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/sdks.png" width="25"></td>
 <td width="30%"><strong>SDKs</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/code/software-development-kits.html">Guidance</a></td>
@@ -1503,7 +1438,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Change is Relative to Operational Change</h2>
 
 <p>Individual APIs should be associated with overall operational change, providing a common operational change log and road-map that is higher level than change for each individual API, but provides a common context across all APis.</p>
@@ -1512,7 +1447,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="25"></td>
 <td width="30%"><strong>Road Map</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/change/road-map.html">Guidance</a></td>
@@ -1528,7 +1462,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="25"></td>
 <td width="30%"><strong>Change Log</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/change/change-log.html">Guidance</a></td>
@@ -1541,7 +1474,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Work Across Multiple Programming Languages</h2>
 
 <p>All APIs should have SDK and client code available in multiple programming languages used by targeted API consumers for known business use cases, making it as simple as possible for consumers to put an API to use in their own language and frameworks.</p>
@@ -1550,7 +1483,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/sdks.png" width="25"></td>
 <td width="30%"><strong>SDKs</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/code/software-development-kits.html">Guidance</a></td>
@@ -1563,7 +1495,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Part of Regular Active Communication</h2>
 
 <p>All APIs are considered and included when relevant as part of regular internal and external communication channels, sharing road maps, change logs, blog posts, videos, and other relevant information that producers and consumers will find useful.</p>
@@ -1572,7 +1504,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blogs.png" width="25"></td>
 <td width="30%"><strong>Blogs</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/communication/blog.html">Guidance</a></td>
@@ -1588,7 +1519,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blog-feeds.png" width="25"></td>
 <td width="30%"><strong>Blog Feeds</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/communication/blog-feeds.html">Guidance</a></td>
@@ -1596,7 +1526,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/videos.png" width="25"></td>
 <td width="30%"><strong>Videos</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/communication/videos.html">Guidance</a></td>
@@ -1609,7 +1538,7 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Be Supported and Have Feedback Loops</h2>
 
 <p>All APIs must have support mechanisms to ensure API consumers have self-service or direct support channels, as well as regular feedback loops for soliciting feedback from consumers beyond the problems they have encountered.</p>
@@ -1618,7 +1547,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/support.png" width="25"></td>
 <td width="30%"><strong>Support</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/support/overview.html">Guidance</a></td>
@@ -1634,7 +1562,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Support Email</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1650,7 +1577,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Support Issues</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1666,7 +1592,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/feedback.png" width="25"></td>
 <td width="30%"><strong>Feedback</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1674,7 +1599,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Feedback Email</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1682,12 +1606,11 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Feedback Issues</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Be Governed</h2>
 
 <p>All APIs being produced must be governed as part of the overall strategy, using the platform, as well as a common lifecycle, applying policies and rules, and keeping teams moving in the same direction using guidance.</p>
@@ -1696,7 +1619,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/governance.png" width="25"></td>
 <td width="30%"><strong>Governance</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/governance/overview.html">Guidance</a></td>
@@ -1704,7 +1626,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Policies</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1720,7 +1641,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operational Rules</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1728,7 +1648,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Rules</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1736,12 +1655,11 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Lifecycle</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Legally Covered</h2>
 
 <p>All APIs must be reviewed by legal council and posses terms of service,  privacy policy, licensing, and other regulatory and compliance requirements, making sure all the legal bases are covered before any API is made available to consumers.</p>
@@ -1750,7 +1668,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/terms-of-service.png" width="25"></td>
 <td width="30%"><strong>Terms of Service</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1766,7 +1683,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/privacy-policy.png" width="25"></td>
 <td width="30%"><strong>Privacy Policy</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1782,12 +1698,11 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/licenses.png" width="25"></td>
 <td width="30%"><strong>Licensing</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Use Industry Standards</h2>
 
 <p>All APIs must be using relevant Internet, industry, and government standards available, ensuring to properly research areas of operations to see what existing standards may exist before the creation of any new schema, process, or other element exists.</p>
@@ -1796,7 +1711,6 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/standards.png" width="25"></td>
 <td width="30%"><strong>Standards</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/standards/overview.html">Guidance</a></td>
@@ -1804,7 +1718,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; HTTP</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1812,7 +1725,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; JSON</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1820,7 +1732,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; YAML</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1828,7 +1739,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; OpenAPI</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1836,7 +1746,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; JSON Schema</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
@@ -1844,9 +1753,8 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Spectral</strong></td>
-<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>

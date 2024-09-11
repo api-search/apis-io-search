@@ -403,7 +403,13 @@ components:
 
         specificationVersion:
           type: string
-          description: APIs.json spec version, latest is 0.14
+          description: APIs.json spec version, latest is 0.18
+          enum:
+            - 0.18
+            - 0.17
+            - 0.16
+            - 0.15
+            - 0.14
 
         apis:
           type: array
@@ -549,9 +555,22 @@ components:
         type:
           type: string
           pattern: "^(Swagger)$|^(RAML)$|^(Blueprint)$|^(WADL)$|^(WSDL)$|^(TermsOfService)$|^(InterfaceLicense)$|^(StatusPage)$|^(Pricing)$|^(Forums)$|^(AlertsTwitterHandle)$|^(X-[A-Za-z0-9\\-]*)$"
+          enum:
+            - Swagger
+            - RAML
+            - Blueprint
+            - WADL
+            - WSDL
+            - TersmOfService
+            - InterfaceLicense
+            - StatusPage
+            - Pricing
+            - Forums                  
         url:
           type: string
           pattern: "^(http)|(https)://(.*)$"
+
+          
 
     Tag:
       description: A consistent set of tag to apply to a description
@@ -565,6 +584,7 @@ components:
         name:
           type: string
           minLength: 1
+          maxLength: 250
         url:
           type: string
           pattern: "^(http)|(https)://(.*)$"
