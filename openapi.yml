@@ -584,7 +584,6 @@ components:
         name:
           type: string
           minLength: 1
-          maxLength: 250
         url:
           type: string
           pattern: "^(http)|(https)://(.*)$"
