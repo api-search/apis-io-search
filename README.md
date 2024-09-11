@@ -217,7 +217,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs has a human URL.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Human URL.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -233,7 +233,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs has a baseUrl property.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Base URL</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -404,7 +404,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/parameter-names.png" width="25"></td>
 <td width="30%"><strong>Parameter Names</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -428,7 +428,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/parameter-descriptions.png" width="25"></td>
 <td width="30%"><strong>Parameter Descriptions</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -450,6 +450,46 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Max Items</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Min Items</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties String Max Length</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties String Min Length</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/schema.png" width="25"></td>
@@ -530,7 +570,7 @@
 
 <table style="width: 100%">
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/200.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -586,7 +626,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/200.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx Media Type</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -650,7 +690,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/200.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="25"></td>
 <td width="30%"><strong>Response 2xx Examples</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -690,7 +730,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/400.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="25"></td>
 <td width="30%"><strong>Response 4xx</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -770,7 +810,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/400.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="25"></td>
 <td width="30%"><strong>Response 4xx Schema</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -858,7 +898,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/500.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="25"></td>
 <td width="30%"><strong>Response 5xx</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -882,7 +922,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/500.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="25"></td>
 <td width="30%"><strong>Response 5xx Media Type</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -890,7 +930,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/500.png" width="25"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="25"></td>
 <td width="30%"><strong>Response 5xx Schema</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
@@ -969,7 +1009,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST have a description.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST Have a Description.</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1010,38 +1050,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Max Items</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Min Items</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties String Max Length</td>
-<td width="1%"></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties String Min Length</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
@@ -1125,12 +1133,68 @@
 <p>All APIs should be properly secured during design, develop, and run-time, making sure data, credentials, logs, and all other related resources are properly secured and operating as expected by both the API producer and the consumer.</p>
 
 <table style="width: 100%">
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/security.png" width="25"></td>
+<td width="30%"><strong>OpenAPI Security</strong></td>
+<td width="30%" style="color: #228B22;"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components Have a Security Schemes</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Reusable Whenever Possible</h2>
 
 <p>The components of any API should be made modular and reusable whenever it makes sense to the business use case, keeping schema, parameters, examples, error responses, and other common parts of an API as reusable and interchangeable as possible.</p>
 
 <table style="width: 100%">
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/components.png" width="25"></td>
+<td width="30%"><strong>OpenAPI Components</strong></td>
+<td width="30%" style="color: #228B22;"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components MUST Have a Parameters Property</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components MUST Have a Examples Property</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components MUST Have a Schema Property</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Components MUST have a headers property.</td>
+<td width="1%"></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Producing APIs MUST Be Repeatable</h2>
 
