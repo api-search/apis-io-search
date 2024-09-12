@@ -896,13 +896,6 @@
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/500.png" width="25"></td>
-<td width="30%"><strong>Response 5xx Examples</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
-</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Data Should Be Well-Defined and Validated</h2>
 
@@ -1036,9 +1029,9 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>APIs Must Always Be Secure</h2>
+<h2>API Operations Must Always Be Secure</h2>
 
-<p>All APIs should be properly secured during design, develop, and run-time, making sure data, credentials, logs, and all other related resources are properly secured and operating as expected by both the API producer and the consumer.</p>
+<p>Individual API operations should be properly secured during design, develop, and run-time, making sure data, credentials, logs, and all other related resources are properly secured and operating as expected by both the API producer and the consumer.</p>
 
 <table style="width: 100%">
 <tr>
@@ -1092,6 +1085,60 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Components MUST have a headers property.</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<h2>APIs are Defined by Technical Contracts</h2>
+
+<p>All APIs must have machine-readable artifacts that defines the technical surface area of each API being made available to API consumers.</p>
+
+<table style="width: 100%">
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="25"></td>
+<td width="30%"><strong>OpenAPI</strong></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/openapi.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has and OpenAPI.</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/collections.png" width="25"></td>
+<td width="30%"><strong>Postman Collection</strong></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/collection.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Postman Collection.</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<h2>APIs Are Always Documented</h2>
+
+<p>All APIs must have human-readable documentation that defines the technical surface area of each API being made available to API consumers.</p>
+
+<table style="width: 100%">
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="25"></td>
+<td width="30%"><strong>Documentation</strong></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/documentation/overview.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a documentation property.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
@@ -1163,60 +1210,6 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/why.html">Guidance</a></td>
-</tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>APIs Are Always Documented</h2>
-
-<p>All APIs must have human-readable documentation that defines the technical surface area of each API being made available to API consumers.</p>
-
-<table style="width: 100%">
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="25"></td>
-<td width="30%"><strong>Documentation</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/documentation/overview.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a documentation property.</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>APIs are Defined by Technical Contracts</h2>
-
-<p>All APIs must have machine-readable artifacts that defines the technical surface area of each API being made available to API consumers.</p>
-
-<table style="width: 100%">
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="25"></td>
-<td width="30%"><strong>OpenAPI</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/openapi.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has and OpenAPI.</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/collections.png" width="25"></td>
-<td width="30%"><strong>Postman Collection</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/collection.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Postman Collection.</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Change is Managed for APIs</h2>
