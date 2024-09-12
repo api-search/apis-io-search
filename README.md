@@ -238,11 +238,43 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>API Paths Must Conform to the Organization</h2>
+<h2>Operations</h2>
+
+<p>All of the individual operations that area available for use with this API.</p>
+
+<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>API Paths Must Conform to the Organization</h2>
 
 <p>All API paths must conform to the overall organization and domain standards, utilizing plain language and a resource approach to delivering digital resources and capabilities via HTTP APIs, providing a common set of paths for all types of consumers.</p>
 
 <table style="width: 100%">
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="25"></td>
+<td width="30%"><strong>Path Names</strong></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; No API in Path</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Path Trailing Slash</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Version in Path</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Operations Must Be Useful and Consistent</h2>
 
@@ -962,27 +994,6 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/enums.png" width="25"></td>
-<td width="30%"><strong>Schema Property Enums</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Property Have Enum</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Property Enum MUST Be Upper Snake Case</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
-</tr>
-<tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/shapes.png" width="25"></td>
 <td width="30%"><strong>Schema Property Shapes</strong></td>
 <td width="10%" align="center"></td>
@@ -1174,11 +1185,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>Operations</h2>
-
-<p>All of the individual operations that area available for use with this API.</p>
-
-<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>APIs are Defined by Technical Contracts</h2>
+<h2>APIs are Defined by Technical Contracts</h2>
 
 <p>All APIs must have machine-readable artifacts that defines the technical surface area of each API being made available to API consumers.</p>
 
@@ -1596,6 +1603,13 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has OpenAPI Rules</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Lifecycle</strong></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
@@ -1648,6 +1662,13 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Offering a dedicated licensing page helps ensure consumers are aware of the licensing for an API, SDKs, and other supporting resources.</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Use Industry Standards</h2>

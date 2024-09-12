@@ -157,6 +157,9 @@ common:
     
   - type: PrivacyPolicy
     url: 'https://developer.apis.io/privacy-policy/' 
+
+  - type: InterfaceLicense
+    url: 'https://developer.apis.io/licensing/' 
                        
     
 maintainers:
