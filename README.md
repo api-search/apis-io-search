@@ -1,6 +1,6 @@
-<h2>APIs are Defined as API Contracts</h2>
+<h2>API Contract for the APIs.io Search API</h2>
 
-<p>All APIs are defined as API contracts so that we can align both the business and technology of delivering consistent high quality APIs, employing source control to manage the technical, but also the business side of things, while actively checking in on the alignment between the two over time.</p>
+<p>This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.</p>
 
 <h2>APIs are Defined as API Contracts</h2>
 
@@ -50,7 +50,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Descriptions</strong></td>
-<td width="30%" style="color: #228B22;">This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API.</td>
+<td width="30%" style="color: #228B22;">This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/contract/descriptions.html">Guidance</a></td>

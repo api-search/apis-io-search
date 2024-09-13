@@ -5,7 +5,7 @@ specificationVersion: '0.18'
 type: Contract
 
 name: API Contract for the APIs.io Search API
-description: This is the API contract for the APIs.io API search API, providing all of the detail we use to manage the evolution of this API, and ensure a certain quality of service for the consumers of this API. 
+description: This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.
 
 image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
 
