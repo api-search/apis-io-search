@@ -132,11 +132,22 @@ common:
   - type: Support
     url: 'https://developer.apis.io/support/'
 
-  - type: Issues
-    url: 'https://github.com/api-search/developer-portal/issues' 
+  - type: SupportGitHubIssues
+    url: 'https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Asupport' 
 
-  - type: Email
+  - type: SupportEmail
     url: 'info@apievangelist.com'
+
+  # Feedback
+  - type: FeedbackGitHubIssues
+    url: 'https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Afeedback' 
+
+  - type: FeedbackEmail
+    url: 'info@apievangelist.com'    
+
+  # Questions
+  - type: QuestionsGitHubIssues
+    url: 'https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion' 
 
   # Governance
   - type: Policies

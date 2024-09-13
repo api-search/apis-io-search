@@ -1232,6 +1232,10 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr>
+<td width="10%" align="center"></td>
+<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/8">Add Lifecycle to README</a> - Add the lifecycle to the readme, listing stages with policies grouped by stage show what has been done and needs to be done.</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/5">Property Search</a> - Add the ability to search by property.</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/4">Maintainer Search</a> - Add the ability to search by maintainer.</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/3">Add Tag Search</a> - Enable the ability to search by tags.</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/2">Add Rating System </a> - Currently the rating system for APIs is not available in the API search API, so we need to formally add it as part of the next iteration.</li></ul></td>
+</tr>
+<tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="25"></td>
 <td width="30%"><strong>Change Log</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
@@ -1244,6 +1248,10 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/7">Add Use Cases</a> - Add the first draft of the use case schema as individual file and link it like OpenAPI using it's own property.YAML - https://github.com/api-search/search-api/blob/main/use-cases.yml</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/6">Auto Generate README</a> - Generate the README from the APIs.json, parsing all the URLS, applying operational and API rules that are organized by strategy and policy--providing links to gudiance.</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/1">Created GitHub Repository</a> - The GitHub repository for an API, providing the single source of truth for the API contract, OpenAPI, and other artifacts, as well as the road map, change log, support, feedback, and other elements of a repository.</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are High Quality and Reliable</h2>
@@ -1492,7 +1500,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties Support Support</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Support Page</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
@@ -1506,7 +1514,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties Email email</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Support Email</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
@@ -1520,7 +1528,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties Support Issues</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Support Issues URL</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
@@ -1534,17 +1542,38 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; Feedback Email</strong></td>
+<td width="30%"><strong>   &#8594; Feedback Issues</strong></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; Feedback Issues</strong></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Feedback Issues URL</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/questions.png" width="25"></td>
+<td width="30%"><strong>Questions</strong></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="30%"><strong>   &#8594; Questions Issues</strong></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Questions Issues URL</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Must Be Governed</h2>
