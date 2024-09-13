@@ -1,0 +1,16 @@
+- identifier: steve-willmott
+  name: Steve Willmott
+  role: CEO
+  area: Business
+  gitHub: https://github.com/njyx
+  linkedIn: https://www.linkedin.com/in/stevenwillmott/
+  email: info@apis.io
+  description: Steve Willmott is leading the business side of APIs.io, owning all the product and other business aspects of building APIs.io.
+- identifier: kin-lane
+  name: Kin Lane
+  role: CTO
+  area: Technical
+  gitHub: https://github.com/kinlane
+  linkedIn: https://www.linkedin.com/in/kinlane/
+  email: kin@apievangelist.com
+  description: Kin Lane is leading the technical side of APIs.io, helping define and roll-out the infrastructure, while profiling APIs.

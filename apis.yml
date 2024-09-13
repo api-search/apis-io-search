@@ -38,6 +38,10 @@ apis:
     properties:
 
       # Source of Truth
+      - type: Team
+        url: https://github.com/api-search/team.yml
+
+      # Source of Truth
       - type: GitHubRepository
         url: https://github.com/api-search/search-api    
       
@@ -125,7 +129,7 @@ common:
   - type: Videos
     url: 'https://developer.apis.io/videos/'   
 
-  # Support / Feedback Loop
+  # Support
   - type: Forums
     url: 'https://github.com/orgs/api-search/discussions'
 
@@ -161,6 +165,9 @@ common:
 
   - type: Lifecycle
     url: https://developer.apis.io/api-lifecycle.yml
+
+  - type: Vocabulary
+    url: https://developer.apis.io/vocabulary.yml   
 
   # Legal
   - type: TermsOfService
