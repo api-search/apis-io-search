@@ -1802,6 +1802,10 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/.html">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<h2>API Lifecycle</h2>
+
+<p>This is the API lifecycle being applied to this API, organizing the policies above by each stage of API development, rather than by strategy area, helping understand when things need to happen, and automating the governance of APIs by each individual stage.</p>
+
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/videos.png" width="35"></td>
