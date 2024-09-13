@@ -1810,73 +1810,73 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/lifecycle/define.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/github-organization.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>GitHub Organization</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/workspaces/github-organization.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>GitHub Repository</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/repositories/github.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Postman Workspace</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/workspaces/postman-workspace.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/teams.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Teams</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/organization/teams.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/standards.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Standards</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/standards/overview.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/use-cases.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Use Cases</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/use-cases/overview.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Contract Metadata</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/contract/metadata.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/meta-data.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>API Metadata</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/metadata.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Road Map</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/change/road-map.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Change Log</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/change/change-log.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/questions.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Questions</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/governance.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Governance</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/governance/overview.html">Guidance</a></td>
@@ -1888,205 +1888,205 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/lifecycle/design.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>OpenAPI</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/openapi.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/components.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>OpenAPI Components</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Path Names</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/unique-identifiers.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Operation Ids</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/summaries.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Operation Summary</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Operation Description</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/request-bodies.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Request Bodies</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/schema.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Request Bodies Schema</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/parameters.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameters</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/parameters.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameter In</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/parameter-names.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameter Names</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/parameter-descriptions.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameter Descriptions</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/types.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameter Type</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/schema.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameter Schema</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/enumerators.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Parameter Enumerators</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/tags.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Operation Tags</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/security.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Operation Security</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 2xx</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 2xx Media Type</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 2xx Schema</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 2xx Examples</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 4xx</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 4xx Schema</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 5xx</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Response 5xx Schema</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/types.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Type</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Names</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Descriptions</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/names.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Property Names</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/descriptions.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Property Descriptions</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/types.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Property Type</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/shapes.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Schema Property Shapes</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/collections.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Postman Collection</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/contracts/collection.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Documentation</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/documentation/overview.html">Guidance</a></td>
@@ -2098,25 +2098,25 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/lifecycle/develop.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/security.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>OpenAPI Security</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/actions.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>GitHub Actions</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/repositories/actions.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/base-url.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Base URL</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/base-url.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/sdks.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>SDKs</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/code/software-development-kits.html">Guidance</a></td>
@@ -2128,37 +2128,37 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/lifecycle/staging.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Human URL</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/api/human-url.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/portals.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Portals</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/portals/overview.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/getting-started.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Getting Started</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/onboarding/getting-started.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/plans.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Plans</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/onboarding/plans.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/status.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Status</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/monitoring/uptime.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/performance.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Performance</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/monitoring/performance.html">Guidance</a></td>
@@ -2170,49 +2170,49 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/lifecycle/production.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/support.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Support</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/support/overview.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/feedback.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Feedback</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/blogs.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Blogs</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/communication/blog.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/blog-feeds.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Blog Feeds</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/communication/blog-feeds.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/videos.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Videos</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/communication/videos.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/terms-of-service.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Terms of Service</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/privacy-policy.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Privacy Policy</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/licenses.png" width="35"></td>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>Licensing</strong></td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/undefined.html">Guidance</a></td>
