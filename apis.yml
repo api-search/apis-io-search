@@ -5,7 +5,7 @@ specificationVersion: '0.18'
 type: Contract
 
 name: API Contract for the APIs.io Search API
-description: This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.
+description: This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.
 
 image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
 
@@ -16,7 +16,7 @@ tags:
   - Directory
 
 created: '2024-08-20'
-modified: '2024-09-05'  
+modified: '2024-09-23'  
 
 url: hhttps://github.com/api-search/search-api/blob/main/apis.yml
 
@@ -60,6 +60,11 @@ apis:
       # Executable Contract
       - type: PostmanCollection
         url: https://developer.apis.io/postman-collection/   
+
+      # Production Environment
+
+      - type: PostmanEnvironment
+        url: https://www.postman.com/api-evangelist/apis-io-api-search-engine/environment/35240-f6035e55-e9f8-41b8-a2d8-b7ac4cd127bb/production
 
       # Change Log
       - type: ChangeLog
@@ -123,29 +128,35 @@ common:
   - type: Blog
     url: 'https://developer.apis.io/blog/' 
 
+  # Blog Atom Feed
   - type: BlogFeed
     url: 'https://developer.apis.io/atom.xml'
 
+  # Videos
   - type: Videos
     url: 'https://developer.apis.io/videos/'   
 
-  # Support
-  - type: Forums
-    url: 'https://github.com/orgs/api-search/discussions'
-
+  # Support Page
   - type: Support
     url: 'https://developer.apis.io/support/'
 
+  # Discussion Forum
+  - type: Forums
+    url: 'https://github.com/orgs/api-search/discussions'
+
+  # Support Issues
   - type: SupportGitHubIssues
     url: 'https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Asupport' 
 
+  # Support Email
   - type: SupportEmail
     url: 'info@apievangelist.com'
 
-  # Feedback
+  # Feedback Issues
   - type: FeedbackGitHubIssues
     url: 'https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Afeedback' 
 
+  # Feedback Email
   - type: FeedbackEmail
     url: 'info@apievangelist.com'    
 
@@ -157,29 +168,35 @@ common:
   - type: Policies
     url: https://developer.apis.io/policies.yml
 
+  # Operational Rules for APIs.json
   - type: ApisJsonRules
     url:  https://developer.apis.io/apis-json-rules.yml
 
+  # API Rules for OpenAPI
   - type: OpenApiRules
     url: https://developer.apis.io/openapi-rules.yml  
 
+  # The Central Lifecycle
   - type: Lifecycle
     url: https://developer.apis.io/api-lifecycle.yml
 
+  # The Central Vocabulary
   - type: Vocabulary
     url: https://developer.apis.io/vocabulary.yml   
 
-  # Legal
+  # Terms of Service
   - type: TermsOfService
     url: 'https://developer.apis.io/terms-of-service/'  
     
+  # Privacy Policy
   - type: PrivacyPolicy
     url: 'https://developer.apis.io/privacy-policy/' 
 
+  # Interface License
   - type: InterfaceLicense
     url: 'https://developer.apis.io/licensing/' 
                        
-    
+# Who Is Responsible for this Contract
 maintainers:
 
   - FN: Kin Lane
