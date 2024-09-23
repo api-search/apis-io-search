@@ -97,7 +97,7 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#tags-upper-case-apis-json-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Possess Informative Metadata</h2>
 
 <p>All APIs possess metadata that is relevant to what APIs do, but also how they can be used in business by API consumers, and metadata helps ensure that the front door for API operations within this domain is always one click away, and present in all artifacts we use to support API operations.</p>
@@ -194,7 +194,7 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-tags-are-upper-case-apis-json-apis-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/api-tags.html"" target="_blank">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Have One Click Access</h2>
 
 <p>All APIs possess a URL for humans to follow when engaging as well as the base path URL for machines to use when calling each API, ensuring that the front door for API operations within this domain is always one click away, and present in all artifacts supporting humans and the applications.</p>
@@ -248,7 +248,7 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#apis-has-a-base-url-apis-json-apis-baseurl-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/base-url.html"" target="_blank">Guidance</a></td>
 </tr>
-<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Operations</h2>
 
 <p>All of the individual operations that area available for use with this API.</p>
