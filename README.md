@@ -2365,67 +2365,67 @@
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>Amazon S3</strong></td>
 <td width="55%" align="left">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#amazon-s3-amazon-s3" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>AWS Lambda</strong></td>
 <td width="55%" align="left">AWS Lambda is an event-driven, serverless Function as a Service provided by Amazon as a part of Amazon Web Services.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#aws-lambda-aws-lambda" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>AWS API Gateway</strong></td>
 <td width="55%" align="left">Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#aws-api-gateway-aws-api-gateway" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>AWS RDS</strong></td>
 <td width="55%" align="left">Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#aws-rds-aws-rds" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>AWS IAM</strong></td>
 <td width="55%" align="left">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#aws-iam-aws-iam" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>Microsoft Bing Search</strong></td>
 <td width="55%" align="left">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#microsoft-bing-search-microsoft-bing-search" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>Postman</strong></td>
 <td width="55%" align="left">Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#postman-postman" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>Cloudflare</strong></td>
 <td width="55%" align="left">Cloudflare, Inc. is an American company that provides content delivery network services, cloud cybersecurity, DDoS mitigation, wide area network services, reverse proxies, Domain Name Service, and ICANN-accredited domain registration services.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#cloudflare-cloudflare" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>GitHub</strong></td>
 <td width="55%" align="left">GitHub is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#github-github" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>VSCode</strong></td>
 <td width="55%" align="left">Visual Studio Code, also commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#vscode-vscode" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
 <td width="15%" style="font-size: 18px;"><strong>EasyCron</strong></td>
 <td width="55%" align="left">EasyCron is used to run automated tasks, making API calls on a variety of schedules, using all of the APIs produced and consumed.</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#apisio-engineering-platform-apisio-engineering-platform" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform#easycron-easycron" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Summary of this API Contract</h2>
