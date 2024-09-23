@@ -1800,7 +1800,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blogs.png" width="35"></td>
 <td width="30%"><strong>Blogs</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/blog/" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#blogs-blogs" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1814,7 +1814,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blog-feeds.png" width="35"></td>
 <td width="30%"><strong>Blog Feeds</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/atom.xml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#blog-feeds-blog-feeds" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog-feeds.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1862,7 +1862,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Support Email</strong></td>
-<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="info@apievangelist.com" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#support-email-support-email" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1876,7 +1876,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Support Issues</strong></td>
-<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Asupport" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#support-issues-support-issues" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1890,14 +1890,14 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/feedback.png" width="35"></td>
 <td width="30%"><strong>Feedback</strong></td>
-<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/support/" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#feedback-feedback" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Feedback Issues</strong></td>
-<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Afeedback" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#feedback-issues-feedback-issues" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1911,14 +1911,14 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/questions.png" width="35"></td>
 <td width="30%"><strong>Questions</strong></td>
-<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#questions-questions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Questions Issues</strong></td>
-<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/issues?q=is%3Aissue+is%3Aopen+label%3Aquestion" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#questions-issues-questions-issues" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>

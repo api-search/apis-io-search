@@ -38,8 +38,8 @@ apis:
     properties:
 
       # Source of Truth
-      - type: Team
-        url: https://github.com/api-search/team.yml
+      - type: Teams
+        url: https://github.com/api-search/search-api/blob/main/team.yml
 
       # Source of Truth
       - type: GitHubRepository
@@ -55,11 +55,11 @@ apis:
 
       # Technical Contract
       - type: OpenAPI
-        url: https://developer.apis.io/openapi
+        url: https://github.com/api-search/search-api/blob/main/openapi.yml
 
       # Executable Contract
       - type: PostmanCollection
-        url: https://developer.apis.io/postman-collection/   
+        url: https://www.postman.com/api-evangelist/apis-io-api-search-engine/collection/hn8xpmd/apis-io-search-api  
 
       # Production Environment
 
@@ -79,7 +79,7 @@ apis:
         url: https://github.com/api-search/search-api/blob/main/use-cases.yml
 
       # Status Page
-      - type: StatusPage
+      - type: Status
         url: https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Status~1ef6bc29-9da9-4040-b98b-cef03be1155e              
 
       # Performance
@@ -125,11 +125,11 @@ common:
     url: https://developer.apis.io/sdks/                                          
     
   # Communication
-  - type: Blog
+  - type: Blogs
     url: 'https://developer.apis.io/blog/' 
 
   # Blog Atom Feed
-  - type: BlogFeed
+  - type: BlogFeeds
     url: 'https://developer.apis.io/atom.xml'
 
   # Videos
