@@ -24,7 +24,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is an aid.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-aid-apis-json-specification-aid-info">Rule</a></td>
 <td width="10%" align="center"><a href="undefined" target="_blank">Guidance</a></td>
 </tr>
@@ -38,7 +37,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a name.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-name-apis-json-name-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/naming/apis-json-names/"" target="_blank">Guidance</a></td>
 </tr>
@@ -52,7 +50,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a description.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-description-apis-json-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/descriptions/apis-json-descriptions/"" target="_blank">Guidance</a></td>
 </tr>
@@ -66,7 +63,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is an image.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-image-apis-json-image-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/images/apis-json-images/"" target="_blank">Guidance</a></td>
 </tr>
@@ -80,14 +76,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a Tags Object</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-tags-object-apis-json-tags-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Tags Upper Case</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#tags-upper-case-apis-json-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
 </tr>
@@ -115,7 +109,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has an aid property.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-an-aid-property-apis-json-apis-aid-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/unique-identifiers.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -129,7 +122,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has a name.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-a-name-apis-json-apis-name-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/names.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -143,7 +135,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has a description.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-a-description-apis-json-apis-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/descriptions.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -157,7 +148,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has an image.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-an-image-apis-json-apis-image-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/images.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -171,14 +161,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Have a Tags Object</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-have-a-tags-object-apis-json-apis-tags-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/api-tags.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Tags are Upper Case</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-tags-are-upper-case-apis-json-apis-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/api-tags.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -199,7 +187,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a URL.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-url-apis-json-url-info">Rule</a></td>
 <td width="10%" align="center"><a href="undefined" target="_blank">Guidance</a></td>
 </tr>
@@ -214,7 +201,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Human URL.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#apis-has-a-human-url-apis-json-apis-humanurl-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url/"" target="_blank">Guidance</a></td>
 </tr>
@@ -229,7 +215,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Base URL</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#apis-has-a-base-url-apis-json-apis-baseurl-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/base-url.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -253,21 +238,18 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; No API in Path</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#no-api-in-path-openapi-no-api-in-path-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/paths.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Path Trailing Slash</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#path-trailing-slash-openapi-no-path-trailing-slash-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/paths.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Version in Path</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#version-in-path-openapi-version-in-path-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/paths.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -287,14 +269,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has Identifier</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operation-has-identifier-openapi-operations-operation-ids-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-identifier.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Operation Identifier MUST Be camelCase</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operation-identifier-must-be-camelcase-openapi-operations-operation-ids-camel-case-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-identifier.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -308,14 +288,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has a Summary</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operation-has-a-summary-openapi-operations-summary-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-description.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has a Period.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operation-has-a-period-openapi-operations-summary-period-none-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-description.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -329,7 +307,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Has Description</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operation-has-description-openapi-operations-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-description.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -343,14 +320,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Request Body</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-request-body-openapi-no-request-body-on-get-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/request-bodies.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body Content POST</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#request-body-content-post-openapi-request-body-content-on-post-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/request-bodies.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -364,7 +339,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body Application JSON</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#request-body-application-json-openapi-request-body-have-application-json-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-request-bodies-media-type.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -378,21 +352,18 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Body Schema</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#request-body-schema-openapi-request-body-have-schema-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-request-bodies-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Request Bodies Use Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#request-bodies-use-schema-reference-openapi-request-body-have-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-request-bodies-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Requests Has a Body</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-requests-has-a-body-openapi-request-body-on-post-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/request-bodies.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -406,7 +377,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters use components $ref.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#parameters-use-components-ref-openapi-parameters-componentized-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/components-parameters.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -420,7 +390,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters In Property Is Set</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#parameters-in-property-is-set-openapi-components-parameters-in-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-parameter-in.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -434,7 +403,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters Have a Name</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#parameters-have-a-name-openapi-components-parameters-name-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-parameter-names.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -448,7 +416,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters Have a Description</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#parameters-have-a-description-openapi-components-parameters-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/parameters.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -462,35 +429,30 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-has-items-openapi-schema-properties-array-items-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Max Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-must-have-max-items-openapi-schema-properties-array-maxitems-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Min Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-must-have-min-items-openapi-schema-properties-array-minitems-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-maxlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-minlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -504,14 +466,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters Have Schema</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#parameters-have-schema-openapi-components-parameters-schema-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-parameter-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Parameters Use Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#parameters-use-schema-reference-openapi-components-parameters-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-parameter-schema.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -532,14 +492,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operations Has Tags</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operations-has-tags-openapi-operations-tags-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-tags.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Operation Tag Names Have First Letter in Each Word Capitalized</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operation-tag-names-have-first-letter-in-each-word-capitalized-openapi-operations-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-tags.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -553,7 +511,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Operations MUST Have a Security Definition</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#operations-must-have-a-security-definition-openapi-operation-security-definitions-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-security.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -573,42 +530,36 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses Has 200 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-responses-has-200-status-codes-openapi-response-get-200-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response has description.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-description-openapi-response-get-200-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Content.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-content-openapi-response-get-200-content-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 201 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-201-status-codes-openapi-response-post-201-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Description</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-description-openapi-response-post-201-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Content</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-content-openapi-response-post-201-content-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -622,14 +573,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Media Type.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-media-type-openapi-response-get-200-media-type-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Media Type</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-media-type-openapi-response-post-201-media-type-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -643,28 +592,24 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Schema</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-schema-openapi-response-get-200-media-type-schema-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responses-uses-schema-reference-openapi-response-get-200-media-type-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-schema-openapi-response-post-201-media-type-schema-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-schema-reference-openapi-response-post-201-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -678,28 +623,24 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 ResponseHas Examples</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responsehas-examples-openapi-response-get-200-media-type-examples-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Examples Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responses-uses-examples-reference-openapi-response-get-200-media-type-examples-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Examples</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-examples-openapi-response-post-201-media-type-examples-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Examples Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-examples-reference-openapi-response-post-201-examples-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -713,63 +654,54 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses Has 400 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-responses-has-400-status-codes-openapi-response-get-400-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses MUST Have 401 Status Code</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-responses-must-have-401-status-code-openapi-response-get-401-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses MUST Have 403 Status Code</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-responses-must-have-403-status-code-openapi-response-get-403-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses MUST Have 429 Status Code</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-responses-must-have-429-status-code-openapi-response-get-429-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 400 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-400-status-codes-openapi-response-post-400-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 401 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-401-status-codes-openapi-response-post-401-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 403 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-403-status-codes-openapi-response-post-403-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 404 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-404-status-codes-openapi-response-post-404-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 429 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-429-status-codes-openapi-response-post-429-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -783,70 +715,60 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 400 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-400-responses-uses-schema-reference-openapi-response-get-400-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 401 Responses Has Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-401-responses-has-schema-reference-openapi-response-get-401-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 403 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-403-responses-uses-schema-reference-openapi-response-get-403-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 404 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-404-responses-uses-schema-reference-openapi-response-get-404-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 429 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-429-responses-uses-schema-reference-openapi-response-get-429-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 400 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-400-responses-uses-schema-reference-openapi-response-post-400-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 401 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-401-responses-uses-schema-reference-openapi-response-post-401-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 403 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-403-responses-uses-schema-reference-openapi-response-post-403-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 404 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-404-responses-uses-schema-reference-openapi-response-post-404-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 429 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-429-responses-uses-schema-reference-openapi-response-post-429-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -860,14 +782,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET Responses Has 500 Status Code</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-responses-has-500-status-code-openapi-response-get-500-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 500 Status Codes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-500-status-codes-openapi-response-post-500-status-code-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -881,14 +801,12 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 500 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-500-responses-uses-schema-reference-openapi-response-get-500-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 500 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-500-responses-uses-schema-reference-openapi-response-post-500-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -908,7 +826,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST Have Type Property</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-must-have-type-property-openapi-schema-type-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-types.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -922,7 +839,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Names MUST Be PascalCase.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-names-must-be-pascalcase-openapi-schema-names-pascal-case-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-names.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -936,7 +852,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema MUST Have a Description.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-must-have-a-description-openapi-schema-description-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-descriptions.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -950,7 +865,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Property Names Are camelCase.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-property-names-are-camelcase-openapi-schema-properties-names-camel-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-names.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -964,7 +878,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Properties MUST Have Description</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-properties-must-have-description-openapi-schema-properties-descriptions-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-descriptions.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -978,7 +891,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-has-items-openapi-schema-properties-array-items-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -992,35 +904,30 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-maxlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-minlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Schema Array Properties Has Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-has-items-openapi-schema-properties-array-items-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Max Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-must-have-max-items-openapi-schema-properties-array-maxitems-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema Array Properties MUST Have Min Items</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-array-properties-must-have-min-items-openapi-schema-properties-array-minitems-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1040,7 +947,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components Have a Security Schemes</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-have-a-security-schemes-openapi-security-schemes-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/security.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1060,35 +966,30 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is an common property.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-common-property-apis-json-common-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/discovery/common/"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components Have a Parameters Property</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-have-a-parameters-property-openapi-components-parameters-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/parameters.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components Have a Examples Property</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-have-a-examples-property-openapi-components-examples-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/components-examples.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components Have a Schema Property</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-have-a-schema-property-openapi-components-schemas-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/components-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Components MUST Have a Headers Property</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-must-have-a-headers-property-openapi-components-headers-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/components-headers.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1108,7 +1009,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has and OpenAPI.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-and-openapi-apis-json-apis-properties-openapi-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/openapi.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1122,7 +1022,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Postman Collection.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-postman-collection-apis-json-apis-properties-postman-collection-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/postman-collections.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1142,7 +1041,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Documentation</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-documentation-apis-json-apis-properties-documentation-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/documentation/overview.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1162,7 +1060,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a GitHub repository.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-github-repository-apis-json-apis-properties-github-repository-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/source-control/github.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1176,7 +1073,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a GitHub Action.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-github-action-apis-json-apis-properties-github-action-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/pipelines/github-actions.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1196,7 +1092,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Use Cases</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-use-cases-apis-json-apis-properties-use-cases-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/overview.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1240,7 +1135,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Road Map</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-road-map-apis-json-apis-properties-road-map-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/road-map.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1258,7 +1152,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Change Log</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-change-log-apis-json-apis-properties-change-log-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/change-log.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1282,7 +1175,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Status Page</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-status-page-apis-json-apis-properties-status-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/monitoring/status.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1296,7 +1188,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties Performance</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-properties-performance-apis-json-apis-properties-performance-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/testing/performance.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1316,7 +1207,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Team Defined</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-team-defined-apis-json-apis-properties-teams-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/owners/teams.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1385,56 +1275,48 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a responses property.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-responses-property-openapi-components-responses-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/components-responses.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a bad request response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-bad-request-response-openapi-components-responses-bad-request-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-bad-request.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a conflict response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-conflict-response-openapi-components-responses-conflict-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-conflict.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a forbidden response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-forbidden-response-openapi-components-responses-forbidden-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-forbidden.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a internal server error response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-internal-server-error-response-openapi-components-responses-internal-server-error-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-internal-server-error.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a not found response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-not-found-response-openapi-components-responses-not-found-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-not-found-error.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a too many requests response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-too-many-requests-response-openapi-components-responses-too-many-requests-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-too-man-requests-error.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Components has a unauthorized response.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-unauthorized-response-openapi-components-responses-unauthorized-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-unauthorized-error.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1468,7 +1350,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties GitHub Organization</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-properties-github-organization-apis-json-apis-properties-github-organization-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/github-organizations.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1482,7 +1363,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Providing a public Postman workspace</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#providing-a-public-postman-workspace-apis-json-apis-properties-postman-public-workspace-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspaces.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1502,7 +1382,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a portal</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-portal-apis-json-apis-properties-portal-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/discovery/portals.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1516,7 +1395,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Getting Started</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-getting-started-apis-json-apis-properties-getting-started-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/onboarding/getting-started.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1530,7 +1408,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a plans page.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-plans-page-apis-json-apis-properties-plans-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/plans/overview.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1544,7 +1421,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has SDK</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-sdk-apis-json-apis-properties-sdk-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/sdks/overview.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1564,7 +1440,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a created date.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-created-date-apis-json-created-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/created/"" target="_blank">Guidance</a></td>
 </tr>
@@ -1578,7 +1453,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a modified date.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-modified-date-apis-json-modified-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/modified/"" target="_blank">Guidance</a></td>
 </tr>
@@ -1592,7 +1466,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Road Map</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-road-map-apis-json-apis-properties-road-map-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/road-map.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1606,7 +1479,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Change Log</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-change-log-apis-json-apis-properties-change-log-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/change-log.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1626,7 +1498,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has SDK</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-sdk-apis-json-apis-properties-sdk-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/sdks/overview.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1646,7 +1517,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has an API Terms of Service</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-an-api-terms-of-service-apis-json-apis-properties-terms-of-service-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/legal/terms-of-service.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1660,7 +1530,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has an API Privacy Policy</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-an-api-privacy-policy-apis-json-apis-properties-privacy-policy-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/legal/privacy-policy.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1674,7 +1543,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Interface License</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-interface-license-apis-json-apis-properties-license-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/legal/interface-license.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1701,7 +1569,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a policies page.</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-policies-page-apis-json-apis-properties-policies-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/policies.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1715,7 +1582,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has APIs.json Rules</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-apisjson-rules-apis-json-apis-properties-apis-json-rules-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/operational-rules.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1729,7 +1595,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has OpenAPI Rules</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-openapi-rules-apis-json-apis-properties-openapi-rules-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/openapi-rules.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1743,7 +1608,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has an API Lifecycle</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-an-api-lifecycle-apis-json-apis-properties-lifecycle-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/lifecycle.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1757,7 +1621,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Vocabulary</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-vocabulary-apis-json-apis-properties-vocabulary-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/vocabulary.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1777,7 +1640,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Blog Feed</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-blog-feed-apis-json-apis-properties-blog-feed-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog-feeds.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1791,7 +1653,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Blog Feed</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-blog-feed-apis-json-apis-properties-blog-feed-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog-feeds.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1805,7 +1666,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Videos for API</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-videos-for-api-apis-json-apis-properties-video-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/videos.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1825,7 +1685,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Support Page</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-support-page-apis-json-apis-properties-support-support-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/support/overview.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1839,7 +1698,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Support Email</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-support-email-apis-json-apis-properties-support-email-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/support/email.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1853,7 +1711,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Support Issues URL</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-support-issues-url-apis-json-apis-properties-support-issues-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/support/issues.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1874,7 +1731,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Feedback Issues URL</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-feedback-issues-url-apis-json-apis-properties-feedback-issues-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/feedback/issues.html"" target="_blank">Guidance</a></td>
 </tr>
@@ -1895,7 +1751,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Questions Issues URL</td>
-<td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-questions-issues-url-apis-json-apis-properties-questions-issues-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/feedback/issues.html"" target="_blank">Guidance</a></td>
 </tr>
