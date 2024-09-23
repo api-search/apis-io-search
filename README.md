@@ -2423,6 +2423,7 @@
 <td width="55%" align="left">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
+<tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Summary of this API Contract</h2>
 
 <p>This README is generated from the APIs.json (YAML) artifact in the root of this repository, and the properties and artifacts indexed as part of this contract. This contract is manually and automatically updated using Git, the GitHub API, and pushed out via Webhooks and business and engineering platform APIs. The goal of the API contract is to provide a combination of the API contract for the API, but also the governance and guidance that surrounds it. This contract provides everything you need to know about the API, but also what goes into a consistent and valuable API resources.</p>
