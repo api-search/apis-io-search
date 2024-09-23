@@ -1359,7 +1359,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/standards.png" width="35"></td>
 <td width="30%"><strong>Standards</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#standards-standards" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/standards/overview.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1491,7 +1491,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/github-organization.png" width="35"></td>
 <td width="30%"><strong>GitHub Organization</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#github-organization-github-organization" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/github-organization.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1505,7 +1505,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="35"></td>
 <td width="30%"><strong>Postman Workspace</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#postman-workspace-postman-workspace" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspace.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1525,7 +1525,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/portals.png" width="35"></td>
 <td width="30%"><strong>Portals</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#portals-portals" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/portals/overview.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1539,7 +1539,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/getting-started.png" width="35"></td>
 <td width="30%"><strong>Getting Started</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#getting-started-getting-started" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/onboarding/getting-started.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1553,7 +1553,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/plans.png" width="35"></td>
 <td width="30%"><strong>Plans</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#plans-plans" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/onboarding/plans.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1567,7 +1567,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/sdks.png" width="35"></td>
 <td width="30%"><strong>SDKs</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#sdks-sdks" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/code/software-development-kits.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1615,7 +1615,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="35"></td>
 <td width="30%"><strong>Road Map</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#road-map-road-map" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/road-map.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1629,7 +1629,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="35"></td>
 <td width="30%"><strong>Change Log</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#change-log-change-log" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/change-log.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1649,7 +1649,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/sdks.png" width="35"></td>
 <td width="30%"><strong>SDKs</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#sdks-sdks" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/code/software-development-kits.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1800,7 +1800,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blogs.png" width="35"></td>
 <td width="30%"><strong>Blogs</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#blogs-blogs" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1814,7 +1814,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blog-feeds.png" width="35"></td>
 <td width="30%"><strong>Blog Feeds</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#blog-feeds-blog-feeds" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog-feeds.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1828,7 +1828,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/videos.png" width="35"></td>
 <td width="30%"><strong>Videos</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#videos-videos" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/videos.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1848,7 +1848,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/support.png" width="35"></td>
 <td width="30%"><strong>Support</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#support-support" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/support/overview.html" target="_blank">Guidance</a></td>
 </tr>
