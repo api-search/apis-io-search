@@ -2359,68 +2359,68 @@
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>Amazon S3</strong></td>
-<td width="10%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
+<td width="15%" style="font-size: 18px;"><strong>Amazon S3</strong></td>
+<td width="55%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>AWS Lambda</strong></td>
-<td width="10%" align="center">AWS Lambda is an event-driven, serverless Function as a Service provided by Amazon as a part of Amazon Web Services.</td>
+<td width="15%" style="font-size: 18px;"><strong>AWS Lambda</strong></td>
+<td width="55%" align="center">AWS Lambda is an event-driven, serverless Function as a Service provided by Amazon as a part of Amazon Web Services.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>AWS API Gateway</strong></td>
-<td width="10%" align="center">Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.</td>
+<td width="15%" style="font-size: 18px;"><strong>AWS API Gateway</strong></td>
+<td width="55%" align="center">Amazon API Gateway is a fully managed service that makes it easy for developers to create, publish, maintain, monitor, and secure APIs at any scale.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>AWS RDS</strong></td>
-<td width="10%" align="center">Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership.</td>
+<td width="15%" style="font-size: 18px;"><strong>AWS RDS</strong></td>
+<td width="55%" align="center">Amazon Relational Database Service (Amazon RDS) is an easy-to-manage relational database service optimized for total cost of ownership.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>AWS IAM</strong></td>
-<td width="10%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
+<td width="15%" style="font-size: 18px;"><strong>AWS IAM</strong></td>
+<td width="55%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>Microsoft Bing Search</strong></td>
-<td width="10%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
+<td width="15%" style="font-size: 18px;"><strong>Microsoft Bing Search</strong></td>
+<td width="55%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>Postman</strong></td>
-<td width="10%" align="center">Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.</td>
+<td width="15%" style="font-size: 18px;"><strong>Postman</strong></td>
+<td width="55%" align="center">Postman is an API platform for building and using APIs. Postman simplifies each step of the API lifecycle and streamlines collaboration so you can create better APIs—faster.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>Cloudflare</strong></td>
-<td width="10%" align="center">Cloudflare, Inc. is an American company that provides content delivery network services, cloud cybersecurity, DDoS mitigation, wide area network services, reverse proxies, Domain Name Service, and ICANN-accredited domain registration services.</td>
+<td width="15%" style="font-size: 18px;"><strong>Cloudflare</strong></td>
+<td width="55%" align="center">Cloudflare, Inc. is an American company that provides content delivery network services, cloud cybersecurity, DDoS mitigation, wide area network services, reverse proxies, Domain Name Service, and ICANN-accredited domain registration services.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>GitHub</strong></td>
-<td width="10%" align="center">GitHub is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.</td>
+<td width="15%" style="font-size: 18px;"><strong>GitHub</strong></td>
+<td width="55%" align="center">GitHub is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>VSCode</strong></td>
-<td width="10%" align="center">Visual Studio Code, also commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.</td>
+<td width="15%" style="font-size: 18px;"><strong>VSCode</strong></td>
+<td width="55%" align="center">Visual Studio Code, also commonly referred to as VS Code, is an integrated development environment developed by Microsoft for Windows, Linux, macOS and web browsers.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/production.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>EasyCron</strong></td>
-<td width="10%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
+<td width="15%" style="font-size: 18px;"><strong>EasyCron</strong></td>
+<td width="55%" align="center">Amazon S3 is used for centralized object storage, managing all images, video, and audio across sites via public and private buckets.</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/engineering-platform" target="_blank">Guidance</a></td>
 </tr>
 <h2>Summary of this API Contract</h2>
