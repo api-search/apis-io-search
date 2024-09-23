@@ -1689,7 +1689,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Policies</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/policies.yml" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies/blob/main/policies.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#policies-governance-policies" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1703,7 +1703,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operational Rules</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/apis-json-rules.yml" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules/blob/main/operational-rules.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#operational-rules-governance-operational-rules" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1717,7 +1717,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Rules</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/openapi-rules.yml" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules/blob/main/api-rules.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-rules-governance-api-rules" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1731,7 +1731,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Lifecycle</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/api-lifecycle.yml" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/lifecycle/blob/main/lifecycle.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#lifecycle-governance-lifecycle" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1745,7 +1745,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Vocabulary</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/vocabulary.yml" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/vocabulary/blob/main/vocabulary.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#vocabulary-governance-vocabulary" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>

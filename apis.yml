@@ -166,23 +166,23 @@ common:
 
   # Governance
   - type: Policies
-    url: https://developer.apis.io/policies.yml
+    url: https://github.com/api-search/policies/blob/main/policies.yml
 
   # Operational Rules for APIs.json
   - type: OperationalRules
-    url:  https://developer.apis.io/apis-json-rules.yml
+    url:  https://github.com/api-search/rules/blob/main/operational-rules.yml
 
   # API Rules for OpenAPI
   - type: ApiRules
-    url: https://developer.apis.io/openapi-rules.yml  
+    url: https://github.com/api-search/rules/blob/main/api-rules.yml 
 
   # The Central Lifecycle
   - type: Lifecycle
-    url: https://developer.apis.io/api-lifecycle.yml
+    url: https://github.com/api-search/lifecycle/blob/main/lifecycle.yml
 
   # The Central Vocabulary
   - type: Vocabulary
-    url: https://developer.apis.io/vocabulary.yml   
+    url: https://github.com/api-search/vocabulary/blob/main/vocabulary.yml  
 
   # Terms of Service
   - type: TermsOfService
