@@ -1,3 +1,7 @@
+<h2>API Contract for the APIs.io Search API</h2>
+
+<p>This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</p>
+
 <h2>APIs are Defined as API Contracts</h2>
 
 <p>All APIs are defined as API contracts so that we can align both the business and technology of delivering consistent high quality APIs, employing source control to manage the technical, but also the business side of things, while actively checking in on the alignment between the two over time.</p>
