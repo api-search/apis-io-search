@@ -104,7 +104,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Possess Informative Metadata</h2>
+<h2>APIs Possess Informative Metadata</h2>
 
 <p>All APIs possess metadata that is relevant to what APIs do, but also how they can be used in business by API consumers, and metadata helps ensure that the front door for API operations within this domain is always one click away, and present in all artifacts we use to support API operations.</p>
 
@@ -120,7 +120,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Unique Identifiers</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">apis-io:search-api</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-unique-identifiers-api-metadata-unique-identifiers" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/unique-identifiers.html" target="_blank">Guidance</a></td>
@@ -136,7 +136,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Name</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">APIs.io Search API</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-name-api-metadata-names" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/names.html" target="_blank">Guidance</a></td>
@@ -152,7 +152,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Description</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">This is the API to access APIs.io API search engine, from the product management perspective.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-description-api-metadata-descriptions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/descriptions.html" target="_blank">Guidance</a></td>
@@ -168,7 +168,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Image</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-image-api-metadata-images" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/images.html" target="_blank">Guidance</a></td>
@@ -184,7 +184,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Tag</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">APIs,Search Engine,Directory</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-tag-api-metadata-tags" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/tags.html" target="_blank">Guidance</a></td>
@@ -206,7 +206,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/api-tags.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Have One Click Access</h2>
+<h2>APIs Have One Click Access</h2>
 
 <p>All APIs possess a URL for humans to follow when engaging as well as the base path URL for machines to use when calling each API, ensuring that the front door for API operations within this domain is always one click away, and present in all artifacts supporting humans and the applications.</p>
 
@@ -264,7 +264,7 @@
 
 <p>All of the individual operations that area available for use with this API.</p>
 
-<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>22222API Paths Must Conform to the Organization</h2>
+<table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>API Paths Must Conform to the Organization</h2>
 
 <p>All API paths must conform to the overall organizational domain standards, utilizing plain language and a resourceful approach to delivering digital resources and capabilities via HTTP APIs, providing a common set of paths that can be used and reused across many different applications and consumers.</p>
 
@@ -298,7 +298,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/paths.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222API Operations Must Be Useful and Consistent</h2>
+<h2>API Operations Must Be Useful and Consistent</h2>
 
 <p>All individual API operations must be useful and follow consistent Internet, industry, and enterprise standards, providing a simple and relevant HTTP API operation that does one thing and does it well, making the value intuitive to API consumers who will be using each API operation.</p>
 
@@ -584,7 +584,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-security.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222API Responses Must Be Meaningful and Consistent</h2>
+<h2>API Responses Must Be Meaningful and Consistent</h2>
 
 <p>All API responses should follow Internet, industry, and enterprise standards, providing a meaningful and consistent communication and structure, always providing what was intended for API consumers, while ensuring things are always as simple as possible--always reducing the cognitive load.</p>
 
@@ -919,7 +919,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx-schema.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222API Data Should Be Well-Defined and Validated</h2>
+<h2>API Data Should Be Well-Defined and Validated</h2>
 
 <p>The schema for data that is sent and received via API should always be well-defined, possess a well-known shape, and always be validated, ensuring that digital resources and capabilities are what they should be, and only accessible to those who should have access our API digital resources.</p>
 
@@ -1051,7 +1051,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222API Operations Must Always Be Secure</h2>
+<h2>API Operations Must Always Be Secure</h2>
 
 <p>Individual API operations should always be properly secured during design, develop, and run-time, making sure data, credentials, logs, and all other related resources are properly secured and operating as expected by both the API producer and the consumer--protecting both parties equally.</p>
 
@@ -1071,7 +1071,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/security.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Must Reusable Whenever Possible</h2>
+<h2>APIs Must Reusable Whenever Possible</h2>
 
 <p>The components of any API should be made modular and reusable whenever it makes sense to the business use case, keeping schema, parameters, examples, error responses, and other common parts of an API as reusable and interchangeable as possible within a single API, but also across all APIs.</p>
 
@@ -1119,7 +1119,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/components-headers.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs are Defined by Technical Contracts</h2>
+<h2>APIs are Defined by Technical Contracts</h2>
 
 <p>All APIs must have machine-readable artifacts that defines the technical surface area of each API being made available to API consumers, utilizing open-source community specifications like OpenAPI and JSON Schema to define the technical details of each API that is being made available.</p>
 
@@ -1153,7 +1153,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/postman-collections.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Are Always Well Documented</h2>
+<h2>APIs Are Always Well Documented</h2>
 
 <p>All APIs must have human-readable documentation that defines the technical surface area of each API being made available to API consumers, providing a simple, intuitive, and ideally interactive HTML representation of APIs, methods, operations, requests, responses, errors, and other elements.</p>
 
@@ -1173,7 +1173,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/documentation/overview.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222Producing APIs MUST Be Repeatable</h2>
+<h2>Producing APIs MUST Be Repeatable</h2>
 
 <p>All APIs must have a single source of truth for all artifacts, as well as the conversations and always be able to be delivered using a repeatable process, leveraging existing software development infrastructure to ensure for continuous integration and delivery consistently across all APIs.</p>
 
@@ -1207,7 +1207,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/pipelines/github-actions.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Are Always Aligned with Business</h2>
+<h2>APIs Are Always Aligned with Business</h2>
 
 <p>All API contracts must have use cases that align the business reasons why an API is being delivered to consumers with the actual technical details of each API contract, ensuring that operations all have a valid business use case.</p>
 
@@ -1255,7 +1255,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/why.html" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222Change is Actively Managed for Each API</h2>
+<h2>Change is Actively Managed for Each API</h2>
 
 <p>All APIs must have change management baked into the definition, delivery, and iteration, ensuring that producers and consumers are in alignment regarding the communication, quality, and velocity of change that is occurring for each individual API, driving planning as well as API provenance.</p>
 
@@ -1297,7 +1297,7 @@
 <td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/7">Add Use Cases</a> - Add the first draft of the use case schema as individual file and link it like OpenAPI using it's own property.YAML - https://github.com/api-search/search-api/blob/main/use-cases.yml</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/6">Auto Generate README</a> - Generate the README from the APIs.json, parsing all the URLS, applying operational and API rules that are organized by strategy and policy--providing links to gudiance.</li><li style="list-style: none;">&#8594; <a href="https://github.com/api-search/search-api/issues/1">Created GitHub Repository</a> - The GitHub repository for an API, providing the single source of truth for the API contract, OpenAPI, and other artifacts, as well as the road map, change log, support, feedback, and other elements of a repository.</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Are Always High Quality and Reliable</h2>
+<h2>APIs Are Always High Quality and Reliable</h2>
 
 <p>All APIs should be high quality and reliable, providing adequate levels of monitoring of its availability and performance, with the proper provenance and communication with producer and consumers regarding quality of the APIs, as well as with any future release of API resources.</p>
 
@@ -1331,7 +1331,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/testing/performance.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>22222APIs Always Have Well-Defined Owners and Stakeholders</h2>
+<h2>APIs Always Have Well-Defined Owners and Stakeholders</h2>
 
 <p>Each API should ideally have a dedicated product as well as an engineering owner, with other stakeholders across the API lifecycle defined in an easy to access human readable location, but also defined in a machine-readable API to help automate coordination amongst owners and stakeholders.</p>
 
