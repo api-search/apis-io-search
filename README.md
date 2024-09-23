@@ -1505,7 +1505,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="35"></td>
 <td width="30%"><strong>Postman Workspace</strong></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#postman-workspace-postman-workspace" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspace.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1525,7 +1525,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/portals.png" width="35"></td>
 <td width="30%"><strong>Portals</strong></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#portals-portals" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/portals/overview.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1800,7 +1800,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blogs.png" width="35"></td>
 <td width="30%"><strong>Blogs</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/sdks/" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#blogs-blogs" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1814,7 +1814,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/blog-feeds.png" width="35"></td>
 <td width="30%"><strong>Blog Feeds</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/sdks/" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#blog-feeds-blog-feeds" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/communication/blog-feeds.html" target="_blank">Guidance</a></td>
 </tr>
