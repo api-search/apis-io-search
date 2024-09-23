@@ -1,4 +1,4 @@
-<h2></h2>
+<h2>API Contract for the APIs.io Search API</h2>
 
 <p>This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</p>
 
