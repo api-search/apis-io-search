@@ -24,7 +24,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is an aid.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-aid-apis-json-specification-aid-info">Rule</a></td>
 <td width="10%" align="center"><a href="undefined" target="_blank">Guidance</a></td>
@@ -39,7 +38,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a name.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-name-apis-json-name-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/naming/apis-json-names/"" target="_blank">Guidance</a></td>
@@ -54,7 +52,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a description.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-description-apis-json-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/descriptions/apis-json-descriptions/"" target="_blank">Guidance</a></td>
@@ -69,7 +66,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is an image.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-image-apis-json-image-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/images/apis-json-images/"" target="_blank">Guidance</a></td>
@@ -84,7 +80,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a Tags Object</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-tags-object-apis-json-tags-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
@@ -92,7 +87,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Tags Upper Case</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#tags-upper-case-apis-json-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
@@ -121,7 +115,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has an aid property.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-an-aid-property-apis-json-apis-aid-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/unique-identifiers.html"" target="_blank">Guidance</a></td>
@@ -136,7 +129,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has a name.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-a-name-apis-json-apis-name-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/names.html"" target="_blank">Guidance</a></td>
@@ -151,7 +143,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has a description.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-a-description-apis-json-apis-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/descriptions.html"" target="_blank">Guidance</a></td>
@@ -166,7 +157,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has an image.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-an-image-apis-json-apis-image-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/images.html"" target="_blank">Guidance</a></td>
@@ -181,7 +171,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Have a Tags Object</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-have-a-tags-object-apis-json-apis-tags-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/api-tags.html"" target="_blank">Guidance</a></td>
@@ -189,7 +178,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Tags are Upper Case</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-tags-are-upper-case-apis-json-apis-tags-upper-case-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/api-tags.html"" target="_blank">Guidance</a></td>
@@ -211,7 +199,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a URL.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-url-apis-json-url-info">Rule</a></td>
 <td width="10%" align="center"><a href="undefined" target="_blank">Guidance</a></td>
@@ -227,7 +214,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Human URL.</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#apis-has-a-human-url-apis-json-apis-humanurl-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url/"" target="_blank">Guidance</a></td>
@@ -243,7 +229,6 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Base URL</td>
-<td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#apis-has-a-base-url-apis-json-apis-baseurl-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/base-url.html"" target="_blank">Guidance</a></td>
