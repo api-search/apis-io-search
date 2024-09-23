@@ -619,6 +619,55 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Media Type.</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-media-type-openapi-response-get-200-media-type-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Schema</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-schema-openapi-response-get-200-media-type-schema-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Schema Reference</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responses-uses-schema-reference-openapi-response-get-200-media-type-schema-ref-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 ResponseHas Examples</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responsehas-examples-openapi-response-get-200-media-type-examples-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Examples Reference</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responses-uses-examples-reference-openapi-response-get-200-media-type-examples-ref-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-schema-openapi-response-post-201-media-type-schema-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema Reference</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-schema-reference-openapi-response-post-201-schema-ref-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 201 Status Codes</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-201-status-codes-openapi-response-post-201-status-code-info">Rule</a></td>
@@ -639,81 +688,11 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
-<td width="30%"><strong>Response 2xx Media Type</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#response-2xx-media-type-openapi-operation-response-2xx-media-types" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Media Type.</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-media-type-openapi-response-get-200-media-type-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
 <td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Media Type</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-media-type-openapi-response-post-201-media-type-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
-<td width="30%"><strong>Response 2xx Schema</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#response-2xx-schema-openapi-operation-response-2xx-schema" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Response Has Schema</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-response-has-schema-openapi-response-get-200-media-type-schema-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Schema Reference</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responses-uses-schema-reference-openapi-response-get-200-media-type-schema-ref-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-schema-openapi-response-post-201-media-type-schema-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST 201 Responses Has Schema Reference</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-201-responses-has-schema-reference-openapi-response-post-201-schema-ref-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/check.png" width="35"></td>
-<td width="30%"><strong>Response 2xx Examples</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#response-2xx-examples-openapi-operation-response-2xx-examples" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 ResponseHas Examples</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responsehas-examples-openapi-response-get-200-media-type-examples-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 200 Responses Uses Examples Reference</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-200-responses-uses-examples-reference-openapi-response-get-200-media-type-examples-ref-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -766,48 +745,6 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 400 Status Codes</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-400-status-codes-openapi-response-post-400-status-code-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 401 Status Codes</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-401-status-codes-openapi-response-post-401-status-code-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 403 Status Codes</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-403-status-codes-openapi-response-post-403-status-code-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 404 Status Codes</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-404-status-codes-openapi-response-post-404-status-code-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 429 Status Codes</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-429-status-codes-openapi-response-post-429-status-code-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/not-found.png" width="35"></td>
-<td width="30%"><strong>Response 4xx Schema</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#response-4xx-schema-openapi-operation-response-4xx-schema" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 400 Responses Uses Schema Reference</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-400-responses-uses-schema-reference-openapi-response-get-400-schema-ref-info">Rule</a></td>
@@ -840,6 +777,41 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-429-responses-uses-schema-reference-openapi-response-get-429-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 400 Status Codes</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-400-status-codes-openapi-response-post-400-status-code-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 401 Status Codes</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-401-status-codes-openapi-response-post-401-status-code-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 403 Status Codes</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-403-status-codes-openapi-response-post-403-status-code-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses MUST Have 404 Status Codes</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-must-have-404-status-codes-openapi-response-post-404-status-code-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 429 Status Codes</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-429-status-codes-openapi-response-post-429-status-code-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -892,24 +864,17 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 500 Status Codes</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-500-status-codes-openapi-response-post-500-status-code-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/error.png" width="35"></td>
-<td width="30%"><strong>Response 5xx Schema</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#response-5xx-schema-openapi-operation-response-5xx-schema" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx-schema.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; GET 500 Responses Uses Schema Reference</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#get-500-responses-uses-schema-reference-openapi-response-get-500-schema-ref-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx-schema.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; POST Responses Has 500 Status Codes</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#post-responses-has-500-status-codes-openapi-response-post-500-status-code-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1738,7 +1703,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; Operational Rules</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/apis-json-rules.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#operational-rules-governance-operational-rules" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1752,7 +1717,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Rules</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/openapi-rules.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-rules-governance-api-rules" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
@@ -2135,45 +2100,15 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%">   &#8594; Response 2xx Media Type</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-media-types.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%">   &#8594; Response 2xx Schema</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-schema.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%">   &#8594; Response 2xx Examples</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-2xx-examples.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%">   &#8594; Response 4xx</td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%">   &#8594; Response 4xx Schema</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-4xx-schema.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%">   &#8594; Response 5xx</td>
 <td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%">   &#8594; Response 5xx Schema</td>
-<td width="10%" align="center"><a href="https://developer.apis.io/documentation" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/operation-response-5xx-schema.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>

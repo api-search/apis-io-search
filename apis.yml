@@ -169,11 +169,11 @@ common:
     url: https://developer.apis.io/policies.yml
 
   # Operational Rules for APIs.json
-  - type: ApisJsonRules
+  - type: OperationalRules
     url:  https://developer.apis.io/apis-json-rules.yml
 
   # API Rules for OpenAPI
-  - type: OpenApiRules
+  - type: ApiRules
     url: https://developer.apis.io/openapi-rules.yml  
 
   # The Central Lifecycle
