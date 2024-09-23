@@ -1127,7 +1127,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/openapi.png" width="35"></td>
 <td width="30%"><strong>OpenAPI</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/blob/main/openapi.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#openapi-openapi" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/openapi.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1141,7 +1141,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/collections.png" width="35"></td>
 <td width="30%"><strong>Postman Collection</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io-api-search-engine/collection/hn8xpmd/apis-io-search-api" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#postman-collection-postman-collection" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/collection.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1161,7 +1161,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/documentation.png" width="35"></td>
 <td width="30%"><strong>Documentation</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/documentation/" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#documentation-documentation" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/documentation/overview.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1181,7 +1181,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/repositories.png" width="35"></td>
 <td width="30%"><strong>GitHub Repository</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#github-repository-github-repository" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/repositories/github.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1215,7 +1215,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/use-cases.png" width="35"></td>
 <td width="30%"><strong>Use Cases</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/blob/main/use-cases.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#use-cases-use-cases" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/overview.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1263,7 +1263,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="35"></td>
 <td width="30%"><strong>Road Map</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/labels/road-map" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#road-map-road-map" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/road-map.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1281,7 +1281,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/change-logs.png" width="35"></td>
 <td width="30%"><strong>Change Log</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/labels/change-log" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#change-log-change-log" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/change-log.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1305,7 +1305,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/status.png" width="35"></td>
 <td width="30%"><strong>Status</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Status~1ef6bc29-9da9-4040-b98b-cef03be1155e" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#status-status" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/monitoring/uptime.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1319,7 +1319,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/performance.png" width="35"></td>
 <td width="30%"><strong>Performance</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io/monitor/APIs-io-Search---Performance~1ef6bc38-c969-4bd0-815b-25b7d1b1a503" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#performance-performance" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/monitoring/performance.html" target="_blank">Guidance</a></td>
 </tr>
@@ -1339,7 +1339,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/teams.png" width="35"></td>
 <td width="30%"><strong>Teams</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/search-api/blob/main/team.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#teams-teams" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/organization/teams.html" target="_blank">Guidance</a></td>
 </tr>
