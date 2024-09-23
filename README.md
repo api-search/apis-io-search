@@ -1585,7 +1585,7 @@
 
 <table style="width: 100%">
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/created.png" width="35"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/created-date.png" width="35"></td>
 <td width="30%"><strong>Created Date</strong></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#created-date-apis-json-created-info" target="_blank">Policy</a></td>
@@ -1599,7 +1599,7 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/created/"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/modified.png" width="35"></td>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/modified-date.png" width="35"></td>
 <td width="30%"><strong>Modified Date</strong></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#modified-date-apis-json-modified-info" target="_blank">Policy</a></td>
