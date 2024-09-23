@@ -1505,7 +1505,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="35"></td>
 <td width="30%"><strong>Postman Workspace</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io/overview" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#postman-workspace-postman-workspace" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspace.html" target="_blank">Guidance</a></td>
 </tr>

@@ -97,7 +97,7 @@ common:
   - type: GitHubOrganization
     url: https://github.com/api-search/ 
 
-  - type: PostmanPublicWorkspace
+  - type: PostmanWorkspace
     url: https://www.postman.com/api-evangelist/apis-io/overview
 
   # Onboarding
