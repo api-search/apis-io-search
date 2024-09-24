@@ -508,16 +508,16 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema String Properties MUST Have Maximum Length</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-maxlength-error">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-string-properties-must-have-maximum-length-openapi-schema-properties-string-maxlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema String Properties MUST Have Minimum Length</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-minlength-error">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-string-properties-must-have-minimum-length-openapi-schema-properties-string-minlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -982,16 +982,16 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema String Properties MUST Have Maximum Length</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-maxlength-error">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-string-properties-must-have-maximum-length-openapi-schema-properties-string-maxlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; undefined</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#10060; Schema String Properties MUST Have Minimum Length</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#undefined-openapi-schema-properties-string-minlength-error">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#schema-string-properties-must-have-minimum-length-openapi-schema-properties-string-minlength-error">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/schema-property-shapes.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
