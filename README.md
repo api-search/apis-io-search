@@ -1,7 +1,3 @@
-<h2>API Contract for the APIs.io Search API</h2>
-
-<p>This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</p>
-
 <h2>APIs are Defined as API Contracts</h2>
 
 <p>All APIs are defined as API contracts so that we can align both the business and technology of delivering consistent high quality APIs, employing source control to manage the technical, but also the business side of things, while actively checking in on the alignment between the two over time.</p>
@@ -17,10 +13,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Contract Unique Identifiers</strong></td>
+<td width="30%"><strong>   &#8594; Unique Identifiers</strong></td>
 <td width="30%" style="color: #228B22;">apis-io</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-unique-identifiers-contract-metadata-unique-identifiers" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#unique-identifiers-contract-metadata-unique-identifiers" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/unique-identifiers.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -33,10 +29,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Contract Name</strong></td>
+<td width="30%"><strong>   &#8594; Name</strong></td>
 <td width="30%" style="color: #228B22;">API Contract for the APIs.io Search API</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-name-contract-metadata-names" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#name-contract-metadata-names" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/names.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -49,10 +45,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Contract Descriptions</strong></td>
+<td width="30%"><strong>   &#8594; Descriptions</strong></td>
 <td width="30%" style="color: #228B22;">This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-descriptions-contract-metadata-descriptions" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#descriptions-contract-metadata-descriptions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/descriptions.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -65,10 +61,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Contract Images</strong></td>
+<td width="30%"><strong>   &#8594; Images</strong></td>
 <td width="30%" style="color: #228B22;">https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-images-contract-metadata-images" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#images-contract-metadata-images" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/images.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -81,10 +77,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Contract Tags</strong></td>
+<td width="30%"><strong>   &#8594; Tags</strong></td>
 <td width="30%" style="color: #228B22;">APIs,Search Engine,Directory</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-tags-contract-metadata-tags" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#tags-contract-metadata-tags" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/tags.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -119,10 +115,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Unique Identifiers</strong></td>
+<td width="30%"><strong>   &#8594; Unique Identifiers</strong></td>
 <td width="30%" style="color: #228B22;">apis-io</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-unique-identifiers-api-metadata-unique-identifiers" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#unique-identifiers-api-metadata-unique-identifiers" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/unique-identifiers.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -135,10 +131,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Name</strong></td>
+<td width="30%"><strong>   &#8594; Name</strong></td>
 <td width="30%" style="color: #228B22;">API Contract for the APIs.io Search API</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-name-api-metadata-names" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#name-api-metadata-names" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/names.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -151,10 +147,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Description</strong></td>
+<td width="30%"><strong>   &#8594; Description</strong></td>
 <td width="30%" style="color: #228B22;">This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-description-api-metadata-descriptions" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#description-api-metadata-descriptions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/descriptions.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -167,10 +163,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Image</strong></td>
+<td width="30%"><strong>   &#8594; Image</strong></td>
 <td width="30%" style="color: #228B22;">https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-image-api-metadata-images" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#image-api-metadata-images" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/images.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -183,10 +179,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; API Tag</strong></td>
+<td width="30%"><strong>   &#8594; Tag</strong></td>
 <td width="30%" style="color: #228B22;">APIs,Search Engine,Directory</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-tag-api-metadata-tags" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#tag-api-metadata-tags" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/tags.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -213,10 +209,10 @@
 <table style="width: 100%">
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/url.png" width="35"></td>
-<td width="30%"><strong>API Contract URL</strong></td>
+<td width="30%"><strong>URL</strong></td>
 <td width="30%" style="color: #228B22;">hhttps://github.com/api-search/search-api/blob/main/apis.yml</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-url-apis-json-url-info" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#url-apis-json-url-info" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/apis-json-url.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -229,10 +225,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="35"></td>
-<td width="30%"><strong>API Human URL</strong></td>
+<td width="30%"><strong>Human URL</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-human-url-human-url" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#human-url-human-url" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -245,10 +241,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/base-url.png" width="35"></td>
-<td width="30%"><strong>API Base URL</strong></td>
+<td width="30%"><strong>Base URL</strong></td>
 <td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-base-url-base-url" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#base-url-base-url" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/base-url.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -2170,8 +2166,8 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%">   &#8594; API Base URL</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-base-url-base-url" target="_blank">Policy</a></td>
+<td width="30%">   &#8594; Base URL</td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#base-url-base-url" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/base-url.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -2188,8 +2184,8 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="30%">   &#8594; API Human URL</td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#api-human-url-human-url" target="_blank">Policy</a></td>
+<td width="30%">   &#8594; Human URL</td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#human-url-human-url" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
