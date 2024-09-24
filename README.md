@@ -210,7 +210,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/url.png" width="35"></td>
 <td width="30%"><strong>URL</strong></td>
-<td width="30%" style="color: #228B22;">hhttps://github.com/api-search/search-api/blob/main/apis.yml</td>
+<td width="30%" style="color: #228B22;">https://github.com/api-search/search-api/blob/main/apis.yml</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#url-apis-json-url-info" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/apis-json-url.html" target="_blank">Guidance</a></td>
