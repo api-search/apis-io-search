@@ -118,7 +118,10 @@ common:
     url: https://developer.apis.io/road-map/
 
   - type: ChangeLog
-    url: https://developer.apis.io/change-log/                             
+    url: https://developer.apis.io/change-log/  
+
+  - type: Versioning
+    url: https://developer.apis.io/versioning/                                   
 
   # Code
   - type: SDKs

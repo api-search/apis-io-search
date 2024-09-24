@@ -1610,6 +1610,34 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-change-log-apis-json-apis-properties-change-log-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/change-log.html"" target="_blank">Guidance</a></td>
 </tr>
+<tr>
+<td width="10%" align="center"><img src="https://apievangelist.com/images/versions.png" width="35"></td>
+<td width="30%"><strong>Versioning</strong></td>
+<td width="10%" align="center"><a href="https://developer.apis.io/versioning/" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#versioning-versioning" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/versioning.html" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Videos for API</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-videos-for-api-apis-json-apis-properties-versioning-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/versioning.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="30%"><strong>   &#8594; Semantic Versioning</strong></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#semantic-versioning-versioning-semantic-versioning" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="30%"><strong>   &#8594; Date-Based Versioning</strong></td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/policies#date-based-versioning-versioning-date-base" target="_blank">Policy</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
+</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Work Across Multiple Programming Languages</h2>
 
