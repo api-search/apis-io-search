@@ -1200,7 +1200,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs.io Website Developer</li><li>&#8594; APIs.io Backend Developer</li><li>&#8594; APIs.io Researcher</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; APIs.io Website Developer</li><li style="list-style: none;">&#8594; APIs.io Backend Developer</li><li style="list-style: none;">&#8594; APIs.io Researcher</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1211,7 +1211,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; Open-Source API Search Engine</li><li>&#8594; API Search and Crawler</li><li>&#8594; Profiling APIs</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; Open-Source API Search Engine</li><li style="list-style: none;">&#8594; API Search and Crawler</li><li style="list-style: none;">&#8594; Profiling APIs</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1222,7 +1222,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; Client-Side Javascript Calls</li><li>&#8594; Scheduled API Requests</li><li>&#8594; Postman Collections</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; Client-Side Javascript Calls</li><li style="list-style: none;">&#8594; Scheduled API Requests</li><li style="list-style: none;">&#8594; Postman Collections</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1233,7 +1233,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; Power the Network Websites</li><li>&#8594; Automate Discovery of New APIs</li><li>&#8594; Profiling of New APIs</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; Power the Network Websites</li><li style="list-style: none;">&#8594; Automate Discovery of New APIs</li><li style="list-style: none;">&#8594; Profiling of New APIs</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Change is Actively Managed for Each API</h2>
@@ -1333,7 +1333,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; <a href="https://www.linkedin.com/in/stevenwillmott/">Steve Willmott (CEO)</a> - Steve Willmott is leading the business side of APIs.io, owning all the product and other business aspects of building APIs.io.</li><li>&#8594; <a href="https://www.linkedin.com/in/kinlane/">Kin Lane (CTO)</a> - Kin Lane is leading the technical side of APIs.io, helping define and roll-out the infrastructure, while profiling APIs.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; <a href="https://www.linkedin.com/in/stevenwillmott/">Steve Willmott (CEO)</a> - Steve Willmott is leading the business side of APIs.io, owning all the product and other business aspects of building APIs.io.</li><li style="list-style: none;">&#8594; <a href="https://www.linkedin.com/in/kinlane/">Kin Lane (CTO)</a> - Kin Lane is leading the technical side of APIs.io, helping define and roll-out the infrastructure, while profiling APIs.</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Aligned with Industry Using Standards</h2>
@@ -1799,7 +1799,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs</a> - An application programming interface, which is often shortened to just API.</li><li>&#8594; Search</a> - Try to find something by looking or otherwise seeking carefully and thoroughly.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; APIs</a> - An application programming interface, which is often shortened to just API.</li><li style="list-style: none;">&#8594; Search</a> - Try to find something by looking or otherwise seeking carefully and thoroughly.</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Part of Regular Active Communication</h2>
