@@ -1763,7 +1763,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs)</a> - An application programming interface, which is often shortened to just API.</li><li>&#8594; Search)</a> - Try to find something by looking or otherwise seeking carefully and thoroughly.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs</a> - An application programming interface, which is often shortened to just API.</li><li>&#8594; Search</a> - Try to find something by looking or otherwise seeking carefully and thoroughly.</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Part of Regular Active Communication</h2>
