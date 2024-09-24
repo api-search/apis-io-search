@@ -1098,9 +1098,9 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has and OpenAPI.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has An OpenAPI</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-and-openapi-apis-json-apis-properties-openapi-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-an-openapi-apis-json-apis-properties-openapi-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/openapi.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -1283,9 +1283,9 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties Performance</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has API Performance</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-properties-performance-apis-json-apis-properties-performance-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-api-performance-apis-json-apis-properties-performance-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/testing/performance.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
@@ -1455,9 +1455,9 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API Properties GitHub Organization</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a GitHub Organization</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-properties-github-organization-apis-json-apis-properties-github-organization-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-github-organization-apis-json-apis-properties-github-organization-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/github-organizations.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -1510,9 +1510,9 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a plans page.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has API Plans</td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-plans-page-apis-json-apis-properties-plans-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-api-plans-apis-json-apis-properties-plans-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/plans/overview.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
