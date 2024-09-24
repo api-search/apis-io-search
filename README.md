@@ -1200,7 +1200,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="APIs.io Website Developer">Add Lifecycle to README</a> - Add the lifecycle to the readme, listing stages with policies grouped by stage show what has been done and needs to be done.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs.io Website Developer</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1211,7 +1211,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="Open-Source API Search Engine">Add Lifecycle to README</a> - Add the lifecycle to the readme, listing stages with policies grouped by stage show what has been done and needs to be done.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; Open-Source API Search Engine</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1222,7 +1222,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="Client-Side Javascript Calls">Add Lifecycle to README</a> - Add the lifecycle to the readme, listing stages with policies grouped by stage show what has been done and needs to be done.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; Client-Side Javascript Calls</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1233,7 +1233,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="Power the Network Websites">Add Lifecycle to README</a> - Add the lifecycle to the readme, listing stages with policies grouped by stage show what has been done and needs to be done.</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; Power the Network Websites</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Change is Actively Managed for Each API</h2>
