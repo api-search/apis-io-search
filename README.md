@@ -120,7 +120,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Unique Identifiers</strong></td>
-<td width="30%" style="color: #228B22;">apis-io:search-api</td>
+<td width="30%" style="color: #228B22;">apis-io</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-unique-identifiers-api-metadata-unique-identifiers" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/unique-identifiers.html" target="_blank">Guidance</a></td>
@@ -136,7 +136,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Name</strong></td>
-<td width="30%" style="color: #228B22;">APIs.io Search API</td>
+<td width="30%" style="color: #228B22;">API Contract for the APIs.io Search API</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-name-api-metadata-names" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/names.html" target="_blank">Guidance</a></td>
@@ -152,7 +152,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Description</strong></td>
-<td width="30%" style="color: #228B22;">This is the API to access APIs.io API search engine, from the product management perspective.</td>
+<td width="30%" style="color: #228B22;">This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-description-api-metadata-descriptions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/descriptions.html" target="_blank">Guidance</a></td>
@@ -214,7 +214,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/url.png" width="35"></td>
 <td width="30%"><strong>API Contract URL</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">hhttps://github.com/api-search/search-api/blob/main/apis.yml</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-url-apis-json-url-info" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/apis-json-url.html" target="_blank">Guidance</a></td>
@@ -230,7 +230,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="35"></td>
 <td width="30%"><strong>API Human URL</strong></td>
-<td width="30%" style="color: #228B22;">https://developer.apis.io/documentation</td>
+<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-human-url-human-url" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url.html" target="_blank">Guidance</a></td>
@@ -246,7 +246,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/base-url.png" width="35"></td>
 <td width="30%"><strong>API Base URL</strong></td>
-<td width="30%" style="color: #228B22;">https://search-api.apis.io</td>
+<td width="30%" style="color: #228B22;"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-base-url-base-url" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/base-url.html" target="_blank">Guidance</a></td>
