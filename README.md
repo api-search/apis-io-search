@@ -18,7 +18,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Contract Unique Identifiers</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">apis-io</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-unique-identifiers-contract-metadata-unique-identifiers" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/unique-identifiers.html" target="_blank">Guidance</a></td>
@@ -34,7 +34,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Contract Name</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">API Contract for the APIs.io Search API</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-name-contract-metadata-names" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/names.html" target="_blank">Guidance</a></td>
@@ -50,7 +50,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Contract Descriptions</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">This is the API contract for the APIs.io API search API, which provides a manifest of the business and technical details for the APIs.io Search API, as well as the common operational resources available to support producing and consuming the APIs.io search API, using a standardized and fully governed API lifecycle--everything you need to learn about the API and operations is available via this contract.<br><br>This contract is meant for both API producer and consumer to help ensure everyone's needs are being met as this API evolves and changes, encouraging both business and engineering stakeholders to join in the discussion.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-descriptions-contract-metadata-descriptions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/descriptions.html" target="_blank">Guidance</a></td>
@@ -66,7 +66,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Contract Images</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-images-contract-metadata-images" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/images.html" target="_blank">Guidance</a></td>
@@ -82,7 +82,7 @@
 <tr>
 <td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Contract Tags</strong></td>
-<td width="30%" style="color: #228B22;"></td>
+<td width="30%" style="color: #228B22;">APIs,Search Engine,Directory</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-contract-tags-contract-metadata-tags" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/tags.html" target="_blank">Guidance</a></td>
