@@ -3,6 +3,24 @@
   how: Client-Side Javascript Calls
   why: Power the Network Websites
   where: Static GitHub Pages Websites
-  description: This is the initial and primary use case for APIs.io website. We are basically creating this API to power the website, but acknowledge there will be other use cases that emerge down the road.
+  description: This is the primary use case for APIs.io website. We are basically creating this API to power the website, but acknowledge there will be other use cases that emerge down the road.
   operations:
-    - operationId
+    - searchAPIs
+- who: APIs.io Backend Developer
+  what: API Search and Crawler
+  how: Scheduled API Requests
+  why: Automate Discovery of New APIs
+  where: Scheduled API Request CRON Jobs
+  description: These are the automated CRON Jobs
+  operations:
+    - searchAPIs
+    - addAPI  
+- who: APIs.io Researcher
+  what: Profiling APIs
+  how: Postman Collections
+  why: Profiling of New APIs
+  where: APIs.io Public Postman Workspace
+  description: This use case is done by both technical and non-technical people, using the API to profile existing APIs, and profile new ones, evolving the APIs.io search index based upon what the crawler discovered.
+  operations:
+    - searchAPIs
+    - addAPI     
