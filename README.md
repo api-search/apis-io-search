@@ -45,7 +45,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-name-apis-json-name-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/naming/apis-json-names/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/naming/apis-json-names.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -61,7 +61,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-description-apis-json-description-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/descriptions/apis-json-descriptions/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/descriptions/apis-json-descriptions.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -77,7 +77,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-image-apis-json-image-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/images/apis-json-images/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/images/apis-json-images.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -93,7 +93,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-tags-object-apis-json-tags-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -101,7 +101,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#tags-upper-case-apis-json-tags-upper-case-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/bounded-context/apis-json-tags.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Possess Informative Metadata</h2>
@@ -225,7 +225,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-url-apis-json-url-info">Rule</a></td>
-<td width="10%" align="center"><a href="undefined" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/contracts/apis-json-url.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/human-url.png" width="35"></td>
@@ -241,7 +241,7 @@
 <td width="1%"></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-human-url-apis-json-apis-humanurl-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/base-url.png" width="35"></td>
@@ -1053,7 +1053,7 @@
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is an common property.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-an-common-property-apis-json-common-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/discovery/common/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/discovery/common.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1463,9 +1463,16 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/postman-workspace.png" width="35"></td>
 <td width="30%"><strong>Postman Workspace</strong></td>
-<td width="10%" align="center"><a href="https://www.postman.com/api-evangelist/apis-io/overview" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#postman-workspace-postman-workspace" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspace.html" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Public Postman Workspace</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-public-postman-workspace-apis-json-apis-properties-postman-public-workspace-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspaces.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Onboarding is Always as Easy as Possible</h2>
@@ -1547,7 +1554,7 @@
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a created date.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-created-date-apis-json-created-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/created/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/created.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/modified-date.png" width="35"></td>
@@ -1561,7 +1568,7 @@
 <td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; There is a modified date.</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#there-is-a-modified-date-apis-json-modified-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/modified/"" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/change/modified.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/road-maps.png" width="35"></td>

@@ -97,12 +97,12 @@ common:
   - type: GitHubOrganization
     url: https://github.com/api-search/ 
 
-  - type: PostmanWorkspace
-    url: https://www.postman.com/api-evangelist/apis-io/overview
+  - type: PostmanPublicWorkspace
+    url: 'https://www.postman.com/api-evangelist/apis-io-api-search-engine/overview'
 
   # Onboarding
   - type: Portals
-    url: https://developer.apis.io
+    url: 'https://developer.apis.io'
 
   - type: GettingStarted
     url: 'https://developer.apis.io/getting-started/'  
