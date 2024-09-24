@@ -1164,13 +1164,6 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#github-actions-source-of-truth-actions" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/repositories/github-actions.html" target="_blank">Guidance</a></td>
 </tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a GitHub Action.</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-github-action-apis-json-apis-properties-github-action-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/pipelines/github-actions.html"" target="_blank">Guidance</a></td>
-</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Always Aligned with Business</h2>
 
@@ -1474,13 +1467,6 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#postman-workspace-postman-workspace" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspace.html" target="_blank">Guidance</a></td>
 </tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Public Postman Workspace</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-public-postman-workspace-apis-json-apis-properties-postman-public-workspace-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/workspaces/postman-workspaces.html"" target="_blank">Guidance</a></td>
-</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Onboarding is Always as Easy as Possible</h2>
 
@@ -1709,24 +1695,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Operational Rules</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-operational-rules-apis-json-apis-properties-apis-json-rules-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/operational-rules.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Rules</strong></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules/blob/main/api-rules.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-rules-governance-api-rules" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has API Rules</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-api-rules-apis-json-apis-properties-openapi-rules-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/openapi-rules.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
