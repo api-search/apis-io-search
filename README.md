@@ -143,10 +143,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has a name.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Name</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-a-name-apis-json-apis-name-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-name-apis-json-apis-name-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/names.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -159,10 +159,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has a description.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Description</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-a-description-apis-json-apis-description-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-description-apis-json-apis-description-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/descriptions.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -175,10 +175,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; API has an image.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has an Image</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#api-has-an-image-apis-json-apis-image-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-an-image-apis-json-apis-image-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/images.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -237,10 +237,10 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; APIs Has a Human URL.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a Human URL</td>
 <td width="1%"></td>
 <td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#apis-has-a-human-url-apis-json-apis-humanurl-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-human-url-apis-json-apis-humanurl-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/apis/human-url/"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
@@ -1152,7 +1152,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a GitHub repository.</td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has a GitHub Repository</td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-github-repository-apis-json-apis-properties-github-repository-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/source-control/github.html"" target="_blank">Guidance</a></td>
@@ -1425,13 +1425,6 @@
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#components-has-a-unauthorized-response-openapi-components-responses-unauthorized-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/openapi/responses-unauthorized-error.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; Problem Details for HTTP APIs</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#problem-details-for-http-apis-problem-details-for-http-apis" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
