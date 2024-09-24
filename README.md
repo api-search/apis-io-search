@@ -1688,10 +1688,24 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Operational Rules</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-operational-rules-apis-json-apis-properties-apis-json-rules-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/operational-rules.html"" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
 <td width="30%"><strong>   &#8594; API Rules</strong></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/rules/blob/main/api-rules.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#api-rules-governance-api-rules" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/undefined.html" target="_blank">Guidance</a></td>
+</tr>
+<tr>
+<td width="10%" align="center"></td>
+<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has API Rules</td>
+<td width="10%" align="center"></td>
+<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-api-rules-apis-json-apis-properties-openapi-rules-info">Rule</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/governance/openapi-rules.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
