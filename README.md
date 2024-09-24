@@ -1314,7 +1314,7 @@
 <td width="30%"><strong>Teams</strong></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/search-api/blob/main/team.yml" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#teams-teams" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/organization/teams.html" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/organizations/teams.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1933,7 +1933,7 @@
 <td width="10%" align="center"></td>
 <td width="30%">   &#8594; Teams</td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#teams-teams" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/organization/teams.html" target="_blank">Guidance</a></td>
+<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/organizations/teams.html" target="_blank">Guidance</a></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
