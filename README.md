@@ -1200,7 +1200,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs.io Website Developer</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; APIs.io Website Developer</li><li>&#8594; APIs.io Backend Developer</li><li>&#8594; APIs.io Researcher</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1211,7 +1211,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; Open-Source API Search Engine</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; Open-Source API Search Engine</li><li>&#8594; API Search and Crawler</li><li>&#8594; Profiling APIs</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1222,7 +1222,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; Client-Side Javascript Calls</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; Client-Side Javascript Calls</li><li>&#8594; Scheduled API Requests</li><li>&#8594; Postman Collections</li></ul></td>
 </tr>
 <tr>
 <td width="10%" align="center"></td>
@@ -1233,7 +1233,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li>&#8594; Power the Network Websites</li></ul></td>
+<td colspan="5"><ul style="list-style: none;"><li>&#8594; Power the Network Websites</li><li>&#8594; Automate Discovery of New APIs</li><li>&#8594; Profiling of New APIs</li></ul></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Change is Actively Managed for Each API</h2>
