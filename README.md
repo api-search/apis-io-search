@@ -1323,6 +1323,10 @@
 <td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-a-team-defined-apis-json-apis-properties-teams-info">Rule</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/owners/teams.html"" target="_blank">Guidance</a></td>
 </tr>
+<tr>
+<td width="10%" align="center"></td>
+<td colspan="5"><ul><li style="list-style: none;">&#8594; <a href="https://www.linkedin.com/in/stevenwillmott/">Steve Willmott (CEO)</a> - Steve Willmott is leading the business side of APIs.io, owning all the product and other business aspects of building APIs.io.</li><li style="list-style: none;">&#8594; <a href="https://www.linkedin.com/in/kinlane/">Kin Lane (CTO)</a> - Kin Lane is leading the technical side of APIs.io, helping define and roll-out the infrastructure, while profiling APIs.</li></ul></td>
+</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>APIs Are Aligned with Industry Using Standards</h2>
 
