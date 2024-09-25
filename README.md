@@ -1979,27 +1979,6 @@
 <p>All APIs must have a link to the evidence of the contract validation for business and technical contracts, allowing any stakeholder to review the details of the contract, as well as the rules applied to govern the details of contracts.</p>
 
 <table style="width: 100%">
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/validator.png" width="35"></td>
-<td width="30%"><strong>Validator</strong></td>
-<td width="10%" align="center"><a href="" align="center">Visit</a></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#validator-validator" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/validator/overview.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has APIs.json (Business) Validator</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-apisjson-business-validator-apis-json-apis-properties-apis-json-validator-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/validator/overview.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has OpenAPI (Technical) Validator</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-openapi-technical-validator-apis-json-apis-properties-openapi-validator-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/validator/overview.html"" target="_blank">Guidance</a></td>
-</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>API Lifecycle</h2>
 
