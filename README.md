@@ -262,7 +262,7 @@
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Operations</h2>
 
-<p>All of the individual operations that area available for use with this API.</p>
+<p>All of the individual operations that are defined in the technical contract (OpenAPI), allowing for alignment of the resources being made available and the use cases articulated as part of the business contract.</p>
 
 <table style="width: 100%"><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-get.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Search APIs</td><td width="60%">Searching across all APIs by keyword or phrase.</td></tr><tr><td width="10%" align="center"><img src="https://apievangelist.com/images/method-post.png" width="75"></td><td width="20%">/search/apis</td><td width="20%">Submit API</td><td width="60%">Submit a valid APIs.json to be included in APIs.io.</td></tr><tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table><h2>API Paths Must Conform to the Organization</h2>
 
