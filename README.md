@@ -1172,69 +1172,11 @@
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/pipelines/github-actions.html"" target="_blank">Guidance</a></td>
 </tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
-<h2>APIs Are Always Aligned with Business</h2>
+<h2>APIs Are Made Available Through a Platform Gateway</h2>
 
-<p>All API contracts must have use cases that align the business reasons why an API is being delivered to consumers with the actual technical details of each API contract, ensuring that operations all have a valid business use case.</p>
+<p>All APIs must be deployed through a common platform gateway established for the domain, line of business, or team, leveraging development, staging, and production environments, and a common set of policies for configuring access to digital resources and capabilities via APis.</p>
 
 <table style="width: 100%">
-<tr>
-<td width="10%" align="center"><img src="https://apievangelist.com/images/use-cases.png" width="35"></td>
-<td width="30%"><strong>Use Cases</strong></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/search-api/blob/main/use-cases.yml" align="center">Visit</a></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#use-cases-use-cases" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/overview.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="59%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&#9989; Has Use Cases</td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/rules?tab=readme-ov-file#has-use-cases-apis-json-apis-properties-use-cases-info">Rule</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/overview.html"" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; Who</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#who-who" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/who.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; APIs.io Website Developer</li><li style="list-style: none;">&#8594; APIs.io Backend Developer</li><li style="list-style: none;">&#8594; APIs.io Researcher</li></ul></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; What</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#what-what" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/what.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; Open-Source API Search Engine</li><li style="list-style: none;">&#8594; API Search and Crawler</li><li style="list-style: none;">&#8594; Profiling APIs</li></ul></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; How</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#how-how" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/how.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; Client-Side Javascript Calls</li><li style="list-style: none;">&#8594; Scheduled API Requests</li><li style="list-style: none;">&#8594; Postman Collections</li></ul></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td width="30%"><strong>   &#8594; Why</strong></td>
-<td width="10%" align="center"></td>
-<td width="10%" align="center"><a href="https://github.com/api-search/policies#why-why" target="_blank">Policy</a></td>
-<td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/use-cases/why.html" target="_blank">Guidance</a></td>
-</tr>
-<tr>
-<td width="10%" align="center"></td>
-<td colspan="5"><ul style="list-style: none;"><li style="list-style: none;">&#8594; Power the Network Websites</li><li style="list-style: none;">&#8594; Automate Discovery of New APIs</li><li style="list-style: none;">&#8594; Profiling of New APIs</li></ul></td>
-</tr>
 <tr><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th><th><img width="441" height="1"></th></tr></table>
 <h2>Change is Actively Managed for Each API</h2>
 
@@ -2241,7 +2183,7 @@
 </tr>
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/staging.png" width="35"></td>
-<td width="30%" style="font-size: 18px;"><strong>Stage</strong></td>
+<td width="30%" style="font-size: 18px;"><strong>Staging</strong></td>
 <td width="10%" align="center"></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/lifecycle/staging.html" target="_blank">Guidance</a></td>
 </tr>

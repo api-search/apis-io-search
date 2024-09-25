@@ -61,9 +61,15 @@ apis:
       - type: PostmanCollection
         url: https://www.postman.com/api-evangelist/apis-io-api-search-engine/collection/hn8xpmd/apis-io-search-api  
 
-      # Production Environment
+      # Gateway
+      - type: Gateway
+        url: https://us-east-1.console.aws.amazon.com/apigateway/main/apis/ibmwu99rx3/stages
+        
+      # Environment
+      - type: StagingEnvironment
+        url: https://www.postman.com/api-evangelist/apis-io-api-search-engine/environment/35240-f6035e55-e9f8-41b8-a2d8-b7ac4cd127bb/production
 
-      - type: PostmanEnvironment
+      - type: GatewayEnvironment
         url: https://www.postman.com/api-evangelist/apis-io-api-search-engine/environment/35240-f6035e55-e9f8-41b8-a2d8-b7ac4cd127bb/production
 
       # Change Log
