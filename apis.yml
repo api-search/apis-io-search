@@ -210,7 +210,7 @@ common:
     url: 'https://api-evangelist-tools.github.io/apis-io-search-api-operational-validator/' 
 
   - type: APIValidation
-    url: 'https://developer.apis.io/licensing/'     
+    url: 'https://api-evangelist-tools.github.io/apis-io-search-api-api-validator/'     
 
                        
 # Who Is Responsible for this Contract

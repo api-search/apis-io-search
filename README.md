@@ -1996,7 +1996,7 @@
 <tr>
 <td width="10%" align="center"><img src="https://apievangelist.com/images/validator.png" width="35"></td>
 <td width="30%"><strong>Technical Contract Validator</strong></td>
-<td width="10%" align="center"><a href="https://developer.apis.io/licensing/" align="center">Visit</a></td>
+<td width="10%" align="center"><a href="https://api-evangelist-tools.github.io/apis-io-search-api-api-validator/" align="center">Visit</a></td>
 <td width="10%" align="center"><a href="https://github.com/api-search/policies#technical-contract-validator-technical-contract-validator" target="_blank">Policy</a></td>
 <td width="10%" align="center"><a href="https://guidance.apievangelist.com/guidance/validator/overview.html" target="_blank">Guidance</a></td>
 </tr>
