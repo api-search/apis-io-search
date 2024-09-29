@@ -42,6 +42,8 @@ exports.handler = vandium.generic()
     
     connection.query(sql1, function (error, results1, fields) { 
       
+      console.log(results1);
+      
       if(results1[0]){
           
         const api_count = results1[0].api_count;
