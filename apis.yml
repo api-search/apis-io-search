@@ -52,7 +52,7 @@ apis:
     description: >-
       This is the API to access APIs.io API search engine, from the product
       management perspective.
-name: APIs.io Search API
+name: APIs.io Search API 123
 tags:
   - APIs
   - Search Engine
