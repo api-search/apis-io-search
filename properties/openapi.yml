@@ -1,1 +1,565 @@
-openapi%3A%203.1.0%0Ainfo%3A%0A%20%20title%3A%20APIs.io%20Search%20API%20123%0A%20%20description%3A%20%3E-%0A%20%20%20%20This%20is%20the%20API%20to%20access%20APIs.io%20API%20search%20engine%2C%20from%20the%20product%0A%20%20%20%20management%20perspective.%0A%20%20version%3A%200.1.0%0A%20%20contact%3A%0A%20%20%20%20name%3A%20Kin%20Lane%0A%20%20%20%20email%3A%20info%40apievangelist.com%0Aservers%3A%0A%20%20-%20url%3A%20https%3A%2F%2Fsearch-api.apis.io%2F%0Atags%3A%0A%20%20-%20name%3A%20Search%0A%20%20%20%20description%3A%20Search%20using%20a%20cloud%20search%20engine.%0A%20%20-%20name%3A%20APIs%0A%20%20%20%20description%3A%20Index%20of%20HTTP%20application%20programming%20interfaces.%0Apaths%3A%0A%20%20%2Fsearch%2Fapis%3A%0A%20%20%20%20get%3A%0A%20%20%20%20%20%20operationId%3A%20searchAPIs%0A%20%20%20%20%20%20summary%3A%20Search%20APIs%0A%20%20%20%20%20%20description%3A%20Searching%20across%20all%20APIs%20by%20keyword%20or%20phrase.%0A%20%20%20%20%20%20parameters%3A%0A%20%20%20%20%20%20%20%20-%20%24ref%3A%20'%23%2Fcomponents%2Fparameters%2FSearch'%0A%20%20%20%20%20%20%20%20-%20%24ref%3A%20'%23%2Fcomponents%2Fparameters%2FLimit'%0A%20%20%20%20%20%20%20%20-%20%24ref%3A%20'%23%2Fcomponents%2Fparameters%2FPage'%0A%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20-%20Search%0A%20%20%20%20%20%20%20%20-%20APIs%0A%20%20%20%20%20%20responses%3A%0A%20%20%20%20%20%20%20%20'200'%3A%0A%20%20%20%20%20%20%20%20%20%20description%3A%20A%20successful%20search.%0A%20%20%20%20%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20application%2Fjson%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FSearch'%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20examples%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20AddAPIResponse%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fexamples%2FSearchResponse'%0A%20%20%20%20%20%20%20%20'400'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FBadRequest'%0A%20%20%20%20%20%20%20%20'401'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FUnauthorized'%0A%20%20%20%20%20%20%20%20'403'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FForbidden'%0A%20%20%20%20%20%20%20%20'404'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FNotFound'%0A%20%20%20%20%20%20%20%20'429'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FTooManyRequests'%0A%20%20%20%20%20%20%20%20'500'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FInternalServerError'%0A%20%20%20%20post%3A%0A%20%20%20%20%20%20summary%3A%20Submit%20API%0A%20%20%20%20%20%20description%3A%20Submit%20a%20valid%20APIs.json%20to%20be%20included%20in%20APIs.io.%0A%20%20%20%20%20%20operationId%3A%20addAPI%0A%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20-%20Search%0A%20%20%20%20%20%20requestBody%3A%0A%20%20%20%20%20%20%20%20description%3A%20A%20valid%20APIs.json%20to%20add%20API.%0A%20%20%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20%20%20application%2Fjson%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FAPIsJSON'%0A%20%20%20%20%20%20%20%20%20%20%20%20examples%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20AddAPIRequest%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fexamples%2FAddAPIRequest'%0A%20%20%20%20%20%20responses%3A%0A%20%20%20%20%20%20%20%20'201'%3A%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Successful%20adding%20of%20an%20API.%0A%20%20%20%20%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20application%2Fjson%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FAPIsJSON'%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20examples%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20AddAPIResponse%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fexamples%2FAddAPIResponse'%0A%20%20%20%20%20%20%20%20'400'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FBadRequest'%0A%20%20%20%20%20%20%20%20'401'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FUnauthorized'%0A%20%20%20%20%20%20%20%20'403'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FForbidden'%0A%20%20%20%20%20%20%20%20'404'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FNotFound'%0A%20%20%20%20%20%20%20%20'429'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FTooManyRequests'%0A%20%20%20%20%20%20%20%20'500'%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fresponses%2FInternalServerError'%0Acomponents%3A%0A%20%20examples%3A%0A%20%20%20%20AddAPIRequest%3A%0A%20%20%20%20%20%20summary%3A%20An%20example%20of%20adding%20an%20API.%0A%20%20%20%20%20%20value%3A%0A%20%20%20%20%20%20%20%20aid%3A%20apis.json%0A%20%20%20%20%20%20%20%20name%3A%20Example%20API%0A%20%20%20%20%20%20%20%20type%3A%20Index%0A%20%20%20%20%20%20%20%20description%3A%20%7C-%0A%20%20%20%20%20%20%20%20%20%20This%20is%20an%20example%20APIs.json%20file%2C%20demonstrating%20what%20is%20possible%20with%0A%20%20%20%20%20%20%20%20%20%20the%20API%20discovery%20specification.%0A%20%20%20%20%20%20%20%20image%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20https%3A%2F%2Fkinlane-productions.s3.amazonaws.com%2Fapis-json%2Fapis-json-logo.jpg%0A%20%20%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20%20%20-%20Application%20Programming%20Interface%0A%20%20%20%20%20%20%20%20%20%20-%20API%0A%20%20%20%20%20%20%20%20created%3A%20'2024-05-22'%0A%20%20%20%20%20%20%20%20modified%3A%20'2024-05-22'%0A%20%20%20%20%20%20%20%20url%3A%20http%3A%2F%2Fexample.com%2Fapis.json%0A%20%20%20%20%20%20%20%20specificationVersion%3A%20'0.18'%0A%20%20%20%20%20%20%20%20apis%3A%0A%20%20%20%20%20%20%20%20%20%20-%20aid%3A%20apis.json%3Aexample-api%0A%20%20%20%20%20%20%20%20%20%20%20%20name%3A%20Example%20API%0A%20%20%20%20%20%20%20%20%20%20%20%20description%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20This%20provides%20details%20about%20a%20specific%20API%2C%20telling%20what%20is%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20possible.%0A%20%20%20%20%20%20%20%20%20%20%20%20image%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20https%3A%2F%2Fkinlane-productions.s3.amazonaws.com%2Fapis-json%2Fapis-json-logo.jpg%0A%20%20%20%20%20%20%20%20%20%20%20%20humanURL%3A%20http%3A%2F%2Fexample.com%0A%20%20%20%20%20%20%20%20%20%20%20%20baseURL%3A%20http%3A%2F%2Fapi.example.com%0A%20%20%20%20%20%20%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20API%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20Application%20Programming%20Interface%0A%20%20%20%20%20%20%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20type%3A%20Documentation%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20https%3A%2F%2Fexample.com%2Fdocumentation%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20type%3A%20OpenAPI%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20http%3A%2F%2Fexample.com%2Fopenapi.yml%0A%20%20%20%20%20%20%20%20common%3A%0A%20%20%20%20%20%20%20%20%20%20-%20type%3A%20Signup%0A%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20https%3A%2F%2Fexample.com%2Fsignup%0A%20%20%20%20%20%20%20%20%20%20-%20type%3A%20Login%0A%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20https%3A%2F%2Fexample.com%2Flogin%0A%20%20%20%20%20%20%20%20%20%20-%20type%3A%20Authentication%0A%20%20%20%20%20%20%20%20%20%20%20%20url%3A%20http%3A%2F%2Fexample.com%2Fauthentication%0A%20%20%20%20%20%20%20%20maintainers%3A%0A%20%20%20%20%20%20%20%20%20%20-%20FN%3A%20Kin%20Lane%0A%20%20%20%20%20%20%20%20%20%20%20%20X-twitter%3A%20apievangelist%0A%20%20%20%20%20%20%20%20%20%20%20%20email%3A%20info%40apievangelist.com%0A%20%20%20%20AddAPIResponse%3A%0A%20%20%20%20%20%20summary%3A%20A%20successful%20add%20API%20response.%0A%20%20%20%20%20%20value%3A%0A%20%20%20%20%20%20%20%20response%3A%20The%20API%20has%20been%20added%20to%20the%20APIs.io%20index.%0A%20%20%20%20%20%20%20%20url%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20https%3A%2F%2Fgithub.com%2Fapis-json%2Fartisanal%2Ftree%2Fmain%2F_apis%2Fexample-api%2Fapis.md%3Fplain%3D1%0A%20%20%20%20%20%20%20%20issue%3A%20https%3A%2F%2Fgithub.com%2Fapis-json%2Fartisanal%2Fissues%2Fundefined%0A%20%20%20%20SearchResponse%3A%0A%20%20%20%20%20%20summary%3A%20A%20successful%20search%20response.%0A%20%20%20%20%20%20value%3A%0A%20%20%20%20%20%20%20%20meta%3A%0A%20%20%20%20%20%20%20%20%20%20search%3A%20AI%0A%20%20%20%20%20%20%20%20%20%20limit%3A%2050%0A%20%20%20%20%20%20%20%20%20%20page%3A%200%0A%20%20%20%20%20%20%20%20%20%20totalPages%3A%2020%0A%20%20%20%20%20%20%20%20data%3A%0A%20%20%20%20%20%20%20%20%20%20-%20name%3A%20AssemblyAI%20API%0A%20%20%20%20%20%20%20%20%20%20%20%20description%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20Built%20by%20AI%20experts%2C%20AssemblyAI%E2%80%99s%20Speech%20AI%20models%20include%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20accurate%20speech-to-text%20for%20voice%20data%20(such%20as%20calls%2C%20virtual%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20meetings%2C%20and%20podcasts)%2C%20speaker%20detection%2C%20sentiment%20analysis%2C%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20chapter%20detection%2C%20PII%20redaction%2C%20and%20more.%0A%20%20%20%20%20%20%20%20%20%20%20%20searchUrl%3A%20https%3A%2F%2Fai.apis.io%2Fapis%2Fassemblyai%2Fapis%2F%0A%20%20%20%20%20%20%20%20%20%20%20%20apiUrl%3A%20https%3A%2F%2Fwww.assemblyai.com%2Fdocs%2F%0A%20%20%20%20%20%20%20%20%20%20%20%20indexUrl%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20https%3A%2F%2Fraw.githubusercontent.com%2Fapi-search%2Fartificial-intelligence%2Fmain%2F_apis_%2Fassemblyai%2Fapis.md%0A%20%20%20%20%20%20%20%20%20%20%20%20score%3A%20546%0A%20%20%20%20%20%20%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20Artificial%20Intelligence%0A%20%20%20%20%20%20%20%20%20%20%20%20%20%20-%20AI%0A%20%20%20%20%20%20%20%20links%3A%0A%20%20%20%20%20%20%20%20%20%20self%3A%20%2Fsearch%2Fapis%2F%3Fsearch%3D%26page%3D0%26limit%3D50%0A%20%20%20%20%20%20%20%20%20%20next%3A%20%2Fsearch%2Fapis%2F%3Fsearch%3D%26page%3D01%26limit%3D50%0A%20%20%20%20%20%20%20%20%20%20last%3A%20%2Fsearch%2Fapis%2F%3Fsearch%3D%26page%3D20%26limit%3D50%0A%20%20parameters%3A%0A%20%20%20%20Search%3A%0A%20%20%20%20%20%20name%3A%20search%0A%20%20%20%20%20%20description%3A%20The%20keyword%20to%20search%20by.%0A%20%20%20%20%20%20in%3A%20query%0A%20%20%20%20%20%20required%3A%20false%0A%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20Limit%3A%0A%20%20%20%20%20%20name%3A%20limit%0A%20%20%20%20%20%20description%3A%20The%20limit%20of%20the%20results.%0A%20%20%20%20%20%20in%3A%20query%0A%20%20%20%20%20%20required%3A%20false%0A%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20Page%3A%0A%20%20%20%20%20%20name%3A%20page%0A%20%20%20%20%20%20description%3A%20The%20page%20of%20the%20results.%0A%20%20%20%20%20%20in%3A%20query%0A%20%20%20%20%20%20required%3A%20false%0A%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20responses%3A%0A%20%20%20%20BadRequest%3A%0A%20%20%20%20%20%20description%3A%20Bad%20Request%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Fbad-request%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Bad%20Request%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20400%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20The%20request%20is%20invalid%20or%20missing%20required%20parameters.%0A%20%20%20%20Conflict%3A%0A%20%20%20%20%20%20description%3A%20Conflict%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Fconflict%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Conflict%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20409%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20There%20is%20a%20conflict%20with%20an%20existing%20resource.%0A%20%20%20%20Forbidden%3A%0A%20%20%20%20%20%20description%3A%20Forbidden%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Fforbidden%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Forbidden%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20403%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20Access%20is%20forbidden%20with%20the%20provided%20credentials.%0A%20%20%20%20InternalServerError%3A%0A%20%20%20%20%20%20description%3A%20Internal%20Server%20Error%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Finternal-server-error%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Internal%20Server%20Error%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20500%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20An%20unexpected%20error%20occurred.%0A%20%20%20%20NotFound%3A%0A%20%20%20%20%20%20description%3A%20Not%20Found%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Fnot-found%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Not%20Found%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20404%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20The%20requested%20resource%20was%20not%20found.%0A%20%20%20%20TooManyRequests%3A%0A%20%20%20%20%20%20description%3A%20Too%20Many%20Requests%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Ftoo-many-requests%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Too%20Many%20Requests%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20429%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20You%20have%20exceeded%20the%20rate%20limit.%0A%20%20%20%20Unauthorized%3A%0A%20%20%20%20%20%20description%3A%20Unauthorized%0A%20%20%20%20%20%20content%3A%0A%20%20%20%20%20%20%20%20application%2Fproblem%2Bjson%3A%0A%20%20%20%20%20%20%20%20%20%20schema%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProblem'%0A%20%20%20%20%20%20%20%20%20%20example%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20https%3A%2F%2Fexample.com%2Ferrors%2Funauthorized%0A%20%20%20%20%20%20%20%20%20%20%20%20title%3A%20Unauthorized%0A%20%20%20%20%20%20%20%20%20%20%20%20status%3A%20401%0A%20%20%20%20%20%20%20%20%20%20%20%20detail%3A%20You%20do%20not%20have%20the%20necessary%20permissions.%0A%20%20securitySchemes%3A%0A%20%20%20%20api_key%3A%0A%20%20%20%20%20%20type%3A%20apiKey%0A%20%20%20%20%20%20name%3A%20x-api-key%0A%20%20%20%20%20%20in%3A%20header%0A%20%20schemas%3A%0A%20%20%20%20Search%3A%0A%20%20%20%20%20%20type%3A%20object%0A%20%20%20%20%20%20description%3A%20An%20JSON%20API%20object%20with%20metadata%2C%20data%2C%20and%20links.%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20meta%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FMeta'%0A%20%20%20%20%20%20%20%20data%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FAPIs'%0A%20%20%20%20%20%20%20%20links%3A%0A%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FLink'%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20meta%0A%20%20%20%20%20%20%20%20-%20data%0A%20%20%20%20%20%20%20%20-%20links%0A%20%20%20%20Meta%3A%0A%20%20%20%20%20%20type%3A%20object%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20search%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20type%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20limit%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20integer%0A%20%20%20%20%20%20%20%20page%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20integer%0A%20%20%20%20%20%20%20%20totalPages%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20integer%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20totalPages%0A%20%20%20%20%20%20%20%20-%20page%0A%20%20%20%20%20%20%20%20-%20limit%0A%20%20%20%20Link%3A%0A%20%20%20%20%20%20type%3A%20object%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20self%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20first%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20prev%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20next%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20last%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20self%0A%20%20%20%20AddAPIsJSON%3A%0A%20%20%20%20%20%20type%3A%20object%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20url%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20url%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20URL%20where%20the%20apis.json%20file%20will%20live%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20APIsJSON%3A%0A%20%20%20%20%20%20type%3A%20object%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20name%0A%20%20%20%20%20%20%20%20-%20description%0A%20%20%20%20%20%20%20%20-%20url%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20name%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20The%20name%20of%20the%20service%20described%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%205%0A%20%20%20%20%20%20%20%20description%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Description%20of%20the%20service%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%205%0A%20%20%20%20%20%20%20%20url%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20URL%20where%20the%20apis.json%20file%20will%20live%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20%20%20%20%20image%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Image%20to%20represent%20the%20API%0A%20%20%20%20%20%20%20%20created%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20format%3A%20date%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Date%20when%20the%20file%20was%20created%0A%20%20%20%20%20%20%20%20modified%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20format%3A%20date%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Date%20when%20the%20file%20was%20modified%0A%20%20%20%20%20%20%20%20specificationVersion%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20APIs.json%20spec%20version%2C%20latest%20is%200.18%0A%20%20%20%20%20%20%20%20%20%20enum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20-%200.18%0A%20%20%20%20%20%20%20%20%20%20%20%20-%200.17%0A%20%20%20%20%20%20%20%20%20%20%20%20-%200.16%0A%20%20%20%20%20%20%20%20%20%20%20%20-%200.15%0A%20%20%20%20%20%20%20%20%20%20%20%20-%200.14%0A%20%20%20%20%20%20%20%20apis%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FAPI'%0A%20%20%20%20%20%20%20%20%20%20description%3A%20All%20the%20APIs%20of%20this%20service%0A%20%20%20%20%20%20%20%20maintainers%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FMaintainer'%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Maintainers%20of%20the%20apis.json%20file%0A%20%20%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FTag'%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Tags%20to%20describe%20the%20service%0A%20%20%20%20%20%20%20%20include%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FInclude'%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Links%20to%20other%20apis.json%20definitions%20included%20in%20this%20service.%0A%20%20%20%20APIs%3A%0A%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20description%3A%20Listing%20of%20APIs%20in%20the%20APIs.json%20format.%0A%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FAPI'%0A%20%20%20%20API%3A%0A%20%20%20%20%20%20description%3A%20The%20description%20of%20the%20API%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20name%0A%20%20%20%20%20%20%20%20-%20description%0A%20%20%20%20%20%20%20%20-%20image%0A%20%20%20%20%20%20%20%20-%20baseURL%0A%20%20%20%20%20%20%20%20-%20humanURL%0A%20%20%20%20%20%20%20%20-%20properties%0A%20%20%20%20%20%20%20%20-%20contact%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20name%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20name%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%205%0A%20%20%20%20%20%20%20%20description%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20description%20of%20the%20API%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%205%0A%20%20%20%20%20%20%20%20image%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20URL%20of%20an%20image%20representing%20the%20API%0A%20%20%20%20%20%20%20%20baseURL%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20%20%20%20%20%20%20description%3A%20baseURL%0A%20%20%20%20%20%20%20%20humanURL%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20%20%20%20%20%20%20description%3A%20humanURL%0A%20%20%20%20%20%20%20%20tags%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20%20%20minLength%3A%201%0A%20%20%20%20%20%20%20%20%20%20description%3A%20tags%20to%20describe%20the%20API%0A%20%20%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FProperty'%0A%20%20%20%20%20%20%20%20%20%20description%3A%20URLs%0A%20%20%20%20%20%20%20%20contact%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FContact'%0A%20%20%20%20%20%20%20%20%20%20description%3A%20Contact%20to%20reach%20if%20questions%20about%20API%0A%20%20%20%20%20%20%20%20meta%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20array%0A%20%20%20%20%20%20%20%20%20%20items%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20%24ref%3A%20'%23%2Fcomponents%2Fschemas%2FmetaInformation'%0A%20%20%20%20Maintainer%3A%0A%20%20%20%20%20%20description%3A%20The%20person%20or%20organization%20responsible%20for%20maintaining%20the%20API.%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20name%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20name%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20name%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%205%0A%20%20%20%20%20%20additionalProperties%3A%0A%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20metaInformation%3A%0A%20%20%20%20%20%20description%3A%20Metadata%20about%20the%20API%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20key%0A%20%20%20%20%20%20%20%20-%20value%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20key%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20value%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20Contact%3A%0A%20%20%20%20%20%20description%3A%20Information%20on%20contacting%20the%20API%20support%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20FN%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20FN%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%201%0A%20%20%20%20%20%20%20%20email%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20format%3A%20email%0A%20%20%20%20%20%20%20%20organizationName%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%201%0A%20%20%20%20%20%20%20%20adr%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20tel%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%201%0A%20%20%20%20%20%20%20%20X-github%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20photo%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20%20%20%20%20vCard%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20%20%20%20%20url%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20Property%3A%0A%20%20%20%20%20%20description%3A%20A%20representation%20of%20a%20URL%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20type%0A%20%20%20%20%20%20%20%20-%20url%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20type%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20%5E(Swagger)%24%7C%5E(RAML)%24%7C%5E(Blueprint)%24%7C%5E(WADL)%24%7C%5E(WSDL)%24%7C%5E(TermsOfService)%24%7C%5E(InterfaceLicense)%24%7C%5E(StatusPage)%24%7C%5E(Pricing)%24%7C%5E(Forums)%24%7C%5E(AlertsTwitterHandle)%24%7C%5E(X-%5BA-Za-z0-9%5C-%5D*)%24%0A%20%20%20%20%20%20%20%20%20%20enum%3A%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20Swagger%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20RAML%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20Blueprint%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20WADL%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20WSDL%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20TersmOfService%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20InterfaceLicense%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20StatusPage%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20Pricing%0A%20%20%20%20%20%20%20%20%20%20%20%20-%20Forums%0A%20%20%20%20%20%20%20%20url%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20Tag%3A%0A%20%20%20%20%20%20description%3A%20A%20consistent%20set%20of%20tag%20to%20apply%20to%20a%20description%0A%20%20%20%20Include%3A%0A%20%20%20%20%20%20description%3A%20Include%20other%20APIs.json%20file%0A%20%20%20%20%20%20required%3A%0A%20%20%20%20%20%20%20%20-%20name%0A%20%20%20%20%20%20%20%20-%20url%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20name%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20minLength%3A%201%0A%20%20%20%20%20%20%20%20url%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20pattern%3A%20%5E(http)%7C(https)%3A%2F%2F(.*)%24%0A%20%20%20%20Problem%3A%0A%20%20%20%20%20%20xml%3A%0A%20%20%20%20%20%20%20%20name%3A%20problem%0A%20%20%20%20%20%20%20%20namespace%3A%20urn%3Aietf%3Arfc%3A7807%0A%20%20%20%20%20%20properties%3A%0A%20%20%20%20%20%20%20%20type%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20A%20URI%20reference%20that%20identifies%20the%20problem%20type%0A%20%20%20%20%20%20%20%20%20%20example%3A%20https%3A%2F%2Fexample.com%2Fprobs%2Fout-of-credit%0A%20%20%20%20%20%20%20%20title%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20A%20short%2C%20human-readable%20summary%20of%20the%20problem%20type%0A%20%20%20%20%20%20%20%20%20%20example%3A%20You%20do%20not%20have%20enough%20credit.%0A%20%20%20%20%20%20%20%20detail%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20A%20human-readable%20explanation%20specific%20to%20this%20occurrence%20of%20the%0A%20%20%20%20%20%20%20%20%20%20%20%20problem%0A%20%20%20%20%20%20%20%20%20%20example%3A%20Your%20current%20balance%20is%2030%2C%20but%20that%20costs%2050.%0A%20%20%20%20%20%20%20%20instance%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20string%0A%20%20%20%20%20%20%20%20%20%20description%3A%20%3E-%0A%20%20%20%20%20%20%20%20%20%20%20%20A%20URI%20reference%20that%20identifies%20the%20specific%20occurrence%20of%20the%0A%20%20%20%20%20%20%20%20%20%20%20%20problem%0A%20%20%20%20%20%20%20%20%20%20example%3A%20%2Faccount%2F12345%2Fmsgs%2Fabc%0A%20%20%20%20%20%20%20%20status%3A%0A%20%20%20%20%20%20%20%20%20%20type%3A%20integer%0A%20%20%20%20%20%20%20%20%20%20description%3A%20The%20HTTP%20status%20code%0A%20%20%20%20%20%20%20%20%20%20example%3A%20400%0A
+openapi: 3.1.0
+info:
+  title: APIs.io Search API 123
+  description: >-
+    This is the API to access APIs.io API search engine, from the product
+    management perspective.
+  version: 0.1.0
+  contact:
+    name: Kin Lane
+    email: info@apievangelist.com
+servers:
+  - url: https://search-api.apis.io/
+tags:
+  - name: Search
+    description: Search using a cloud search engine.
+  - name: APIs
+    description: Index of HTTP application programming interfaces.
+paths:
+  /search/apis:
+    get:
+      operationId: searchAPIs
+      summary: Search APIs
+      description: Searching across all APIs by keyword or phrase.
+      parameters:
+        - $ref: '#/components/parameters/Search'
+        - $ref: '#/components/parameters/Limit'
+        - $ref: '#/components/parameters/Page'
+      tags:
+        - Search
+        - APIs
+      responses:
+        '200':
+          description: A successful search.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Search'
+              examples:
+                AddAPIResponse:
+                  $ref: '#/components/examples/SearchResponse'
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '403':
+          $ref: '#/components/responses/Forbidden'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '429':
+          $ref: '#/components/responses/TooManyRequests'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+    post:
+      summary: Submit API
+      description: Submit a valid APIs.json to be included in APIs.io.
+      operationId: addAPI
+      tags:
+        - Search
+      requestBody:
+        description: A valid APIs.json to add API.
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/APIsJSON'
+            examples:
+              AddAPIRequest:
+                $ref: '#/components/examples/AddAPIRequest'
+      responses:
+        '201':
+          description: Successful adding of an API.
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/APIsJSON'
+              examples:
+                AddAPIResponse:
+                  $ref: '#/components/examples/AddAPIResponse'
+        '400':
+          $ref: '#/components/responses/BadRequest'
+        '401':
+          $ref: '#/components/responses/Unauthorized'
+        '403':
+          $ref: '#/components/responses/Forbidden'
+        '404':
+          $ref: '#/components/responses/NotFound'
+        '429':
+          $ref: '#/components/responses/TooManyRequests'
+        '500':
+          $ref: '#/components/responses/InternalServerError'
+components:
+  examples:
+    AddAPIRequest:
+      summary: An example of adding an API.
+      value:
+        aid: apis.json
+        name: Example API
+        type: Index
+        description: |-
+          This is an example APIs.json file, demonstrating what is possible with
+          the API discovery specification.
+        image: >-
+          https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+        tags:
+          - Application Programming Interface
+          - API
+        created: '2024-05-22'
+        modified: '2024-05-22'
+        url: http://example.com/apis.json
+        specificationVersion: '0.18'
+        apis:
+          - aid: apis.json:example-api
+            name: Example API
+            description: >-
+              This provides details about a specific API, telling what is
+              possible.
+            image: >-
+              https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+            humanURL: http://example.com
+            baseURL: http://api.example.com
+            tags:
+              - API
+              - Application Programming Interface
+            properties:
+              - type: Documentation
+                url: https://example.com/documentation
+              - type: OpenAPI
+                url: http://example.com/openapi.yml
+        common:
+          - type: Signup
+            url: https://example.com/signup
+          - type: Login
+            url: https://example.com/login
+          - type: Authentication
+            url: http://example.com/authentication
+        maintainers:
+          - FN: Kin Lane
+            X-twitter: apievangelist
+            email: info@apievangelist.com
+    AddAPIResponse:
+      summary: A successful add API response.
+      value:
+        response: The API has been added to the APIs.io index.
+        url: >-
+          https://github.com/apis-json/artisanal/tree/main/_apis/example-api/apis.md?plain=1
+        issue: https://github.com/apis-json/artisanal/issues/undefined
+    SearchResponse:
+      summary: A successful search response.
+      value:
+        meta:
+          search: AI
+          limit: 50
+          page: 0
+          totalPages: 20
+        data:
+          - name: AssemblyAI API
+            description: >-
+              Built by AI experts, AssemblyAI’s Speech AI models include
+              accurate speech-to-text for voice data (such as calls, virtual
+              meetings, and podcasts), speaker detection, sentiment analysis,
+              chapter detection, PII redaction, and more.
+            searchUrl: https://ai.apis.io/apis/assemblyai/apis/
+            apiUrl: https://www.assemblyai.com/docs/
+            indexUrl: >-
+              https://raw.githubusercontent.com/api-search/artificial-intelligence/main/_apis_/assemblyai/apis.md
+            score: 546
+            tags:
+              - Artificial Intelligence
+              - AI
+        links:
+          self: /search/apis/?search=&page=0&limit=50
+          next: /search/apis/?search=&page=01&limit=50
+          last: /search/apis/?search=&page=20&limit=50
+  parameters:
+    Search:
+      name: search
+      description: The keyword to search by.
+      in: query
+      required: false
+      schema:
+        type: string
+    Limit:
+      name: limit
+      description: The limit of the results.
+      in: query
+      required: false
+      schema:
+        type: string
+    Page:
+      name: page
+      description: The page of the results.
+      in: query
+      required: false
+      schema:
+        type: string
+  responses:
+    BadRequest:
+      description: Bad Request
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/bad-request
+            title: Bad Request
+            status: 400
+            detail: The request is invalid or missing required parameters.
+    Conflict:
+      description: Conflict
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/conflict
+            title: Conflict
+            status: 409
+            detail: There is a conflict with an existing resource.
+    Forbidden:
+      description: Forbidden
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/forbidden
+            title: Forbidden
+            status: 403
+            detail: Access is forbidden with the provided credentials.
+    InternalServerError:
+      description: Internal Server Error
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/internal-server-error
+            title: Internal Server Error
+            status: 500
+            detail: An unexpected error occurred.
+    NotFound:
+      description: Not Found
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/not-found
+            title: Not Found
+            status: 404
+            detail: The requested resource was not found.
+    TooManyRequests:
+      description: Too Many Requests
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/too-many-requests
+            title: Too Many Requests
+            status: 429
+            detail: You have exceeded the rate limit.
+    Unauthorized:
+      description: Unauthorized
+      content:
+        application/problem+json:
+          schema:
+            $ref: '#/components/schemas/Problem'
+          example:
+            type: https://example.com/errors/unauthorized
+            title: Unauthorized
+            status: 401
+            detail: You do not have the necessary permissions.
+  securitySchemes:
+    api_key:
+      type: apiKey
+      name: x-api-key
+      in: header
+  schemas:
+    Search:
+      type: object
+      description: An JSON API object with metadata, data, and links.
+      properties:
+        meta:
+          $ref: '#/components/schemas/Meta'
+        data:
+          $ref: '#/components/schemas/APIs'
+        links:
+          $ref: '#/components/schemas/Link'
+      required:
+        - meta
+        - data
+        - links
+    Meta:
+      type: object
+      properties:
+        search:
+          type: string
+        type:
+          type: string
+        limit:
+          type: integer
+        page:
+          type: integer
+        totalPages:
+          type: integer
+      required:
+        - totalPages
+        - page
+        - limit
+    Link:
+      type: object
+      properties:
+        self:
+          type: string
+        first:
+          type: string
+        prev:
+          type: string
+        next:
+          type: string
+        last:
+          type: string
+      required:
+        - self
+    AddAPIsJSON:
+      type: object
+      required:
+        - url
+      properties:
+        url:
+          type: string
+          description: URL where the apis.json file will live
+          pattern: ^(http)|(https)://(.*)$
+    APIsJSON:
+      type: object
+      required:
+        - name
+        - description
+        - url
+      properties:
+        name:
+          type: string
+          description: The name of the service described
+          minLength: 5
+        description:
+          type: string
+          description: Description of the service
+          minLength: 5
+        url:
+          type: string
+          description: URL where the apis.json file will live
+          pattern: ^(http)|(https)://(.*)$
+        image:
+          type: string
+          description: Image to represent the API
+        created:
+          type: string
+          format: date
+          description: Date when the file was created
+        modified:
+          type: string
+          format: date
+          description: Date when the file was modified
+        specificationVersion:
+          type: string
+          description: APIs.json spec version, latest is 0.18
+          enum:
+            - 0.18
+            - 0.17
+            - 0.16
+            - 0.15
+            - 0.14
+        apis:
+          type: array
+          items:
+            $ref: '#/components/schemas/API'
+          description: All the APIs of this service
+        maintainers:
+          type: array
+          items:
+            $ref: '#/components/schemas/Maintainer'
+          description: Maintainers of the apis.json file
+        tags:
+          type: array
+          items:
+            $ref: '#/components/schemas/Tag'
+          description: Tags to describe the service
+        include:
+          type: array
+          items:
+            $ref: '#/components/schemas/Include'
+          description: Links to other apis.json definitions included in this service.
+    APIs:
+      type: array
+      description: Listing of APIs in the APIs.json format.
+      items:
+        $ref: '#/components/schemas/API'
+    API:
+      description: The description of the API
+      required:
+        - name
+        - description
+        - image
+        - baseURL
+        - humanURL
+        - properties
+        - contact
+      properties:
+        name:
+          type: string
+          description: name
+          minLength: 5
+        description:
+          type: string
+          description: description of the API
+          minLength: 5
+        image:
+          type: string
+          description: URL of an image representing the API
+        baseURL:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+          description: baseURL
+        humanURL:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+          description: humanURL
+        tags:
+          type: array
+          items:
+            type: string
+            minLength: 1
+          description: tags to describe the API
+        properties:
+          type: array
+          items:
+            $ref: '#/components/schemas/Property'
+          description: URLs
+        contact:
+          type: array
+          items:
+            $ref: '#/components/schemas/Contact'
+          description: Contact to reach if questions about API
+        meta:
+          type: array
+          items:
+            $ref: '#/components/schemas/metaInformation'
+    Maintainer:
+      description: The person or organization responsible for maintaining the API.
+      required:
+        - name
+      properties:
+        name:
+          type: string
+          description: name
+          minLength: 5
+      additionalProperties:
+        type: string
+    metaInformation:
+      description: Metadata about the API
+      required:
+        - key
+        - value
+      properties:
+        key:
+          type: string
+        value:
+          type: string
+    Contact:
+      description: Information on contacting the API support
+      required:
+        - FN
+      properties:
+        FN:
+          type: string
+          minLength: 1
+        email:
+          type: string
+          format: email
+        organizationName:
+          type: string
+          minLength: 1
+        adr:
+          type: string
+        tel:
+          type: string
+          minLength: 1
+        X-github:
+          type: string
+        photo:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+        vCard:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+        url:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+    Property:
+      description: A representation of a URL
+      required:
+        - type
+        - url
+      properties:
+        type:
+          type: string
+          pattern: >-
+            ^(Swagger)$|^(RAML)$|^(Blueprint)$|^(WADL)$|^(WSDL)$|^(TermsOfService)$|^(InterfaceLicense)$|^(StatusPage)$|^(Pricing)$|^(Forums)$|^(AlertsTwitterHandle)$|^(X-[A-Za-z0-9\-]*)$
+          enum:
+            - Swagger
+            - RAML
+            - Blueprint
+            - WADL
+            - WSDL
+            - TersmOfService
+            - InterfaceLicense
+            - StatusPage
+            - Pricing
+            - Forums
+        url:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+    Tag:
+      description: A consistent set of tag to apply to a description
+    Include:
+      description: Include other APIs.json file
+      required:
+        - name
+        - url
+      properties:
+        name:
+          type: string
+          minLength: 1
+        url:
+          type: string
+          pattern: ^(http)|(https)://(.*)$
+    Problem:
+      xml:
+        name: problem
+        namespace: urn:ietf:rfc:7807
+      properties:
+        type:
+          type: string
+          description: A URI reference that identifies the problem type
+          example: https://example.com/probs/out-of-credit
+        title:
+          type: string
+          description: A short, human-readable summary of the problem type
+          example: You do not have enough credit.
+        detail:
+          type: string
+          description: >-
+            A human-readable explanation specific to this occurrence of the
+            problem
+          example: Your current balance is 30, but that costs 50.
+        instance:
+          type: string
+          description: >-
+            A URI reference that identifies the specific occurrence of the
+            problem
+          example: /account/12345/msgs/abc
+        status:
+          type: integer
+          description: The HTTP status code
+          example: 400
