@@ -74,7 +74,7 @@ exports.handler = vandium.generic()
             const valid = validate(apisjson);              
 
             // Valid
-            if(valid){
+            //if(valid){
 
               var api_name = apisjson.name;
               var api_slug = slugify(api_name);
@@ -82,7 +82,7 @@ exports.handler = vandium.generic()
               apisjson.created = created;
               apisjson.modified = created;
               
-              var path = '/repos/apis-json/artisanal/contents/_apis/' + api_slug + '/apis.md';
+              var path = '/repos/api-search/inbox/contents/_apis/' + api_slug + '/apis.md';
               const options = {
                   hostname: 'api.github.com',
                   method: 'GET',
@@ -126,7 +126,7 @@ exports.handler = vandium.generic()
                     m.content = btoa(api_yaml);
 
                     // Check from github
-                    var path = '/repos/apis-json/artisanal/contents/_apis/' + api_slug + '/apis.md';          
+                    var path = '/repos/api-search/inbox/contents/_apis/' + api_slug + '/apis.md';          
                     const options = {
                         hostname: 'api.github.com',
                         method: 'PUT',
@@ -158,7 +158,7 @@ exports.handler = vandium.generic()
                           m.labels = ['new'];
 
                           // Check from github
-                          var path = '/repos/apis-json/artisanal/issues';          
+                          var path = '/repos/api-search/inbox/issues';          
                           const options_issues = {
                               hostname: 'api.github.com',
                               method: 'POST',
@@ -187,8 +187,8 @@ exports.handler = vandium.generic()
                               // Publish to Github  
                               var response = {};
                               response['response'] = "The API has been added to the APIs.io index.";            
-                              response['url'] = 'https://github.com/apis-json/artisanal/tree/main/_apis/' + api_slug + '/apis.md?plain=1'; 
-                              response['issue'] = 'https://github.com/apis-json/artisanal/issues/' + issue.number;                      
+                              response['url'] = 'https://github.com/api-search/inbox/tree/main/_apis/' + api_slug + '/apis.md?plain=1'; 
+                              response['issue'] = 'https://github.com/api-search/inbox/issues/' + issue.number;                      
                               //response['body'] = body_issues;
                               //response['options'] = options_issues;
                               //response['issue'] = issue;
@@ -240,12 +240,12 @@ exports.handler = vandium.generic()
 
                 });                                
                 
-              }
-              else{
-                var response = {};
-                response['response'] = valid;            
-                callback( null, response );                   
-              }            
+              //}
+              //else{
+              //  var response = {};
+              //  response['response'] = valid;            
+              //  callback( null, response );                   
+              //}            
 
             });
           }).on('error', err => {
