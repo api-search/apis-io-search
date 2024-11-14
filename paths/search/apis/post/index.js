@@ -80,12 +80,20 @@ exports.handler = vandium.generic()
               var api_slug = slugify(api_name);
 
               apisjson.created = created;
-              apisjson.modified = created;
-              
-              var path = '/repos/api-search/inbox/contents/_apis/' + api_slug + '/apis.md';
-              const options = {
+              apisjson.modified = created;            
+
+              // Success - Issue
+              var m = {};
+              m.title = api_name;
+              m.body = 'This is an issue submitted when ' + api_name + ' was added to the APIs.io search submission form or via the API, and can be used to engage with the platform and community around the listing in the index.';
+              m.assignees = ['kinlane'];
+              m.labels = ['new'];
+
+              // Check from github
+              var path = '/repos/api-search/inbox/issues';          
+              const options_issues = {
                   hostname: 'api.github.com',
-                  method: 'GET',
+                  method: 'POST',
                   path: path,
                   headers: {
                     "Accept": "application/vnd.github+json",
@@ -95,164 +103,59 @@ exports.handler = vandium.generic()
                 }
               };
 
-              https.get(options, (res) => {
+              //console.log(options_issues);
 
-                  var body = '';
+              var req = https.request(options_issues, (res) => {
+
+                  let body_issues = '';
                   res.on('data', (chunk) => {
-                      body += chunk;
+                    body_issues += chunk;
                   });
-
+      
                   res.on('end', () => {
 
-                    var github_results = JSON.parse(body);
+                  var issue = JSON.parse(body_issues);
 
-                    var sha = '';
-                    if(github_results.sha){
-                      sha = github_results.sha;
-                    }
+                  // Publish to Github  
+                  var response = {};
+                  response['response'] = "The API has been added to the APIs.io index.";            
+                  response['url'] = 'https://github.com/api-search/inbox/tree/main/_apis/' + api_slug + '/apis.md?plain=1'; 
+                  response['issue'] = 'https://github.com/api-search/inbox/issues/' + issue.number;                      
+                  //response['body'] = body_issues;
+                  //response['options'] = options_issues;
+                  //response['issue'] = issue;
+                  callback( null, response );                          
 
-                    var api_yaml = '---\r\n' + yaml.dump(apisjson) + '---';
-
-                    var c = {};
-                    c.name = "Kin Lane";
-                    c.email = "kinlane@gmail.com";
-
-                    var m = {};
-                    m.message = 'Publishing APIs.json';
-                    m.committer = c;
-                    if(sha!=''){
-                      m.sha = sha;
-                    }
-                    m.content = btoa(api_yaml);
-
-                    // Check from github
-                    var path = '/repos/api-search/inbox/contents/_apis/' + api_slug + '/apis.md';          
-                    const options = {
-                        hostname: 'api.github.com',
-                        method: 'PUT',
-                        path: path,
-                        headers: {
-                          "Accept": "application/vnd.github+json",
-                          "User-Agent": "apis-io-search",
-                          "X-GitHub-Api-Version": "2022-11-28",
-                          "Authorization": 'Bearer ' + process.env.gtoken
-                      }
-                    };
-
-                    //console.log(options);
-
-                    var req = https.request(options, (res) => {
-
-                        let body = '';
-                        res.on('data', (chunk) => {
-                            body += chunk;
-                        });
-            
-                        res.on('end', () => {
-
-                          // Success - Issue
-                          var m = {};
-                          m.title = api_name;
-                          m.body = 'This is an issue submitted when ' + api_name + ' was added to the APIs.io search submission form or via the API, and can be used to engage with the platform and community around the listing in the index.';
-                          m.assignees = ['kinlane'];
-                          m.labels = ['new'];
-
-                          // Check from github
-                          var path = '/repos/api-search/inbox/issues';          
-                          const options_issues = {
-                              hostname: 'api.github.com',
-                              method: 'POST',
-                              path: path,
-                              headers: {
-                                "Accept": "application/vnd.github+json",
-                                "User-Agent": "apis-io-search",
-                                "X-GitHub-Api-Version": "2022-11-28",
-                                "Authorization": 'Bearer ' + process.env.gtoken
-                            }
-                          };
-      
-                          //console.log(options_issues);
-      
-                          var req = https.request(options_issues, (res) => {
-      
-                              let body_issues = '';
-                              res.on('data', (chunk) => {
-                                body_issues += chunk;
-                              });
-                  
-                              res.on('end', () => {
-
-                              var issue = JSON.parse(body_issues);
-      
-                              // Publish to Github  
-                              var response = {};
-                              response['response'] = "The API has been added to the APIs.io index.";            
-                              response['url'] = 'https://github.com/api-search/inbox/tree/main/_apis/' + api_slug + '/apis.md?plain=1'; 
-                              response['issue'] = 'https://github.com/api-search/inbox/issues/' + issue.number;                      
-                              //response['body'] = body_issues;
-                              //response['options'] = options_issues;
-                              //response['issue'] = issue;
-                              callback( null, response );                          
-      
-                              });
-      
-                              res.on('error', () => {
-      
-                                var response = {};
-                                response['pulling'] = "Error writing to GitHub.";            
-                                callback( null, response );  
-                                connection.end();
-      
-                              });
-      
-                          });
-        
-                          req.write(JSON.stringify(m));
-                          req.end();                           
-
-                        // Success - Issue                                                 
-
-                        });
-
-                        res.on('error', () => {
-
-                          var response = {};
-                          response['pulling'] = "Error writing to GitHub.";            
-                          callback( null, response );  
-                          connection.end();
-
-                        });
-
-                    });
-
-                  req.write(JSON.stringify(m));
-                  req.end();   
-
-                  });              
+                  });
 
                   res.on('error', () => {
 
                     var response = {};
-                    response['pulling'] = "Error reading from GitHub.";            
+                    response['pulling'] = "Error writing to GitHub.";            
                     callback( null, response );  
                     connection.end();
+
                   });
 
-                });                                
-                
-              //}
-              //else{
-              //  var response = {};
-              //  response['response'] = valid;            
-              //  callback( null, response );                   
-              //}            
+              });
+
+              req.write(JSON.stringify(m));
+              req.end();                           
+
+            // Success - Issue                                                 
 
             });
-          }).on('error', err => {
-            callback( null, err )
-          });    
-          
-          // End Pull
+
+            res.on('error', () => {
+
+              var response = {};
+              response['pulling'] = "Error writing to GitHub.";            
+              callback( null, response );  
+              connection.end();
+
+            });
+
+        });           
           
       }  
     else{
