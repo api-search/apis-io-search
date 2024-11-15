@@ -1,7 +1,7 @@
-aid: apis-io
+aid: apis-io-search
 url: https://github.com/api-search/search-api/blob/main/apis.yml
 apis:
-  - aid: apis-io:search-api
+  - aid: apis-io-search:search-api
     name: APIs.io Search API
     tags:
       - APIs
