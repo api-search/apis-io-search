@@ -23,7 +23,7 @@ apis:
         type: GitHubActions
       - url: https://developer.apis.io/documentation/
         type: Documentation
-      - url: https://github.com/api-search/search-api/blob/main/openapi.yml
+      - url: properties/openapi.yml
         type: OpenAPI
       - url: >-
           https://www.postman.com/api-evangelist/apis-io-api-search-engine/collection/hn8xpmd/apis-io-search-api
