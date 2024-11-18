@@ -1,4 +1,4 @@
-executed: '2024-10-31T22:15:14.047Z'
+executed: '2024-11-18T00:48:26.104Z'
 results:
   - code: openapi-external-docs-error
     message: OpenAPI MUST Have External Documentation
@@ -73,7 +73,7 @@ results:
         character: 15
       end:
         line: 5
-        character: 27
+        character: 11
   - code: openapi-info-version-info
     message: Info Has Version
     path:
