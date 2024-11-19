@@ -1,3 +1,4 @@
+aid: apis-io-search
 url: https://github.com/api-search/search-api/blob/main/apis.yml
 apis:
   - aid: apis-io-search:search-api
@@ -22,7 +23,7 @@ apis:
         type: GitHubActions
       - url: https://developer.apis.io/documentation/
         type: Documentation
-      - url: properties/openapi.yml
+      - url: https://github.com/api-search/search-api/blob/main/openapi.yml
         type: OpenAPI
       - url: >-
           https://www.postman.com/api-evangelist/apis-io-api-search-engine/collection/hn8xpmd/apis-io-search-api
@@ -56,7 +57,7 @@ tags:
   - APIs
   - Search Engine
   - Directory
-type: Contract
+type: Index
 image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
 access: 1st-Party
 common:
@@ -125,15 +126,13 @@ common:
   - url: https://api-evangelist-tools.github.io/apis-io-search-api-api-validator/
     type: APIValidation
 created: '2024-08-20'
-modified: '2024-11-16'
+modified: '2024-11-18'
 position: Producer
-﻿aid: apis-io-search
 description: >-
-  This is the contract for the APIs.io search API, allowing for programmatic
-  search of the APIs in the index.
+  This is the API contract for the APIs.io API search API, which provides a
+  manifest of the business and technical details for the API. 
 maintainers:
   - FN: Kin Lane
     email: info@apievangelist.com
     X-github: kinlane
 specificationVersion: '0.18'
-aid: apis-io-search-api
