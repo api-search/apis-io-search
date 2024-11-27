@@ -59,6 +59,7 @@ tags:
   - Directory
 type: Index
 image: https://kinlane-productions2.s3.amazonaws.com/apis-io/apis-io-api-logo.jpg
+access: 1st-Party
 common:
   - url: https://github.com/api-evangelist/
     type: GitHubOrganization
@@ -127,6 +128,7 @@ common:
     type: APIValidation
 created: '2024-08-20'
 modified: '2024-11-26'
+position: Producer
 ﻿aid: apis-io
 description: >-
   This is the contract for the APIs.io search API, allowing for programmatic
@@ -136,5 +138,3 @@ maintainers:
     email: info@apievangelist.com
     X-github: kinlane
 specificationVersion: '0.18'
-position: Consumer
-access: 1st-Party
