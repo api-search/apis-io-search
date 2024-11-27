@@ -1,4 +1,4 @@
-executed: '2024-11-12T01:40:00.903Z'
+executed: '2024-11-27T01:48:36.873Z'
 results:
   - code: apis-json-specification-aid-info
     message: There is an aid.
@@ -11,7 +11,7 @@ results:
         character: 5
       end:
         line: 0
-        character: 12
+        character: 19
   - code: apis-json-url-info
     message: There is a URL.
     path:
@@ -23,7 +23,7 @@ results:
         character: 5
       end:
         line: 1
-        character: 64
+        character: 68
   - code: apis-json-apis-info
     message: Has APIs
     path:
@@ -49,7 +49,7 @@ results:
         character: 9
       end:
         line: 3
-        character: 27
+        character: 34
   - code: apis-json-apis-name-info
     message: Has a Name
     path:
@@ -226,7 +226,7 @@ results:
         character: 13
       end:
         line: 16
-        character: 72
+        character: 76
   - code: apis-json-apis-properties-teams-info
     message: Has a Team Defined
     path:
@@ -258,7 +258,7 @@ results:
         character: 13
       end:
         line: 18
-        character: 53
+        character: 57
   - code: apis-json-apis-properties-github-repository-info
     message: Has a GitHub Repository
     path:
@@ -290,7 +290,7 @@ results:
         character: 13
       end:
         line: 21
-        character: 91
+        character: 95
   - code: apis-json-apis-properties-github-action-info
     message: Has a GitHub Action
     path:
@@ -354,7 +354,7 @@ results:
         character: 13
       end:
         line: 25
-        character: 75
+        character: 79
   - code: apis-json-apis-properties-openapi-info
     message: Has An OpenAPI
     path:
@@ -386,7 +386,7 @@ results:
         character: 13
       end:
         line: 28
-        character: 112
+        character: 116
   - code: apis-json-apis-properties-postman-collection-info
     message: Has a Postman Collection
     path:
@@ -450,7 +450,7 @@ results:
         character: 13
       end:
         line: 34
-        character: 140
+        character: 144
   - code: apis-json-apis-properties-environments-staging-info
     message: Has a Stage Environment
     path:
@@ -482,7 +482,7 @@ results:
         character: 13
       end:
         line: 37
-        character: 140
+        character: 144
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
     path:
@@ -498,7 +498,7 @@ results:
         character: 13
       end:
         line: 39
-        character: 71
+        character: 75
   - code: apis-json-apis-properties-change-log-info
     message: Has Change Log
     path:
@@ -530,7 +530,7 @@ results:
         character: 13
       end:
         line: 41
-        character: 69
+        character: 73
   - code: apis-json-apis-properties-road-map-info
     message: Has a Road Map
     path:
@@ -562,7 +562,7 @@ results:
         character: 13
       end:
         line: 43
-        character: 77
+        character: 81
   - code: apis-json-apis-properties-use-cases-info
     message: Has Use Cases
     path:
@@ -751,10 +751,10 @@ results:
     severity: 2
     range:
       start:
-        line: 61
+        line: 62
         character: 7
       end:
-        line: 125
+        line: 127
         character: 23
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -765,11 +765,11 @@ results:
     severity: 2
     range:
       start:
-        line: 62
+        line: 63
         character: 9
       end:
-        line: 62
-        character: 39
+        line: 63
+        character: 43
   - code: apis-json-apis-properties-github-organization-info
     message: Has a GitHub Organization
     path:
@@ -779,10 +779,10 @@ results:
     severity: 2
     range:
       start:
-        line: 63
+        line: 64
         character: 10
       end:
-        line: 63
+        line: 64
         character: 28
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -793,11 +793,11 @@ results:
     severity: 2
     range:
       start:
-        line: 64
+        line: 65
         character: 9
       end:
-        line: 64
-        character: 82
+        line: 66
+        character: 83
   - code: apis-json-apis-properties-postman-public-workspace-info
     message: Has Public Postman Workspace
     path:
@@ -807,10 +807,10 @@ results:
     severity: 2
     range:
       start:
-        line: 65
+        line: 67
         character: 10
       end:
-        line: 65
+        line: 67
         character: 32
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -821,10 +821,10 @@ results:
     severity: 2
     range:
       start:
-        line: 66
+        line: 68
         character: 9
       end:
-        line: 66
+        line: 68
         character: 34
   - code: apis-json-apis-properties-portal-info
     message: Has Developer Portal
@@ -835,10 +835,10 @@ results:
     severity: 2
     range:
       start:
-        line: 67
+        line: 69
         character: 10
       end:
-        line: 67
+        line: 69
         character: 17
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -849,10 +849,10 @@ results:
     severity: 2
     range:
       start:
-        line: 68
+        line: 70
         character: 9
       end:
-        line: 68
+        line: 70
         character: 51
   - code: apis-json-apis-properties-getting-started-info
     message: Has Getting Started
@@ -863,10 +863,10 @@ results:
     severity: 2
     range:
       start:
-        line: 69
+        line: 71
         character: 10
       end:
-        line: 69
+        line: 71
         character: 24
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -877,10 +877,10 @@ results:
     severity: 2
     range:
       start:
-        line: 70
+        line: 72
         character: 9
       end:
-        line: 70
+        line: 72
         character: 41
   - code: apis-json-apis-properties-plans-info
     message: Has API Plans
@@ -891,10 +891,10 @@ results:
     severity: 2
     range:
       start:
-        line: 71
+        line: 73
         character: 10
       end:
-        line: 71
+        line: 73
         character: 15
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -905,10 +905,10 @@ results:
     severity: 2
     range:
       start:
-        line: 72
+        line: 74
         character: 9
       end:
-        line: 72
+        line: 74
         character: 50
   - code: apis-json-apis-properties-authentication-info
     message: Has Authentication
@@ -919,10 +919,10 @@ results:
     severity: 2
     range:
       start:
-        line: 73
+        line: 75
         character: 10
       end:
-        line: 73
+        line: 75
         character: 24
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -933,10 +933,10 @@ results:
     severity: 2
     range:
       start:
-        line: 74
+        line: 76
         character: 9
       end:
-        line: 74
+        line: 76
         character: 44
   - code: apis-json-apis-properties-road-map-info
     message: Has a Road Map
@@ -947,10 +947,10 @@ results:
     severity: 2
     range:
       start:
-        line: 75
+        line: 77
         character: 10
       end:
-        line: 75
+        line: 77
         character: 17
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -961,10 +961,10 @@ results:
     severity: 2
     range:
       start:
-        line: 76
+        line: 78
         character: 9
       end:
-        line: 76
+        line: 78
         character: 46
   - code: apis-json-apis-properties-change-log-info
     message: Has Change Log
@@ -975,10 +975,10 @@ results:
     severity: 2
     range:
       start:
-        line: 77
+        line: 79
         character: 10
       end:
-        line: 77
+        line: 79
         character: 19
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -989,10 +989,10 @@ results:
     severity: 2
     range:
       start:
-        line: 78
+        line: 80
         character: 9
       end:
-        line: 78
+        line: 80
         character: 46
   - code: apis-json-apis-properties-versioning-info
     message: Has Versioning for API
@@ -1003,10 +1003,10 @@ results:
     severity: 2
     range:
       start:
-        line: 79
+        line: 81
         character: 10
       end:
-        line: 79
+        line: 81
         character: 20
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1017,10 +1017,10 @@ results:
     severity: 2
     range:
       start:
-        line: 80
+        line: 82
         character: 9
       end:
-        line: 80
+        line: 82
         character: 40
   - code: apis-json-apis-properties-sdk-info
     message: Has SDK
@@ -1031,10 +1031,10 @@ results:
     severity: 2
     range:
       start:
-        line: 81
+        line: 83
         character: 10
       end:
-        line: 81
+        line: 83
         character: 14
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1045,10 +1045,10 @@ results:
     severity: 2
     range:
       start:
-        line: 82
+        line: 84
         character: 9
       end:
-        line: 82
+        line: 84
         character: 40
   - code: apis-json-apis-properties-blog-info
     message: Has a Blog
@@ -1059,10 +1059,10 @@ results:
     severity: 2
     range:
       start:
-        line: 83
+        line: 85
         character: 10
       end:
-        line: 83
+        line: 85
         character: 15
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1073,10 +1073,10 @@ results:
     severity: 2
     range:
       start:
-        line: 84
+        line: 86
         character: 9
       end:
-        line: 84
+        line: 86
         character: 43
   - code: apis-json-apis-properties-blog-feed-info
     message: Has a Blog Feed
@@ -1087,10 +1087,10 @@ results:
     severity: 2
     range:
       start:
-        line: 85
+        line: 87
         character: 10
       end:
-        line: 85
+        line: 87
         character: 19
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1101,10 +1101,10 @@ results:
     severity: 2
     range:
       start:
-        line: 86
+        line: 88
         character: 9
       end:
-        line: 86
+        line: 88
         character: 42
   - code: apis-json-apis-properties-video-info
     message: Has Videos for API
@@ -1115,10 +1115,10 @@ results:
     severity: 2
     range:
       start:
-        line: 87
+        line: 89
         character: 10
       end:
-        line: 87
+        line: 89
         character: 16
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1129,10 +1129,10 @@ results:
     severity: 2
     range:
       start:
-        line: 88
+        line: 90
         character: 9
       end:
-        line: 88
+        line: 90
         character: 43
   - code: apis-json-apis-properties-support-support-info
     message: Has Support Page
@@ -1143,10 +1143,10 @@ results:
     severity: 2
     range:
       start:
-        line: 89
+        line: 91
         character: 10
       end:
-        line: 89
+        line: 91
         character: 17
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1157,11 +1157,11 @@ results:
     severity: 2
     range:
       start:
-        line: 90
+        line: 92
         character: 9
       end:
-        line: 90
-        character: 55
+        line: 92
+        character: 59
   - code: apis-json-apis-properties-forum-info
     message: Has Discussion Forum
     path:
@@ -1171,10 +1171,10 @@ results:
     severity: 2
     range:
       start:
-        line: 91
+        line: 93
         character: 10
       end:
-        line: 91
+        line: 93
         character: 16
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1185,11 +1185,11 @@ results:
     severity: 2
     range:
       start:
-        line: 92
+        line: 94
         character: 9
       end:
-        line: 93
-        character: 92
+        line: 95
+        character: 96
   - code: apis-json-apis-properties-support-issues-info
     message: Has Support Issues URL
     path:
@@ -1199,10 +1199,10 @@ results:
     severity: 2
     range:
       start:
-        line: 94
+        line: 96
         character: 10
       end:
-        line: 94
+        line: 96
         character: 29
   - code: apis-json-apis-properties-support-email-info
     message: Has Support Email
@@ -1213,10 +1213,10 @@ results:
     severity: 2
     range:
       start:
-        line: 96
+        line: 98
         character: 10
       end:
-        line: 96
+        line: 98
         character: 22
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1227,11 +1227,11 @@ results:
     severity: 2
     range:
       start:
-        line: 97
+        line: 99
         character: 9
       end:
-        line: 98
-        character: 93
+        line: 100
+        character: 97
   - code: apis-json-apis-properties-feedback-issues-info
     message: Has Feedback Issues URL
     path:
@@ -1241,10 +1241,10 @@ results:
     severity: 2
     range:
       start:
-        line: 99
+        line: 101
         character: 10
       end:
-        line: 99
+        line: 101
         character: 30
   - code: apis-json-apis-properties-feedback-email-info
     message: Has Feedback Email
@@ -1255,10 +1255,10 @@ results:
     severity: 2
     range:
       start:
-        line: 101
+        line: 103
         character: 10
       end:
-        line: 101
+        line: 103
         character: 23
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1269,11 +1269,11 @@ results:
     severity: 2
     range:
       start:
-        line: 102
+        line: 104
         character: 9
       end:
-        line: 103
-        character: 93
+        line: 105
+        character: 97
   - code: apis-json-apis-properties-questions-issues-info
     message: Has Questions Issues URL
     path:
@@ -1283,10 +1283,10 @@ results:
     severity: 2
     range:
       start:
-        line: 104
+        line: 106
         character: 10
       end:
-        line: 104
+        line: 106
         character: 31
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1297,11 +1297,11 @@ results:
     severity: 2
     range:
       start:
-        line: 105
+        line: 107
         character: 9
       end:
-        line: 105
-        character: 70
+        line: 107
+        character: 74
   - code: apis-json-apis-properties-policies-info
     message: Has API Governance Policies
     path:
@@ -1311,10 +1311,10 @@ results:
     severity: 2
     range:
       start:
-        line: 106
+        line: 108
         character: 10
       end:
-        line: 106
+        line: 108
         character: 18
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1325,11 +1325,11 @@ results:
     severity: 2
     range:
       start:
-        line: 107
+        line: 109
         character: 9
       end:
-        line: 107
-        character: 76
+        line: 109
+        character: 80
   - code: apis-json-apis-properties-apis-json-rules-info
     message: Has Operational Rules
     path:
@@ -1339,10 +1339,10 @@ results:
     severity: 2
     range:
       start:
-        line: 108
+        line: 110
         character: 10
       end:
-        line: 108
+        line: 110
         character: 26
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1353,11 +1353,11 @@ results:
     severity: 2
     range:
       start:
-        line: 109
+        line: 111
         character: 9
       end:
-        line: 109
-        character: 68
+        line: 111
+        character: 72
   - code: apis-json-apis-properties-openapi-rules-info
     message: Has API Rules
     path:
@@ -1367,10 +1367,10 @@ results:
     severity: 2
     range:
       start:
-        line: 110
+        line: 112
         character: 10
       end:
-        line: 110
+        line: 112
         character: 18
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1381,11 +1381,11 @@ results:
     severity: 2
     range:
       start:
-        line: 111
+        line: 113
         character: 9
       end:
-        line: 111
-        character: 72
+        line: 113
+        character: 76
   - code: apis-json-apis-properties-lifecycle-info
     message: Has an API Lifecycle
     path:
@@ -1395,10 +1395,10 @@ results:
     severity: 2
     range:
       start:
-        line: 112
+        line: 114
         character: 10
       end:
-        line: 112
+        line: 114
         character: 19
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1409,11 +1409,11 @@ results:
     severity: 2
     range:
       start:
-        line: 113
+        line: 115
         character: 9
       end:
-        line: 113
-        character: 74
+        line: 115
+        character: 78
   - code: apis-json-apis-properties-vocabulary-info
     message: Has Vocabulary
     path:
@@ -1423,10 +1423,10 @@ results:
     severity: 2
     range:
       start:
-        line: 114
+        line: 116
         character: 10
       end:
-        line: 114
+        line: 116
         character: 20
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1437,10 +1437,10 @@ results:
     severity: 2
     range:
       start:
-        line: 115
+        line: 117
         character: 9
       end:
-        line: 115
+        line: 117
         character: 52
   - code: apis-json-apis-properties-terms-of-service-info
     message: Has an API Terms of Service
@@ -1451,10 +1451,10 @@ results:
     severity: 2
     range:
       start:
-        line: 116
+        line: 118
         character: 10
       end:
-        line: 116
+        line: 118
         character: 24
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1465,10 +1465,10 @@ results:
     severity: 2
     range:
       start:
-        line: 117
+        line: 119
         character: 9
       end:
-        line: 117
+        line: 119
         character: 50
   - code: apis-json-apis-properties-privacy-policy-info
     message: Has an API Privacy Policy
@@ -1479,10 +1479,10 @@ results:
     severity: 2
     range:
       start:
-        line: 118
+        line: 120
         character: 10
       end:
-        line: 118
+        line: 120
         character: 23
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1493,10 +1493,10 @@ results:
     severity: 2
     range:
       start:
-        line: 119
+        line: 121
         character: 9
       end:
-        line: 119
+        line: 121
         character: 45
   - code: apis-json-apis-properties-license-info
     message: Has Interface License
@@ -1507,10 +1507,10 @@ results:
     severity: 2
     range:
       start:
-        line: 120
+        line: 122
         character: 10
       end:
-        line: 120
+        line: 122
         character: 26
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1521,10 +1521,10 @@ results:
     severity: 2
     range:
       start:
-        line: 121
+        line: 123
         character: 9
       end:
-        line: 122
+        line: 124
         character: 86
   - code: apis-json-apis-properties-apis-json-validator-info
     message: Has APIs.json (Business) Validator
@@ -1535,10 +1535,10 @@ results:
     severity: 2
     range:
       start:
-        line: 123
+        line: 125
         character: 10
       end:
-        line: 123
+        line: 125
         character: 31
   - code: apis-json-apis-properties-url-info
     message: Property URLs Are Valid
@@ -1549,10 +1549,10 @@ results:
     severity: 2
     range:
       start:
-        line: 124
+        line: 126
         character: 9
       end:
-        line: 124
+        line: 126
         character: 81
   - code: apis-json-apis-properties-openapi-validator-info
     message: Has OpenAPI (Technical) Validator
@@ -1563,10 +1563,10 @@ results:
     severity: 2
     range:
       start:
-        line: 125
+        line: 127
         character: 10
       end:
-        line: 125
+        line: 127
         character: 23
   - code: apis-json-created-info
     message: There is a created date.
@@ -1575,10 +1575,10 @@ results:
     severity: 2
     range:
       start:
-        line: 126
+        line: 128
         character: 9
       end:
-        line: 126
+        line: 128
         character: 21
   - code: apis-json-modified-info
     message: There is a modified date.
@@ -1587,10 +1587,10 @@ results:
     severity: 2
     range:
       start:
-        line: 127
+        line: 129
         character: 10
       end:
-        line: 127
+        line: 129
         character: 22
   - code: apis-json-description-info
     message: There is a description.
@@ -1599,11 +1599,11 @@ results:
     severity: 2
     range:
       start:
-        line: 128
+        line: 132
         character: 13
       end:
-        line: 146
-        character: 65
+        line: 134
+        character: 34
   - code: apis-json-maintainers-info
     message: There is a maintainer object.
     path:
@@ -1611,10 +1611,10 @@ results:
     severity: 2
     range:
       start:
-        line: 147
+        line: 135
         character: 12
       end:
-        line: 150
+        line: 138
         character: 21
   - code: apis-json-maintainers-fn-info
     message: There is a FN property for maintainers.
@@ -1625,10 +1625,10 @@ results:
     severity: 2
     range:
       start:
-        line: 148
+        line: 136
         character: 8
       end:
-        line: 148
+        line: 136
         character: 16
   - code: apis-json-maintainers-email-info
     message: There is a email property for maintainers.
@@ -1639,10 +1639,10 @@ results:
     severity: 2
     range:
       start:
-        line: 149
+        line: 137
         character: 11
       end:
-        line: 149
+        line: 137
         character: 33
   - code: apis-json-specification-version-info
     message: There is a specification version.
@@ -1651,8 +1651,8 @@ results:
     severity: 2
     range:
       start:
-        line: 151
+        line: 139
         character: 22
       end:
-        line: 151
+        line: 139
         character: 28
