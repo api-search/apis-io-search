@@ -128,7 +128,7 @@ common:
     type: APIValidation
 created: '2024-08-20'
 modified: '2024-11-26'
-position: Producer
+position: Producing
 ﻿aid: apis-io
 description: >-
   This is the contract for the APIs.io search API, allowing for programmatic
