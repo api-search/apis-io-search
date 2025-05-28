@@ -89,25 +89,44 @@ exports.handler = vandium.generic()
             links.last = '/search/apis/?search=' + search + '&page=' + total_pages + '&limit=' + limit;
       
             let data = [];
-            for (let i = 0; i < results2.length; i++) {
-            
-              let d = {};
-              d.name = results2[i].name;              
-              d.description = results2[i].description;
-              d.searchUrl = results2[i].search_node_url;
-              d.apiUrl = results2[i].human_url;
-              d.indexUrl = results2[i].apis_json_url;
-              d.score = results2[i].score;
+            if(results2.length == 1){
+                  let i = 1;
+                  let d = {};
+                  d.name = results2[i].name;              
+                  d.description = results2[i].description;
+                  d.searchUrl = results2[i].search_node_url;
+                  d.apiUrl = results2[i].human_url;
+                  d.indexUrl = results2[i].apis_json_url;
+                  d.score = results2[i].score;
 
-              if(results2[i].tags){
-                d.tags = results2[i].tags.split(",");
-              }
-              else{
-                d.tags = "";
-              }
-              data.push(d);
-              
+                  if(results2[i].tags){
+                    d.tags = results2[i].tags.split(",");
+                  }
+                  else{
+                    d.tags = "";
+                  }
+                  data.push(d);
             }
+            else
+              {
+              for (let i = 0; i < results2.length; i++) {              
+                  let d = {};
+                  d.name = results2[i].name;              
+                  d.description = results2[i].description;
+                  d.searchUrl = results2[i].search_node_url;
+                  d.apiUrl = results2[i].human_url;
+                  d.indexUrl = results2[i].apis_json_url;
+                  d.score = results2[i].score;
+
+                  if(results2[i].tags){
+                    d.tags = results2[i].tags.split(",");
+                  }
+                  else{
+                    d.tags = "";
+                  }
+                  data.push(d);
+                }
+              }
 
             var sql3 = "INSERT INTO searches(search,api_count) VALUES(" + connection.escape(search) + "," + api_count + ")";
 
